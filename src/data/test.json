@@ -1,0 +1,2007 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Mehnat muhofazasi bu",
+      "options": [
+        "insonning mehnat jarayonidagi xavfsizligi, sihat-salomatligi va uy joyning saqlanishiga qaratilgan tadbirlar",
+        "insonning mehnat jarayonidagi xavfsizligi, sihat-salomatligi va ish qobilyatining saqlanishiga qaratilgan tadbirlar",
+        "insonning mehnat jarayonidagi xavfsizligi, oziq ovqatlar va ish qobilyatining saqlanishiga qaratilgan tadbirlar",
+        "insonning dam olish jarayonidagi xavfsizligi, sihat-salomatligi va ish qobilyatining saqlanishiga qaratilgan tadbirlar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "Mehnatni muhofaza qilish fani necha bo'limdan iborat:",
+      "options": ["4", "5", "7", "6"],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3,
+      "question": "Mehnatni muhofaza qilish qonununing yangi tahriri qachon qabul qilingan",
+      "options": [
+        "1996 yil 4 mart",
+        "2000 yil 24 may",
+        "2016 yil 22 sentyabr",
+        "1998 yil 20 iyn"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "Mehnat muhofazasi deganda nima tushuniladi?",
+      "options": [
+        "Ish vaqti hisobini yuritish tizimi.Ishchilarga haftalaik ish soatlarini taqsimlash, mehnatga haq to'lash",
+        "Ishlab chiqarish samaradorligini oshirish dasturi",
+        "Ishchilarni xavfsiz va sog'lom mehnat sharoitlari bilan ta'minlashga qaratilgan chora-tadbirlar tizimi",
+        "Ishlab chiqarish jarayonini avtomatlashtirish tizimi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "O'zbekiston Respublikasida mehnat muhofazasi qaysi qonun bilan tartibga solinadi?",
+      "options": [
+        "\"Ishlab chiqarish xavfsizligi to'g'risida\"gi Qonun",
+        "\"Mehnat kodeksi\"",
+        "\"Kasaba uyushmalari to'g'risida\"gi Qonun",
+        "\"Ekologiya to'g'risida\"gi Qonun"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "question": "Mehnat muhofazasining asosiy maqsadi nima?",
+      "options": [
+        "Xodimlarning mehnat unumdorligini oshirish",
+        "Mehnatkashlarning hayoti, sog'lig'i va mehnat qobiliyatini saqlash",
+        "Ishlab chiqarish tannarxini kamaytirish, kasallanishni oldini olish",
+        "Mehnat jarayonini soddalashtirish, dam olishni kamaytirish"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Mehnat muhofazasi sohasidagi davlat siyosati kim tomonidan belgilanadi?",
+      "options": [
+        "Xalq deputatlari kengashi",
+        "Kasaba uyushmalari",
+        "O'zbekiston Respublikasi hukumati",
+        "Korxona rahbariyati"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 8,
+      "question": "Mehnat qonunchiligining asosiy prinsipi qaysi?",
+      "options": [
+        "Ishlab chiqarish rentabelligini ta'minlash, dam olishni tashkil etish",
+        "Mehnatga haq to'lashni oshirish, ishchilar mehnatini qo'llab quvvatlamaslik",
+        "Ishlab chiqarishdagi texnik jarayonlarni takomillashtirish",
+        "Xodimlarning huquqlari va sog'lig'ini himoya qilish"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 9,
+      "question": "Mehnat muhofazasiga oid ko'rsatmalarni buzgan ish beruvchiga qanday javobgarlik choralari qo'llaniladi",
+      "options": [
+        "Intizomiy, ma'muriy yoki jinoiy javobgarlik",
+        "Jarima, ishdan mahrum qilish",
+        "Javobgarlik qo'llanilmaydi, ish stavkasi oshiriladi",
+        "Ogohlantirish, jarima to'lamaslik, jinoiy javobgarlik"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 10,
+      "question": "Mehnat muhofazasi bo'yicha nazoratni kim amalga oshiradi?",
+      "options": [
+        "Tibbiyot muassasalari, mehnat muhofazasi bo'limlari",
+        "Xodimlar, oshpaz, kasaba uyushmalari",
+        "Mehnat inspeksiyasi va kasaba uyushmalari",
+        "Ish beruvchi, mehnat inspeksiyasi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 11,
+      "question": "Mehnat muhofazasining tarkibiy qismlariga nimalar kiradi",
+      "options": [
+        "Ish haqi va mukofot tizimi, sanitariya,yong'in xavfsizligi",
+        "Korxona ichki tartibi, texnika xavfsizligi, mehnat inspeksiyalari, jamoat salomatligi maskanlari",
+        "Mehnat ta'tili va dam olish tizimi",
+        "Texnika xavfsizligi, ishlab chiqarish sanitariyasi, yong'in xavfsizligi, ekologiya"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 12,
+      "question": "Xodimni mehnat muhofazasi bo'yicha o'qitish va yo'riqnomadan o'tkazish kimning majburiyati hisoblanadi",
+      "options": [
+        "Ish beruvchi",
+        "Mehnat inspeksiyasi",
+        "Kasaba uyushmasi",
+        "O'zi xohlaganda o'tadi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 13,
+      "question": "Mehnat sharoitlarini yaxshilash bo'yicha tadbirlar kim tomonidan ishlab chiqiladi?",
+      "options": [
+        "Ish beruvchi va kasaba uyushmasi hamkorligida",
+        "Davlat nazorat organlari",
+        "Ish beruvchi",
+        "Kasaba uyushmasi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 14,
+      "question": "Qaysi javobda Mehnatni muhofaza qilish fanining asosan bo'limlari to'g'ri keltirilgan",
+      "options": [
+        "Mehnatni muhofaza qilishning nazariy asoslari. Mehnat muhofazasining huquqiy va tashkiliy asoslari.Ishlab chiqarish sanitariyasi va mehnat gigiyenasi. Xafsizlik texnikasi asoslari. Yong'in xavfsizligi. Jarohatlanganda birinchi tibbiy yordam ko'rsatish.",
+        "Mehnat muhofazasining huquqiy va tashkiliy asoslari. Ishlab chiqarish sanitariyasi va mehnat gigiyenasi. Moddiy javobgarlik. Xafsizlik texnikasi asoslari. Yong'in xavfsizligi.",
+        "Jarohatlanganda birinchi tibbiy yordam ko'rsatish. Mehnatni muhofaza qilishning nazariy asoslari. Mehnat muhofazasining huquqiy va tashkiliy asoslari. Ishlab chiqarish sanitariyasi va mehnat gigiyenasi.",
+        "Xafsizlik texnikasi asoslari. Mehnat yo'riqnomalari Yong'in xavfsizligi. Jarohatlanganda birinchi tibbiy yordam ko'rsatish. Jarohatlanganda birinchi tibbiy yordam ko'rsatish. Intizomiy jazo. Mehnat muhofazasining huquqiy va tashkiliy asoslari."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 15,
+      "question": "Mehnat kodeksida mehnatni muhofazasi masalalari asosan qaysi bobda bayon qilingan?",
+      "options": ["5-bob", "10-bob", "12-bob", "13-bob"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 16,
+      "question": "Mehnatni muhofazasi sohasida davlat nazoratini amalga oshiruvchi organ qaysi?",
+      "options": [
+        "Ichki ishlar vazirligi,sog'liqni saqlash vazirligi, adliya vazirligi, FVV, bandlik va mehnat munosabatlari",
+        "Sog'liqni saqlash vazirligi, yong'in xavfsizligi, texnika xavfsizligi",
+        "Bandlik va mehnat munosabatlari vazirligi huzuridagi Mehnat inspeksiyasi",
+        "Ekologiya qo'mitasi, mehnat inspeksiyasi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 17,
+      "question": "Mehnatni muhofazasi to'g'risidagi qonunlarga muvofiq, xodim ish joyida qanday huquqlarga ega?",
+      "options": [
+        "Ish haqi olish huquqiga, jarima to'lash",
+        "Ish vaqtini o'zi belgilash huquqiga ega emas va dam olish huquqiga ega",
+        "Sog'lom va xavfsiz mehnat sharoitida ishlash huquqiga",
+        "Ishlab chiqarish foydasini taqsimlash huquqiga"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 18,
+      "question": "Mehnatni muhofaza qilish bo'yicha korxona darajasida javobgarlik kimga yuklatiladi",
+      "options": [
+        "Korxona rahbariga (ish beruvchiga)",
+        "Xodimga, xizmatchiga, shofyorga",
+        "Kasaba uyushmasiga, jamoa nazoratiga",
+        "Mehnat inspeksiyasiga va korxona qorovuliga"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 19,
+      "question": "Mehnat qonunchiligining asosiy maqsadi nima?",
+      "options": [
+        "Ishlab chiqarish samaradorligini oshirish",
+        "Mehnat munosabatlarini tartibga solish va xodimlarning huquqlarini himoya qilish",
+        "Mehnatga haq to'lash tizimini belgilash",
+        "Ish beruvchining manfaatlarini ta'minlash"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 20,
+      "question": "Mehnat munosabatlarini tashkil etishda(ishga kirishda ) quyidagilardan qaysi biri ishtirok etadi?",
+      "options": [
+        "Ish beruvchi va xodim",
+        "Jamoat nazorati va kasaba uyushmasi",
+        "Davlat organlari va texnika xavfsizligi",
+        "Kasaba uyushmasi va bahdlik"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 21,
+      "question": "Mehnat shartnomasi qachon kuchga kiradi?",
+      "options": [
+        "Xodim ishga qabul qilingandan 1 oy o'tib",
+        "Mehnat shartnomasi imzolangandan so'ng",
+        "Xodim sinov muddatini o'tagandan keyin",
+        "Mehnat inspeksiyasi tasdiqlaganidan keyin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 22,
+      "question": "Mehnat qonunchiligiga ko'ra, xodimlarni ishga qabul qilishda qanday hujjat talab etiladi?",
+      "options": [
+        "Pasport, diplom yoki guvohnoma, mehnat daftarchasi, tibbiy ma'lumotnoma",
+        "Pasport, nikoh guvohnomasi, diplom, uy daftati, diplom, yashash jouidan guvohnoma",
+        "Mehnat daftarchasi, tibbiy ma'lumotnoma, passport, tug'ulganlik to'g'risidagi guvohnoma",
+        "Tavsiyanoma , uyda yashovchilarning pasportlari, tibbiy ma'lumotnoma"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 23,
+      "question": "Mehnat qonunchiligida ish vaqtining maksimal davomiyligi qancha etib belgilangan?",
+      "options": ["41 soat", "36 soat", "44 soat", "40 soat"],
+      "correctAnswer": 3
+    },
+    {
+      "id": 24,
+      "question": "Xodimlarni sut, davolash-profilaktika oziq-ovqati, gazlangan tuzli suv, shaxsiy himoya va gigiyena vositalari bilan taʼminlash Mehnatni muhofaza qilish to'g'tisidagi qonunining qaysi moddasida kiltirilgan",
+      "options": ["19-modda", "24-modda", "18-modda", "10-modda"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 25,
+      "question": "Mehnatni muhofaza qilish toʻgʻrisidagi qonunning 24-moddasi mazmun mohiyati qaysi javobda to'g'ri ko'rsatilgan",
+      "options": [
+        "Mehnatni muhofaza qilish sohasidagi maxsus vakolatli davlat organining vakolatlar",
+        "Ishga qabul qilishda va boshqa ishga oʻtkazishda mehnatni muhofaza qilishga boʻlgan huquqning kafolatlari",
+        "Majburiy tibbiy koʻriklardan o'tish",
+        "Ish beruvchining mehnatni muhofaza qilish sohasidagi huquqlari va majburiyatlari"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 26,
+      "question": "Ishlab chiqarishdagi baxtsiz hodisalarni va kasb kasalliklarini tekshirish hamda hisobga olish Mehnatni muhofaza qilish to'g'risidagi qonunning qaysi moddasida keltirilgan",
+      "options": ["28-modda", "30 modda", "26 -modda", "15-modda"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 27,
+      "question": "Xavfsiz mehnat sharoitini yaratishning asosiy maqsadi nima?",
+      "options": [
+        "Ishlab chiqarish samaradorligini oshirish, ish hakini oshirish, ko'proq jarohatlanish",
+        "Ishlab chiqarishda baxtsiz hodisalarni oldini olish va xodimlar sog'lig'ini saqlash",
+        "Xodimlarning mehnat unumdorligini oshirish",
+        "Ish vaqtini qisqartirish, dam olishni tashkil etish"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 28,
+      "question": "Xavfsiz mehnat sharoitlarini ta'minlash uchun kim javobgar hisoblanadi?",
+      "options": [
+        "Korxona rahbari (ish beruvchi)",
+        "Xodimning o'zi va oila a'zolari",
+        "Kasaba uyushmasi va jamoa nazorati",
+        "Mehnat inspeksiyasi va adliya vazirligi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 29,
+      "question": "Mehnatni muhofaza qilish bo'yicha o'qitish va yo'riqnomadan o'tkazish kim tomonidan amalga oshiriladi?",
+      "options": [
+        "Ish beruvchi yoki tayinlangan mas'ul shaxs",
+        "Kasaba uyushmasi va xodim",
+        "Mehnat inspeksiyasi, jamoa nazorati",
+        "Sog'liqni saqlash organlari, bandlik"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 30,
+      "question": "Ish joylarida xavfsiz mehnat sharoitini ta'minlash uchun birinchi navbatda nima amalga oshiriladi?",
+      "options": [
+        "Texnik nazorat o'rnatish va dam ollishni tashkil qilmaslik",
+        "Ish vaqtini kamaytirish, oylik maoshni oshirish",
+        "Mehnat sharoitini baholash va xavf omillarini aniqlash",
+        "Ish haqi oshirish, xavf omillarini ko'paytirish"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 31,
+      "question": "Xavfsiz mehnat sharoitini ta'minlovchi asosiy omil qaysi?",
+      "options": [
+        "Ishlab chiqarish binosining chiroyli dizayni",
+        "Ishlab chiqarish jarayonini tezlashtirish",
+        "Texnika xavfsizligi qoidalariga rioya qilish",
+        "Ishchilarning shaxsiy motivatsiyasi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 32,
+      "question": "Ishlab chiqarishdagi xavfli va zararli omillardan himoya qilish uchun nima qo'llaniladi?",
+      "options": [
+        "Maxsus kiyim va shaxsiy himoya vositalari",
+        "Mehnat daftarchasi, zaharli joyda ishlash",
+        "Ish haqini oshirish, himoya vositalaridan foydalanmaslik",
+        "Dam olish kuni berish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 33,
+      "question": "Mehnatni muhofaza qilish bo'yicha yo'riqnoma necha xil bo'ladi?",
+      "options": ["5 xil", "2 xil", "3 xil", "4 xil"],
+      "correctAnswer": 3
+    },
+    {
+      "id": 34,
+      "question": "Xavfsiz mehnat sharoitini yaratish bo'yicha chora-tadbirlar rejasini kim ishlab chiqadi?",
+      "options": [
+        "Korxona rahbariyati va kasaba uyushmasi hamkorligida",
+        "Mehnat inspeksiyasi , qorovul va adliya vazirligi",
+        "Mahalla qo'mitasi va xodimning oila a;zolari",
+        "Xodimlarning o'zi va shirkat"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 35,
+      "question": "Ishlab chiqarishda yuz bergan baxtsiz hodisa haqida kimga xabar berish kerak",
+      "options": [
+        "Ish beruvchiga, kasalxona, mahalla, xodim",
+        "Mahalliy hokimiyat, mehmat birjalari, dalolatnoma beruvchi, sog'liqni saqlash",
+        "Tibbiyot markazi, qorovul, rahbar, mahalla",
+        "Rahbar, mehnat muhofazasi muhandisi va kasaba uyushmasiga"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 36,
+      "question": "Sanitariya nima",
+      "options": [
+        "(lot. sanitas — sogʻliq)- ishchi xodinlarni saralash, sog'ligini nazorat qilmaslik va muhitni ifloslanishi",
+        "(ingliz tilidan olingan) parvarish qilaman, dam olaman, sog'liqni saqlayman degani",
+        "(lot. sanitas — sogʻliq) — atrof muhitni sogʻlomlashtirishga qaratilgan amaliy tadbirlar majmui",
+        "(arab tilidan olingan) men seni himoy qilaman, atrof muhitni sogʻlomlashtirishga qaratilmagan tadbirlar majmui"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 37,
+      "question": "Ishlab chiqarish sanitariyasi.",
+      "options": [
+        "Ishchi xodimlarni ish vaqtini nazorat qilish kamaytirishga qaratilgan tashkiliy, sanitariya hamda texnikaviy tadbirlar tizimi tushuniladi.",
+        "ishlab chiqarishning zararli ta'sirlarining oldini olish va dam olishni tashkil qilish",
+        "ishlab chiqarishning zararli ta'sirlarining oldini olishga yoki ularni kamaytirishga qaratilgan tashkiliy, sanitariya hamda texnikaviy tadbirlar tizimi tushuniladi",
+        "Korxona va tashkilot ishchi xodinlarini mehnat ta'tiliga uzatish va korxonani tozalash"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 38,
+      "question": "Mahalliy isitish",
+      "options": [
+        "elektrik, gazli yoki boshqa turdagi issiqlik manbaidan (ko'mir, o'tin va b.) foydalanuvchi isitish jihozi yordamida amalga oshiriladi",
+        "suv, bug', suv-bug' bilan va havo bilan ishlovchi qurilmalarga bo'linadi.",
+        "mexanik suv aylanishini yuzaga keltiruvchi yopiq tizimdan tashkil topgan bo'ladi.",
+        "sovuq tashqi muhit havosi ventilyatorlar yordamida kaloriferlarga uzatiladi va kalorifer orqali o'tishda isigan havo xonaga yo'naltiriladi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 39,
+      "question": "Markaziy isitish",
+      "options": [
+        "elektrik, gazli yoki boshqa turdagi issiqlik manbaidan (ko'mir, o'tin va b.) foydalanuvchi isitish jihozi yordamida amalga oshiriladi",
+        "mexanik suv aylanishini yuzaga keltiruvchi yopiq tizimdan tashkil topgan bo'ladi.",
+        "suv, bug', suv-bug' bilan va havo bilan ishlovchi qurilmalarga bo'linadi",
+        "Havo bilan isitish tizimlarida harorat shamollatish orqali rostlanadi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 40,
+      "question": "Yuqori bosimli suv bilan isitish tizimi",
+      "options": [
+        "suv, bug', suv-bug' bilan va havo bilan ishlovchi qurilmalarga bo'linadi",
+        "elektrik, gazli yoki boshqa turdagi issiqlik manbaidan (ko'mir, o'tin va b.) foydalanuvchi isitish jihozi yordamida amalga oshiriladi",
+        "mexanik suv aylanishini yuzaga keltiruvchi yopiq tizimdan tashkil topgan bo'ladi",
+        "sovuq tashqi muhit havosi ventilyatorlar yordamida kaloriferlarga uzatiladi va kalorifer orqali o'tishda isigan havo xonaga yo'naltiriladi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 41,
+      "question": "Kasb kasalliklari -",
+      "options": [
+        "yomon mehnat sharoitlari va kasbga aloqador zararlarning organizmga taʼsiri natijasida paydo boʻladigan kasalliklar",
+        "muayyan ish muhiti va/yoki faoliyat va ma'lum bir kasallik ta'siri o'rtasidagi ta'sir-ta'sir munosabatlari",
+        "ishlab chiqarish korxonalarida zararli va xavfli omillarga gigiyenik baho berish",
+        "Yomon mihnat sharoiti va va ishchilarning ko'p dam olishi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 42,
+      "question": "havoning harakatlanish tezligi qanday aniqlanadi",
+      "options": [
+        "katatermometrlar va anemometrlar",
+        "Aktinometrlar va luksametrlar",
+        "Barometrlava shumametrlar",
+        "Luksametrlar va termometrlar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 43,
+      "question": "havoning harorati nima bilan o'lchanadi",
+      "options": [
+        "psixrometrlar",
+        "Termometrlar",
+        "anemometrlar",
+        "aktinometrlar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 44,
+      "question": "havoning bosimi qanday asbob bilan o'lchanadi",
+      "options": [
+        "psixrometrlar",
+        "aktinometrlar",
+        "Barometrlar",
+        "shumametrlar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 45,
+      "question": "Ishlab chiqarish muhitidagi xavfli va zararli omillar 4 guruhga bo'linadi:",
+      "options": [
+        "Fizikaviy; Kimyoviy; Biologik; Psixofiziologik.",
+        "Ekologik Fizikaviy; Kimyoviy; Mahalliy",
+        "Fizikaviy; Maxviy ; Psixofiziologik; Tashkiliy",
+        "Kimyoviy; Biologik; Salbiy; Psoxofiziologik"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 46,
+      "question": "Ishlab chigarish muhitidagi Biologik omillar qaysi javobda to'g'ri keltirilganzan",
+      "options": [
+        "har xil jarohatlar va kasalliklarni keltirib chiqaruvchi mikro va makroorganizmlar: bakteriyalar, viruslar, rikket, zamburug'lar, har xil zaharli o'simliklar va hayvonlar kiradi",
+        "ishlab chiqarish jarayonlarida ishlatiladigan yoki ajralib chiqadigan turli xil kimyoviy moddalar asabiy zo'riqish esa kuchli aqliy mehnatdan, mehnatni doimiy bir xil ko'rinishda bo'lishidan, kuchli hayajonlanish yoki asabiylashishdan sodir bo'ladi",
+        "aylanayotgan yoki siljiyotgan qismlarini, mexanizm bilan ko'tarilayotgan yukni, qattiq shovqin va titrashlari",
+        "jismoniy va asabiy zo'riqishlar rikket, zamburug'lar, har xil zaharli o'simliklar va hayvonlar kiradi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 47,
+      "question": "Ishlab chiqarish sanitariyasi deganda nima tushuniladi",
+      "options": [
+        "Ishlab chiqarish jarayonida sog'lom gigiyenik sharoit yaratish choralar tizimi",
+        "Yong'in xavfsizligi, texnika xavfsizligi, jamoa nazorati, mahalla tozaligi, xodimning kasallanishi",
+        "Halokatlar, avariya , jarohatda birinchi yordam, xodimni himoya kiyimi bilan ta'minlamaslik",
+        "Avariya, inson salomatligini saqlash va kasalxonaga yotqizish masalalari"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 48,
+      "question": "Mehnat gigiyenasining asosiy maqsadi nima",
+      "options": [
+        "Ishchilarni dam olish bilan ta'minlash va ish haqini oshirish",
+        "Ishchilar sog'lig'ini saqlash va mehnat sharoitini sog'lomlashtirish",
+        "Ish vaqtini qisqartirish",
+        "Ishlab chiqarishni avtomatlashtirish"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 49,
+      "question": "Quyidagilardan qaysi biri ishlab chiqarishdagi zararli omil hisoblanadi",
+      "options": [
+        "Chang, shovqin, tebranish, kimyoviy modda",
+        "Toza havo, toza ichimlik suvi, chang, blakirovka qurilmasi",
+        "Normal yoritish, shovqinni kamaytirish",
+        "Mehnat intizomi, zaharli bo'lmagan zamburug'lar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 50,
+      "question": "Ishlab chiqarish sanitariyasi talablariga ko'ra, ishlab chiqarish binolarining harorati qanday bo'lishi kerak",
+      "options": ["10–12°C", "25–30°C", "16–22°C", "5–10°C"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 51,
+      "question": "Shovqinning inson organizmiga ta'siri nimalarda namoyon bo'ladi?",
+      "options": [
+        "Qon bosimini oshiradi, asab tizimini charchatadi",
+        "Ko'rishni yaxshilaydi, inson dam oladi",
+        "Immunitetni oshiradi, ich ketadi, miyada og'riq bo'ladi",
+        "Ovoz sifatini yaxshilaydi, quloqlarni kar qiladi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 52,
+      "question": "Ish joylarida shamollatish tizimi qanday vazifani bajaradi",
+      "options": [
+        "Havoni tozalaydi va yangilaydi",
+        "Binoni isitadi, shovqinni kamaytiradi",
+        "Yoritishni oshiradi, havoni tozalamaydi",
+        "Suvni sovitadi, xonani isitadi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 53,
+      "question": "Zararli moddalar bilan ishlaydigan xodimlar uchun maxsus kiyim berish",
+      "options": ["Tavsiya etiladi", "Majburiy", "Ixtiyoriy", "Rahbarlarga"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 54,
+      "question": "Mehnat gigiyenasiga ko'ra, ayollar uchun yuk ko'tarishning me'yoriy massasi (qo'l bilan) qancha",
+      "options": ["20–25 kg", "10–15 kg", "30–35 kg", "5–7 kg"],
+      "correctAnswer": 3
+    },
+    {
+      "id": 55,
+      "question": "Ish joylarida tozalikni saqlash nima uchun muhim",
+      "options": [
+        "Zararli omillarni kamaytirish va sog'liqni saqlash uchun",
+        "Estetik ko'rinish uchun, ish shtavkasini kamaytirish",
+        "Nazorat uchun, dam olishni to'g'ti tashkil etish uchun",
+        "Ish unumdorligini kamaytirish uchun"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 56,
+      "question": "Biologik omillar ta'siriga bog'liq soha vakillari va kasalliklar",
+      "options": [
+        "Chorvadorlar, veterinar, infektsionistlar, baklaboratoriyalar laborantlari va boshqalarda infektsion va parazitar kasalliklar",
+        "Pedagoglar, gepatit, osgqozon yarasi, miokard infarkti, bog'bonlar, dorbozchilar, yara kasalliklari qandli diabet kasalliklari",
+        "Revmatizm, gipertoniya, oshpazlar, shovqin ta'sirida kelib chiqadigan karlik, saraton kasalliklari",
+        "Quruvchilar, arxiologlar, ichak kasalliklari laborantlari va boshqalarda infektsion kasalliklar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 57,
+      "question": "Davlat standarti bo'yicha inson sog'ligiga ta'sir etuvchi xavfli moddalar 4 sinfga ajratilgan: 2 sinf qaysi javobda to'g'ri keltirilgan",
+      "options": [
+        "favqulotda xavfli moddalar, REM0,1 mg/m3",
+        "o'rtacha xavflilikdagi moddalar, REM=1,0 ... 10 mg/m3;",
+        "yuqori xavflilikdagi moddalar, REM=0,1 ... 1,0 mg/m3;",
+        "kam xavflilikdagi moddalar, REM>10 mg/m3."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 58,
+      "question": "Davlat standarti bo'yicha inson sog'ligiga ta'sir etuvchi xavfli moddalar 4 sinfga ajratilgan: 1 sinf qaysi javobda to'g'ri keltirilgan",
+      "options": [
+        "favqulotda xavfli moddalar, REM0,1 mg/m3;",
+        "kam xavflilikdagi moddalar, REM>10 mg/m3",
+        "o'rtacha xavflilikdagi moddalar, REM=1,0 ... 10 mg/m3;",
+        "yuqori xavflilikdagi moddalar, REM=0,1 ... 1,0 mg/m3;"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 59,
+      "question": "Kimyoviy va mineralogik tarkibiga ko'ra changlar ……. ta asosiy guruhlarga bo'linadi",
+      "options": ["7", "4", "6", "5"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 60,
+      "question": "Organik changlar.",
+      "options": [
+        "Yog'och, paxta, pilla, teri, qog'oz, plastmassa, turli o'simliklar va ulami qayta ishlash paytida paydo bo'ladigan changlar kiradi",
+        "Tuproq, ohak, marmar, granit, sement, ganch, ma'danlar va ulami qayta ishlash paytida paydo boiadigan changlar kiradi",
+        "Kimyo sanoati korxonalarida (masalan, azotli, fosfatli, kaliyli o'g'itlar hamda lakbo'yoq ishlab chiqarish korxonalarida) paydo bo'ladigan changlar kiradi.",
+        "Portlovchi va yonyvchi changlar kiradi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 61,
+      "question": "Anorganik changlar.",
+      "options": [
+        "Tuproq, ohak, marmar, granit, sement, ganch, ma'danlar va ulami qayta ishlash paytida paydo boiadigan changlar kiradi",
+        "Yog'och, paxta, pilla, teri, qog'oz, plastmassa, turli o'simliklar va ulami qayta ishlash paytida paydo bo'ladigan changlar kiradi",
+        "Portlovchi, organic va yonuvchi changlar kiradi",
+        "Kimyo sanoati korxonalarida (masalan, azotli, fosfatli, kaliyli o'g'itlar hamda lakbo'yoq ishlab chiqarish korxonalarida) paydo bo'ladigan changlar kiradi."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 62,
+      "question": "Qanday shovqin turlari mavjud",
+      "options": [
+        "Mexanik, aerodinamik, gidroginamik, elektromagnit",
+        "Mexanik, anorganik, organic, texnik, tashkiliy",
+        "Aerodinamik, mexanik, fizik , biologik",
+        "Eliktromagnit, kimyoviy, mexanik"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 63,
+      "question": "Changlar kelib chiqishiga ko'ra nech xil bo'ladi",
+      "options": ["7", "2", "3", "5"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 64,
+      "question": "Protivogaz kim tomonidan ixtiro qilingan",
+      "options": [
+        "Nikolay Zelenskiy",
+        "Nyuton, Plutoniy",
+        "Pavlov, Mendilyev",
+        "Ibn Sino, Nyuton"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 65,
+      "question": "Nikolay Zelinskiy tomonidan protivogaz nechanchi yilda ixriro qilingan",
+      "options": ["1945", "1915", "1935", "1910"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 66,
+      "question": "Nafas aʼzolarining himoyalovchi vositalari qaysi javobda to'g'ri kiltirilgan",
+      "options": [
+        "Protivogaz , respirator, doka niqob",
+        "Qo'lqob, ko'zoynak, kombinzon, pespirator",
+        "Himoya kostumi, protivogaz, qo'lqob",
+        "Kombinzon, etiklar , shlem, doka niqob"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 67,
+      "question": "Protivogaz nima vazifani bajaradi",
+      "options": [
+        "Nafas aʼzolarini gazdan,radioaktiv va tuproq changlaridan hamda bakterial aerozollardan himoya qiladi",
+        "Nafaz a'zolarini oziq ovqatdan himoya qiladi, yorug'likdan saqlaydi",
+        "Oyoqni elektr tokidan himoya qiladi",
+        "Boshni shikastlanishdan himoya qiladi, shovqinni o'tkazmaydi, changdan himoya qilmaydi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 68,
+      "question": "Ishlab chiqarish muhitidagi xavfli va zararli omillar necha guruhga bo'linadi:",
+      "options": ["5", "6", "4", "5"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 69,
+      "question": "Ishlab chiqarish muhitidagi xavfli va zararli omillar 4 guruhga bo'linadi",
+      "options": [
+        "Fizikaviy; Kimyoviy; Biologik; Psixofiziologik",
+        "Kimyoviy; Aralash;Biologik; Psixofiziologik",
+        "Tabiiy; Katta; Kimyoviy; Biologik; Fizikaviy;",
+        "Salbiy; sun'iy; Kimyoviy;Tabiiy; Texnikaviy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 70,
+      "question": "Kimyoviy moddalar inson organizmiga ta'sir etish va xavflilik darajasiga qarab necha sinfga bo'linadi",
+      "options": ["4", "3", "2", "5"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 71,
+      "question": "Jamoa himoya vositalari insonni nimadan himoya qiladi",
+      "options": [
+        "shovqindan, titrashdan, issiqdan, sovuqdan, elektrostatik zaryadlardan, zararli changlardan, radiatsiya nuridan",
+        "changdan , sovuqdan, issiqdan, shamoldan, oziq ovqat maxsulotlaridan, toza ichimlik suvidan, yong'indan",
+        "issiqdan, shovqundan, portlashdan himoya qilmaydi, ko'zni zararlaudi",
+        "elektrostatik zaryadlardan, zararli changlardan, radiatsiya nuridan, shamoldan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 72,
+      "question": "Shaxsiy himoya vositalari necha turdan iborat",
+      "options": ["7", "2", "4", "3"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 73,
+      "question": "Shaxsiy himoya vositalari",
+      "options": [
+        "nafas olish yo'llarini va terini himoyalovchi vositalar",
+        "asosan inson tana a'zolari nafas olish yo'llari, oyoqni ,xonadonni, ko'zni kimyoviy modda bilan zararlaydi",
+        "oyoq va qo'lni himoyalovchi",
+        "ko'ktak qafasini va boshni himoyalamaydi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 74,
+      "question": "Tabiiy changlar",
+      "options": [
+        "Inson, o'simliklar va hayvonot olamida paydo bo'ladigan changlar, koinot changlari, vulqonlarning otilishi va zilzila natijasida paydo bo'ladigan changlar",
+        "Sanoat korxonalari, qurilish, transport, energetika, qishloq xo'jaligi va boshqa tarmoqlarda inson faoliyati natijasida paydo bo'ladigan changlar.",
+        "Toshko'mir, oltingugurt, un va bug'doy changlari.",
+        "Taxta ,paxta, qog'oz va portlovchi changlar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 75,
+      "question": "Sun'iy changlar",
+      "options": [
+        "Sanoat korxonalari, qurilish, transport, energetika, qishloq xo'jaligi va boshqa tarmoqlarda inson faoliyati natijasida paydo bo'ladigan changlar",
+        "Toshko'mir, oltingugurt, un va bug'doy changlari.",
+        "O'simlik, mato, sement, marmar changlari",
+        "Inson, o'simliklar va hayvonot olamida paydo bo'ladigan changlar, koinot changlari, vulqonlarning otilishi va zilzila natijasida paydo bo'ladigan changlar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 76,
+      "question": "Shovqindan himoyalovchi vosita",
+      "options": [
+        "Quloqchinlar, naushniklar",
+        "Protivogaz,doka niqob",
+        "Respirator,qo'lqob",
+        "doka niqoblar, rezinala etik"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 77,
+      "question": "Kasb kasalliklarining oldini olish uchun eng samarali chora",
+      "options": [
+        "Ish joyini bezatish",
+        "Himoya vositalaridan foydalanish",
+        "Ish vaqtini uzaytirish",
+        "Ish haqi oshirish"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 78,
+      "question": "Tibbiyot xodimlarida eng ko'p uchraydigan kasb kasalligi",
+      "options": [
+        "Yuqumli kasalliklar",
+        "Bazedov kasalligi",
+        "Qandli diabed kasalligi",
+        "Yukumli bo'lmagan kasalliklar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 79,
+      "question": "Kasb kasalliklarini erta aniqlash uchun qanday tadbir o'tkaziladi",
+      "options": [
+        "Davriy tibbiy ko'rik",
+        "Ish haqi oshirish",
+        "Bayram o'tkazish",
+        "Qo'shimcha ish soati"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 80,
+      "question": "Nafas olish organlarini himoya qilish vositalar",
+      "options": [
+        "Gaz niqoblari (protivogaz) .respiratorlar , changdan himoya niqoblari(maskalar)",
+        "Quloqchinlar, rezinala etiklar, ko'zoynak, prativogaz, qo'lqob, kombenzon, shlem",
+        "Qo'lqoplar, ko'zoynak, dielektirik vositalar, gaz niqoblari",
+        "Korjoma, kambinzonlar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 81,
+      "question": "Texnika xavfsizligining asosiy maqsadi nima.",
+      "options": [
+        "Ish unumdorligini oshirish, kasb kasalliklarini ko'paytirish",
+        "Ishlab chiqarish jarayonida inson salomatligini himoya qilish",
+        "mehnat unumdorligini pasaytirish, ish haqini oshirish, dam olishni tashkil etish",
+        "Texnikani tezroq ishlatish, elektrdan himoyalanmaslik, jarohatni oldini olish"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 82,
+      "question": "Texnika xavfsizligi qoidalari nimalarni o'z ichiga oladi.",
+      "options": [
+        "Dam olish tartibini belgilaydi",
+        "Ish joyida xavfsizlikni ta'minlashni",
+        "Ish haqi miqdorini oshiradi",
+        "Ish vaqtini uzaytiradi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 83,
+      "question": "Texnika xavfsizligining vazifalaridan biri.",
+      "options": [
+        "Ishlab chiqarishdagi baxtsiz hodisalarni oldini olish",
+        "Ish joyini bezatish va yo'riqnoma o'tkazish",
+        "Yangi mahsulot ishlab chiqish va sotish",
+        "Ishchilarga dam olish imkoniyatini yaratish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 84,
+      "question": "Texnika xavfsizligi qoidalarini buzish oqibatida nima sodir bo'lishi mumkin.",
+      "options": [
+        "Jarohatlar va avariyalar yuz beradi",
+        "Ish unumdorligi oshadi o'lim kuzatiladi",
+        "Ishlab chiqarish kechikadi ishchilar soni oshadi",
+        "Hech qanday ta'sir bo'lmaydi ishchilar mazza qilib ishlaydi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 85,
+      "question": "Texnika xavfsizligi qoidalari kimlar uchun majburiy.",
+      "options": [
+        "Ishlab chiqarishda ishtirok etayotgan barcha xodimlar uchun",
+        "muhandislar , stol- stul, kassir uchun",
+        "Sayyohlar, o'simliklar, hayvonlar rahbarlar uchun",
+        "yangi ishchilar , ishlab chiqatishda ishtirok etmayotgan xodimlar uchun"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 86,
+      "question": "Texnika xavfsizligi qoidalari qachon o'rganiladi.",
+      "options": [
+        "Ish boshlangandan keyin",
+        "Dam olish jarayonida",
+        "Ish boshlanishidan oldin",
+        "Baxtsiz hodisadan keyin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 87,
+      "question": "Xavfsizlikni ta'minlovchi texnik vositalar.",
+      "options": [
+        "To'siqlar, saqlash qurilmalari, blokirovkalash moslamalari, signalizatsiya, masofadan boshqarish jihozlari va tormoz qurilmalari",
+        "Qoloqchin, AI-2 aptechka ,blokirovkalash moslamalari, eshik,deraza, stol, stellar, kurtka, choyshab, sochiq, signalizasiya",
+        "Poyabzallar, mashina, oyna, boshqarish jihozlari va tormoz qurilmalari",
+        "To'siqlar, saqlash qurilmalari, rizetka, prativogaz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 88,
+      "question": "Тo'siqlar konstruktiv tuzilishiga va ishlatilish funksiyasiga ko'rа qanday bo'ladi",
+      "options": [
+        "Doimiy, qisqa",
+        "Doimiy, vaqtinchalik",
+        "Vaqtinchalik, qisman",
+        "Konstruktiv , chala"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 89,
+      "question": "Тo'siqlar konstruktiv tuzilishiga va ishlatilish funksiyasiga ko'rа necha xil bo'ladi.",
+      "options": ["2", "3", "4", "7"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 90,
+      "question": "Doimiy to'siqlar.",
+      "options": [
+        "mashina yoki mexanizmlarning ajralmas qismi",
+        "blakirovka qurilmasi bo'lmagan vosita",
+        "ochiq va yarim ochiq mashina",
+        "mashina yoki mexanizmlarning ajralgan qismi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 91,
+      "question": "Doimiy to'siqlar qanday ko'rinishlarda bo'ladi.",
+      "options": [
+        "qo'zg'aluvchan va qo'zg'almas",
+        "yarin to'siq va ochiq",
+        "qo'zg'almas va ajralmas",
+        "shamol yo'nalishiga qarshi va qo'zg'aluvchan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 92,
+      "question": "Texnika xavfsizligining ahamiyati nimada.",
+      "options": [
+        "Ish joyida xavf-xatarni kamaytiradi",
+        "Mehnat unumdorligini kamaytiradi",
+        "Ish jarayonini murakkablashtiradi",
+        "Ishchilarning ish vaqtini qisqartiradi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 93,
+      "question": "Texnika xavfsizligi sohasida yo'riqnoma nima uchun kerak.",
+      "options": [
+        "Xavfsiz ishlash tartibini o'rgatish uchun",
+        "Ish vaqtini o'zgartirish uchun",
+        "Ishchilarni jazolash uchun",
+        "Ishchilarni nazorat qilish uchun"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 94,
+      "question": "Texnika xavfsizligi qoidalari kim tomonidan ishlab chiqiladi.",
+      "options": [
+        "O'qituvchilar va korxona ishchilati tomonidan",
+        "Davlat mehnat inspeksiyasi va korxona rahbariyati tomonidan",
+        "Har bir ishchi mustaqil ravishda texnika xavfsizligi qoidalarini o'rganadi",
+        "Ishchilar, xizmatchilar, rahbarlar va xonadon egalari tomonidan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 95,
+      "question": "Texnika xavfsizligiga rioya qilish natijasida nima ta'minlanadi?",
+      "options": [
+        "Ish unumdorligi va xavfsizlikni ta'minlash darajasi oshadi",
+        "Ishchilar soni kamayadi va ishchilar kasallanadi",
+        "Ishlab chiqarish to'xtaydi va xavfsizlikni ta'minlash darajasi oshadi",
+        "Ish vaqtining cho'zilishi va xodimlar rag'batlantiriladi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 96,
+      "question": "Blokirovka – bu",
+      "options": [
+        "qurilma nosozligi, korxona ishchi xodimlarini o'qitish ,mehnat shartnomasini to'xtatish, texnika xavfsizligi sohasida yo'riqnoma",
+        "mashinalar qismini muayyan holatda ushlab turuvchi vositalar va uslublar majmui",
+        "yo'riqnoma o'rkazish, xavfsizlikni oldi olmaslik uchun qilingan samarali ishlar yig'indisi",
+        "mashinalar qismini muayyan holatda ushlab turmaydigan vositalar va uslublar majmui"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 97,
+      "question": "Ishlab chiqarishdagi xavfli faktorlarning hosil bo'lish tabiatiga ko'rа saqlash qurilmalari necha guruhga bo'linadi.",
+      "options": ["2", "3", "5", "4"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 98,
+      "question": "Xavfsizlik belgilari standart bo'yicha to'rt guruhga ajratilgan javobni toping .",
+      "options": [
+        "Taqiqlovchi, ogohlantiruvchi, ko'rsatuvchi, buyuruvchi",
+        "Ogohlantiruvchi ,sezuvchi, blakrovka qiluvchi, sariq chiroq",
+        "Ta'qiqlovchi, qizil chiroq, so'zlovchi, baqiruvchi",
+        "Buyuruvchi, jim turuvchi, yashil chiroq, ogohlantiruvchi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 99,
+      "question": "Elektr toki inson tanasiga qanday yo'l bilan ta'sir qiladi.",
+      "options": [
+        "tanaga kirib, ichki organlardan o'tish orqali",
+        "tanaga kirmasdan ko'z , burun ,quloq orqali",
+        "tanaga kirib, boshni zaharlaydi, nafas orqali",
+        "tanaga kirmasdan teri orqali"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 100,
+      "question": "Elektr toki urgan odamga birinchi yordam ko'rsatishda birinchi navbatda nima qilinadi.",
+      "options": [
+        "Tok manbai bilan aloqani uzish",
+        "Tez yordam chaqirishdan oldin suv ichiriladi",
+        "Yurak massaji darhol bajariladi",
+        "Jarohat joyiga muz bosiladi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 101,
+      "question": "Elektr toki bilan ishlashdan oldin nima qilish kerak.",
+      "options": [
+        "Asbobni ochiq qo'l bilan ushlash",
+        "Qurilmani suv bilan yuvish",
+        "Himoya vositalarini kiyish va elektr tarmog'ini tekshirish",
+        "Qurilmalarni tekshirmasdan yoqish"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 102,
+      "question": "Elektr toki urgan odamni qutqarishda qanday buyumdan foydalanish mumkin.",
+      "options": [
+        "Metall tayoqcha va nam qul bilan",
+        "Quruq yog'och yoki plastmassa buyum",
+        "Nam arqon va rezinali etik",
+        "Qo'l bilan ushlab olish va suv sepish"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 103,
+      "question": "Elektr xavfsizligi belgilari qanday rangda bo'ladi.",
+      "options": [
+        "Qizil , sariq rangda",
+        "Yashil, sariq rangda",
+        "Ko'k , qizilrangda",
+        "Oq, ko'k,sariq rangda"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 104,
+      "question": "Elektr asboblarining metall qismi yerga ulanmasa, nima sodir bo'lishi mumkin.",
+      "options": [
+        "Insonni tok urish xavfi oshadi",
+        "Hech narsa bo'lmaydi",
+        "Qurilma tezroq ishlaydi",
+        "Asbob haroratini pasaytiradi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 105,
+      "question": "Ishlab chiqarishdagi baxtsiz hodisalar bilishining asosiy sababi nima.",
+      "options": [
+        "Mehnat xavfsizligi qoidalariga rioya qilinmasligi",
+        "Ishchilar tajribasining ortishi va yo'riqnomalar o'tkazilganligi",
+        "Ish joyining tozaligi, dam olishni to'g'ti tashkil etilganligi",
+        "Ish vaqtining qisqaligi, mehnat xavfsizligi qoidalariga rioya qilingnligi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 106,
+      "question": "Kasb kasalliklari asosan qaysi omil natijasida kelib chiqadi.",
+      "options": [
+        "Ishchilar sonining ko'pligi",
+        "Ish joyidagi zararli omillar",
+        "Qisqa ish vaqti",
+        "Yomon kayfiyat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 107,
+      "question": "Ish joyida xavfsizlik texnikasi qoidalarini buzish nimaga olib keladi.",
+      "options": [
+        "Ishchilarning mukofotlanishiga",
+        "Ish unumdorligining ortishiga",
+        "Jarohatlanish va baxtsiz hodisalarga",
+        "Ish sharoitining yaxshilanishiga"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 108,
+      "question": "Kasb kasalliklarini oldini olishning eng muhim yo'li nima.",
+      "options": [
+        "Sanitariya-gigiyena va texnika xavfsizligi qoidalariga amal qilish",
+        "Ish vaqtini qisqartirish, ishchilarning kasallanishi, texnika qoidalani bilmaslik, baland shovqinda ishlash",
+        "Ishchilarni almashtirib turish, haroratni ko'tarish, ishxonadagi ventilyasiya tizimini o'chirib qo'yish",
+        "Ish joyini tez-tez o'zgartirish, chang ko'p bo'lgan joylarda himoya vositasiz ishlash"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 109,
+      "question": "Ishlab chiqarishdagi texnik sabablarga nimalar kiradi.",
+      "options": [
+        "Qurilmalarning nosozligi, himoya vositalarining yo'qligi",
+        "Ish joyining bezatilmaganligi, xodimlarning yo'riqnoma bilan tanishganligi",
+        "Rahbarning kech kelishi, himoya vositalari bilan ishlash",
+        "Ishchilarning dam olmasligi, qurilmalarning sozligi, blakirovka qurilmasinig borligi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 110,
+      "question": "Psixologik sabablar deganda nimani tushunasiz.",
+      "options": [
+        "Ishchining diqqat-e'tiborining sustligi, charchoq, stress",
+        "Ishchilarning normal dam olishi, qurilma nosozligi",
+        "Ishda bosim bo'masligi, ish joyining yoritilishi",
+        "Oilaviy muhitning yaxshiligi, xavfsizlik belgilarining yo'qligi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 111,
+      "question": "Topografik usulda",
+      "options": [
+        "baxtsiz hodisa sodir bo'lgan joy aniqlanadi. Buning hun xo'jalikniig (bo'lim, fermer xo'jaligi, brigada va boshq.) bosh rejasida baxtsiz hodisa sodir bo'lgan joy shartli belgi bilan belgilanadi",
+        "aniq ish joyi, uchastka, uskuna, mashina, mexanizm yoki texnologik jarayonda yuzaga kelgan xavfli yoki zararli ishlab chiqarish omillari tahlil qilinadi.",
+        "mehnat turlarining o'ziga xos tomonlari ergonomic omillarning (mashina, mexanizmning boshqarish organlarida zo'riqish, ishchining ish bajarayotgandagi holati va boshq.) mehnat xavfsizligiga ta'sir darajasi baholanadi.",
+        "ishlab chiqarishdagi jarohatlanishdan keltirilgan iqtisodiy zarar, shuningdek mehnat xavfsizligi chora-tadbirlariga sarflangan mablag'larning to'g'ri taqsimlanganligi baxtsiz hodisalarning oldini olishga ketgan xarajatlarning samaradorligi aniqlanadi."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 112,
+      "question": "Monograftk usulda",
+      "options": [
+        "aniq ish joyi, uchastka, uskuna, mashina, mexanizm yoki texnologik jarayonda yuzaga kelgan xavfli yoki zararli ishlab chiqarish omillari tahlil qilinadi",
+        "mehnat turlarining o'ziga xos tomonlari ergonomic omillarning (mashina, mexanizmning boshqarish organlarida zo'riqish, ishchining ish bajarayotgandagi holati va boshq.) mehnat xavfsizligiga ta'sir darajasi baholanadi.",
+        "baxtsiz hodisa sodir bo'lgan joy aniqlanadi. Buning hun xo'jalikniig (bo'lim, fermer xo'jaligi, brigada va boshq.) bosh rejasida baxtsiz hodisa sodir bo'lgan joy shartli belgi bilan belgilanadi",
+        "ishlab chiqarishdagi jarohatlanishdan keltirilgan iqtisodiy zarar, shuningdek mehnat xavfsizligi chora-tadbirlariga sarflangan mablag'larning to'g'ri taqsimlanganligi baxtsiz hodisalarning oldini olishga ketgan xarajatlarning samaradorligi aniqlanadi."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 113,
+      "question": "Ergonomik usulda",
+      "options": [
+        "mehnat turlarining o'ziga xos tomonlari ergonomic omillarning (mashina, mexanizmning boshqarish organlarida zo'riqish, ishchining ish bajarayotgandagi holati va boshq.) mehnat xavfsizligiga ta'sir darajasi baholanadi",
+        "ishlab chiqarishdagi jarohatlanishdan keltirilgan iqtisodiy zarar, shuningdek mehnat xavfsizligi chora-tadbirlariga sarflangan mablag'larning to'g'ri taqsimlanganligi baxtsiz hodisalarning oldini olishga ketgan xarajatlarning samaradorligi aniqlanadi.",
+        "baxtsiz hodisa sodir bo'lgan joy aniqlanadi. Buning hun xo'jalikniig (bo'lim, fermer xo'jaligi, brigada va boshq.) bosh rejasida baxtsiz hodisa sodir bo'lgan joy shartli belgi bilan belgilanadi",
+        "aniq ish joyi, uchastka, uskuna, mashina, mexanizm yoki texnologik jarayonda yuzaga kelgan xavfli yoki zararli ishlab chiqarish omillari tahlil qilinadi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 114,
+      "question": "Iqtisodiy usulda",
+      "options": [
+        "ishlab chiqarishdagi jarohatlanishdan keltirilgan iqtisodiy zarar, shuningdek mehnat xavfsizligi chora-tadbirlariga sarflangan mablag'larning to'g'ri taqsimlanganligi baxtsiz hodisalarning oldini olishga ketgan xarajatlarning samaradorligi aniqlanadi",
+        "baxtsiz hodisa sodir bo'lgan joy aniqlanadi. Buning hun xo'jalikniig (bo'lim, fermer xo'jaligi, brigada va boshq.) bosh rejasida baxtsiz hodisa sodir bo'lgan joy shartli belgi bilan belgilanadi.",
+        "mehnat turlarining o'ziga xos tomonlari ergonomic omillarning (mashina, mexanizmning boshqarish organlarida zo'riqish, ishchining ish bajarayotgandagi holati va boshq.) mehnat xavfsizligiga ta'sir darajasi baholanadi",
+        "aniq ish joyi, uchastka, uskuna, mashina, mexanizm yoki texnologik jarayonda yuzaga kelgan xavfli yoki zararli ishlab chiqarish omillari tahlil qilinadi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 115,
+      "question": "Baxtsiz hodisa",
+      "options": [
+        "Sog'lom turmush tarzi, zararli odatlardan foydalanmaslik, avariya, ishning to'g'ri tashkil etilganligi",
+        "Sog'lom ovqatlanish, N-1 shakldagi dalolatnoma, tabiiy ofatlar, vaqtida dam olish, ob –havo ta'siri",
+        "Turli tabiiy ofat, avariya va boshqa koʻngilsiz hodisalar oqibatida badanga shikast yetish, mayib boʻlish yoki oʻlish hollari",
+        "Tug'ri dam olish, ko'ngilsiz hodisalarning kuzatilishi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 116,
+      "question": "N-1 shaklidagi dalolatnomalar qachon to'ldiriladi",
+      "options": [
+        "Ishchi xodin tatilga chiqqanda",
+        "Ishchilar safarga yuborilganda",
+        "Ish jarayonida baxtsiz hodisa sodir bo'ganda",
+        "Ishchi xodim moosh olganda"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 117,
+      "question": "Ishchilarga har xil zararli ta'sir qiladigan moddalardan muhofaza qiluvchi moddalar hamda moslamalar tayyorlash va qo'llash, havo almashtirish tizimlarini o'rnatish, eski turlarini qayta jihozlash, zamonaviy ishlab chiqarish jihoz-dastgohlardan foydalanish, havo haroratini, tarkibini kuzatadigan asboblarni o'matish",
+      "options": [
+        "Kasb kasalliklarini kamaytiradigan chora-tadbirlar",
+        "Baxtsiz hodisalarning oldini olishga qaratilgan chora-tadbirlar",
+        "Ish sharoitini yaxshilashga qaratilgan chora-tadbirlar",
+        "Dam olishni tashkillashtirish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 118,
+      "question": "Ish sharoitini yaxshilashning asosiy maqsadi nima.",
+      "options": [
+        "Ishchilar salomatligini saqlash",
+        "Ish vaqtini qisqartirish, himoya vositasisiz ishlash",
+        "Ishchilarni nazorat qilish, tibbiy ko'rikdan o'tishni to'xtatish",
+        "Ish haqlarini kamaytirish, texnika xavfsizligi o'odalarini o'rgatish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 119,
+      "question": "Favqulodda vaziyat deganda nima tushuniladi.",
+      "options": [
+        "Texnika xavfsizligi qoidasinihg ishchilarga tushuntirish va o'rgatish",
+        "Oddiy ishlab chiqarish jarayoni atrof-muhitga zarar yetkazmaydigan holat",
+        "Odamlar hayoti, sog'lig'i yoki atrof-muhitga zarar yetkazuvchi holat",
+        "Odamlar uchun qulay sharoit yaratish ish unumdorligini oshishi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 120,
+      "question": "Tabiiy xususiyatli favqulodda vaziyatlarga quyidagilardan qaysi biri kiradi.",
+      "options": ["Zilzila", "Yong'in", "Kimyoviy avariya", "Transport halokati"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 121,
+      "question": "Quyidagilardan qaysi biri texnogen favqulodda vaziyatga misol bo'ladi.",
+      "options": [
+        "Neft quvurining portlashi",
+        "Vulkan otilishi",
+        "Sel oqimi",
+        "Qurg'oqchilik"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 122,
+      "question": "Zilzila kuchi qaysi birlikda o'lchanadi.",
+      "options": [
+        "Rixhter shkalasi bo'yicha ball va magnituda",
+        "Ball va santimetrda",
+        "Termometr va luksametrda",
+        "Ampermetr va barametrda"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 123,
+      "question": "Radiatsion avariya deganda nima tushuniladi.",
+      "options": [
+        "Elektromagnit to'lqinlar bilan bog'liq avariya, suv toshqini hodisasi",
+        "Radioaktiv moddalarning atrof-muhitga tarqalish hodisasi",
+        "Yong'in, avtohalokat, shamol va dovul bo'lishi",
+        "Suv toshqini, qor ko'chish va metropolitendagi halokatlar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 124,
+      "question": "Yong'in xavfi paytida birinchi navbatda nima qilinadi.",
+      "options": [
+        "Elektr tarmog'ini uzish va odamlarni evakuatsiya qilish",
+        "Derazalarni yopish, suv serish kerak",
+        "Telefon orqali101ga qo'ng'iroq qilish, sigatet chekish",
+        "Hujjatlarni yiqish va eshik derazani ochish kerak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 125,
+      "question": "Favqulodda vaziyatlar oqibatlarini bartaraf etuvchi davlat tizimi bu",
+      "options": [
+        "Ichki ishlar bo'limi",
+        "Davlat soliq qo'mitasi",
+        "Favqulodda vaziyatlar vazirligi",
+        "Ekologiya vazirligi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 126,
+      "question": "FVlar natijasida 10 dan ortiq bo'lmagan odam jabrlangan, moddiy zarar eng kam oylik ish haqi miqdorining 1 ming baravaridan ortiq bo'lmaganni tashkil etadigan hamda FV zonasi ishlab chiqarish ob'еkti yoki ijtimoiy maqsadli ob'еkt hududi tashqarisiga chiqmaydigan FV.",
+      "options": ["Lokal", "Mahalliy", "Respublika", "Transchegaraviy"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 127,
+      "question": "FVlar natijasida 10 dan ortiq, biroq 500 dan ko'p bo'lmagan odam jabrlangan, moddiy zarar eng kam oylik ish haqi miqdorining 1 ming baravaridan ortiqni, biroq 0,5 million baravaridan ko'p emas, tashkil etadigan hamda FV zonasi aholi punkti, shahar, tuman, viloyat tashqarisiga chiqmaydigan FV.",
+      "options": ["Mahalliy", "Respublika", "Transchegaraviy", "Lokal"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 128,
+      "question": "FVlar natijasida 500 dan ortiq odam jabrlangan, moddiy zarar eng kam oylik ish haqi miqdorining 0,5 million baravaridan ortiqni tashkil etadigan hamda FV zonasi viloyat tashqarisiga chiqadigan FV",
+      "options": ["Respublika", "Mahalliy", "Transchegaraviy", "Lokal"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 129,
+      "question": "FVlar oqibatlari mamlakat tashqarisiga chiqadigan, chеt elda yuz bеrgan va O'zbеkiston xududiga daxl qiladigan FV.",
+      "options": ["Transchegaraviy", "Respublika", "Mahalliy", "Lokal"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 130,
+      "question": "Favqulodda vaziyatlar tavsifiga ko'ra (sababi va kelib chiqish manbaiga ko'ra)",
+      "options": [
+        "Tabiiy tusdagi FV. Texnogen tusdagi FV. Ekologik tusdagi FV",
+        "Tabiiy, zilzila , ko'chki, o'pirilish, ekologik tusdagi FV",
+        "Texnogen, transport avariyalari, yong'in, ekologik tusdagi FV",
+        "Ekologik, qurg'oqchilik, cho'llanish ,tabiiy tusdagi FV, texnogen tusdagi FV"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 131,
+      "question": "Geologik xavfli hodisalar, gidrometeorologik xavfli hodisalar, favqulodda epidemiologik, epizootik va epifitotik vaziyatlar qanaqa FV turiga kiradi",
+      "options": ["Tabiiy", "Texnogen", "Ekologik", "Gidrometerologik"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 132,
+      "question": "Yer osti zarbasi va yer ustki qatlamining tebranishi bo'lib, tabiiy ofatlar, texnologik jarayonlar tufayli yuzaga keladi",
+      "options": ["Yong'in", "Yer silkinishi", "Avariya", "Aviohalokat"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 133,
+      "question": "Yer silkinishi yuzaga kelish sabablariga ko'ra qanday guruhlarga bo'linadi",
+      "options": [
+        "Tektonik ,Vulqon, Ag'darilish, o'pirilish zilzilalari",
+        "Tektonik, epidemiologik, epizotik",
+        "Vulqon, avariya, halokat",
+        "Ag'darilish, zoonoz, qurg'oqchilik"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 134,
+      "question": "Zilzila kuchi qanaqa oichov birligida oichanadi",
+      "options": [
+        "Ballarda.Magnitudada",
+        "Gers, Barometr",
+        "Aktinometr, termometr",
+        "Shumometr, ballarda"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 135,
+      "question": "Zilzila kuchi necha xil oichov birligida oichanadi",
+      "options": ["3", "2", "1", "4"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 136,
+      "question": "alohida xavfli infeksiyalarga tegishli bo'lmagan, yuqish manbai bitta yoki yuqish omili bir xil bo'lgan odamlarning guruh bo'lib yuqumli kasallanishi, bir aholi punktida — 50 kishi va undan ortiq",
+      "options": [
+        "Epidemiya",
+        "o'rta kasallanish, evakuasiya",
+        "og'ir kasallanish",
+        "engil kasallanish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 137,
+      "question": "hayvonlarning ommaviy kasallanishi yoki nobud bo'lishi;",
+      "options": ["epidemiya", "Epizootiya", "epifitotiya", "pandemiya"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 138,
+      "question": "o'simliklarning ommaviy nobud bo'lishi.",
+      "options": ["epifitotiya", "pandemiya", "epidemiya", "epizootiya"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 139,
+      "question": "Yonuvchi moddaning havo kislorodi yoki boshqa oksidlovchi modda bilan oksidlanishining tez kechadigan kimyoviy reaksiyasi bo'lib, bunda yorug'lik va issiqlik ajraladi.",
+      "options": ["Kasallik", "Favqulotda vaziyat", "Yonish", "Texnogen hodisa"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 140,
+      "question": "Yong'in sodir bo'lishi uchun 3 omil kerak ular qaysilar",
+      "options": [
+        "Yonuvchi modda, uchqun, kislorod",
+        "Go'gurt, benzin, suv",
+        "Mato, chelak, belkurak",
+        "Lom ,ilgak, shlang"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 141,
+      "question": "Yonishning turlari.",
+      "options": [
+        "Chaqnash, alangalanish, o'z-o'zidan alangalanish, o'z-o'zidan yonish",
+        "Yonish , charchash, bug'ilish, bostirish",
+        "Karbon II oksidi, o'z-o'zidan alangalanish",
+        "Azot,chaqnash , argon alangalanish, suyultirish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 142,
+      "question": "Sanoat korxonalari va omborlari yonish va portlash xavfi bo'yicha nechta toifalarga bo'linadi",
+      "options": ["4", "5", "6", "3"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 143,
+      "question": "Yong'in haqida xabar berish uchun qaysi raqamga qo'ng'iroq qilinadi.",
+      "options": ["103", "112", "101", "102"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 144,
+      "question": "Kukunli o't o'chirgichlar qaysi turdagi yong'inlarga qarshi ishlatiladi.",
+      "options": [
+        "Turli xil moddalarning yong'inlarida",
+        "Yog'och va qog'oz",
+        "Suyuq yonuvchilar",
+        "Gaz yong'inlarida"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 145,
+      "question": "Evakuatsiya vaqtida liftlardan foydalanish mumkinmi.",
+      "options": [
+        "Yo'q, qat'iyan taqiqlanadi",
+        "Ha, agar tez bo'lsa",
+        "Faqat yuqori qavatlarda",
+        "Yong'inchilar ruxsati bilan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 146,
+      "question": "Yong'in xavfsizligi to'g'risida O'RQ",
+      "options": [
+        "2000 yil 10may",
+        "2024 yil 10 avgust",
+        "2009 yil 24 iyn",
+        "2012 yil 3 noyabr"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 147,
+      "question": "Yong'inni o'chirish usullari",
+      "options": [
+        "Sovutish, suyultirish, izolyatsiya, bostirish",
+        "Suv, benzin, gugurt, sovutish, bostirish",
+        "Izolyasiya, taxta, paxta, suyultirish, dimlash",
+        "Bostirish, olov, uchqun, izolyasiya qilish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 148,
+      "question": "Yong'in o'chirish moslamalari",
+      "options": [
+        "Texnik vositalar, mobil vositalar, birlamchi vositalar",
+        "Suv, bug' olov vositalar, birlamchi vositalar, gugurt",
+        "Gugurt, havo mashina , texnik vositalar, benzin",
+        "Qum, suv, kerasin, birlamchi vositalar, mato, chelak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 149,
+      "question": "Yong'in xavfsizligini ta'minlashning asosiy tizimlari.",
+      "options": [
+        "yong'inning oldini olish tizimi, yong'inga qarshi muhofaza tizimi",
+        "olov , yog', yong'inga qarshi muhofaza tizimi",
+        "gugurt, suv, yong'inning oldini olish tizimi",
+        "chang, tashkiliy – texnik tadbirlar tizimi mato mashina, gugurt, yong'inni oldini olish tizimi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 150,
+      "question": "Yong`inni o'chirishning asosiy vositalari",
+      "options": [
+        "yong`inga o`t o`chirgich moddalarni (suv, ko`pik, kukun, karbonat angidrid gazi va boshq.) sepish uchun belgilangan. Bularga avtomobil, avtosisterna, motopompa, o`t o`chirgichlar",
+        "yong`inni o`chirishda maxsus ishlarni bajarish uchun ishlatiladigan moslamalar . Ularga avtonarvonlar va tirsakli ko`targichlar, yoritish va aloqa avtomobillari, shuningdek operativ avtomobillar",
+        "mashina ,suv gugurt, uchqun, yoritish va aloqa avtomobillari, shuningdek operativ avtomobillar",
+        "yong`inni o`chirishdagi ishlarni bajarish uchun yetarli sharoit yaratadi. Bularga avtosuv quygichlar, yuk avtomobillari, avtobuslar, traktor va boshqa mashinalar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 151,
+      "question": "Yong'inni o'chirishning maxsus vositalari",
+      "options": [
+        "yong`inni o`chirishda maxsus ishlarni bajarish uchun ishlatiladi. Ularga avtonarvonlar va tirsakli ko`targichlar, yoritish va aloqa avtomobillari, shuningdek operativ avtomobillar",
+        "benzin, moy, suv yong`inni o`chirishdagi ishlarni bajarish uchun yetarli sharoit yaratadi,ularga avtosuv quygichlar kiradi",
+        "mashina ,suv gugurt, uchqun yuk avtomobillari, avtobuslar, traktor va boshqa mashinalar",
+        "yong`inni o`chirishdagi ishlarni bajarish uchun yetarli sharoit yaratadi. Bularga avtosuv quygichlar, yuk avtomobillari, avtobuslar, traktor va boshqa mashinalar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 152,
+      "question": "Yonuvch gazlar bilan bug'larning xavo bilan aralashmay yong'n sodir bo'lishi",
+      "options": [
+        "Kenitik yonish",
+        "Duffuz yonish",
+        "Yong'in sodit bo'lmasligi",
+        "Suv bilan yonish"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 153,
+      "question": "Yonuvch gazlar bilan bug'larning xavo bilan aralashgandan keyin yong'n sodir bo'lishi",
+      "options": [
+        "Kenetik yonish",
+        "Duffuz yonish",
+        "Suv bilan yonish",
+        "Yong'in sodit bo'lmasligi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 154,
+      "question": "Havo ta'sirida o'z-o'zidan yonuvchi moddalar",
+      "options": [
+        "O'simlik va hayvon yog'lari , tosh va kulrang ko'mir",
+        "Karbit, aston, suv, kiyim kechaklar, metallar",
+        "Ohak , yog'och, metal, o'simlik yog'lari",
+        "Xlor, brom ,ftor, ohak , yog'och, metal"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 155,
+      "question": "O't o'chirishning asosiy maqsadi nima.",
+      "options": [
+        "Yong'inni to'xtatish va o'chirish",
+        "Yong'in sabablarini aniqlash",
+        "Yong'inni tezda yoyish",
+        "Yonuvchi moddalarni ko'paytirish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 156,
+      "question": "Suv yordamida o't o'chirish asosan qaysi moddalar uchun samarali.",
+      "options": [
+        "Yog'och, qog'oz, mato",
+        "Neft mahsulotlari",
+        "Metall kukunlari",
+        "Elektr jihozlari"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 157,
+      "question": "Qaysi holatda suv bilan o't o'chirish man etiladi.",
+      "options": [
+        "Qog'oz yong'inida",
+        "Elektr tarmog'i ostida yong'in chiqqanda",
+        "Daraxt yong'inida",
+        "Plastmassa yonganida"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 158,
+      "question": "Quruq kukunli o't o'chirgichlar asosan qaysi turdagi yong'inlarda ishlatiladi.",
+      "options": [
+        "Gaz va suyuqlik yong'inlarida",
+        "Tosh va yog'och yong'inida",
+        "Taxta elektr yong'inlarida",
+        "Suv bilan o'chirish mumkin bo'lganlarda"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 159,
+      "question": "Yon''inni o'chirishning fizik usuli nimalarga asoslanadi.",
+      "options": [
+        "Yonuvchi modda haroratini pasaytirish",
+        "Kimyoviy reaksiyani tezlashtirish",
+        "Havoni ko'paytirish",
+        "Yonishni kuchaytirish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 160,
+      "question": "O't o'chirishning kimyoviy usuli nimani anglatadi.",
+      "options": [
+        "Yonuvchi moddaning havodan ajratilishi",
+        "Yonish reaksiyasini kimyoviy yo'l bilan to'xtatish",
+        "Yonuvchi modda haroratini oshirish",
+        "Kislorod miqdorini ko'paytirish"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 161,
+      "question": "Qaysi vosita elektr jihozlari yonganida eng xavfsiz hisoblanadi.",
+      "options": [
+        "CO₂ o't o'chirgich",
+        "Nam mato",
+        "Qum",
+        "Suv"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 162,
+      "question": "Qum bilan o't o'chirishning asosiy printsipi nima.",
+      "options": [
+        "Yonish uchun havo kirishini to'sish",
+        "Yonuvchi moddani sovutish",
+        "Yonishni kuchaytirish",
+        "Kislorodni ko'paytirish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 163,
+      "question": "Yong'in chiqishiga eng ko'p sabab bo'ladigan omil qaysi.",
+      "options": [
+        "Elektr simlarining ishdan chiqishi",
+        "Issiqlik almashinuvi",
+        "Nam joyda saqlash",
+        "To'g'ri ishlatilgan elektr asboblari"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 164,
+      "question": "Taxikardiya nima?",
+      "options": [
+        "kon bosimining pasayishi",
+        "pulsning tezlashishi",
+        "pulsning pasayishi",
+        "kon bosimining oshishi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 165,
+      "question": "Bemorning shaxsiy gigienasiga kiradi..",
+      "options": [
+        "og'iz bo'shligi tozalash, qulog'ini tozalash, chumiltirish",
+        "tirnoklarini olish, chumiltirish",
+        "uy xavosini tozalash, toza xavoda bulish",
+        "uy xavosini tozalash, ovkatlantirish, chumiltirish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 166,
+      "question": "Zaxarli moddalar organizmga qaysi yo'llar orqali kiradi?",
+      "options": [
+        "Barchasi to'g'ri",
+        "Nafas yullari orqali",
+        "Teri va shilik kavatlar orkali",
+        "ogiz orqali"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 167,
+      "question": "Spirometr nima uchun ishlatiladi?",
+      "options": [
+        "O'pkaning tiriklik sig'imini o'lchash uchun",
+        "Yurak urishini aniklash uchun",
+        "Pulsni ulchash uchun",
+        "qon bosimini aniklash uchun"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 168,
+      "question": "Zotiljam nima?",
+      "options": [
+        "Yuqori nafas yullarining yalliglanishi",
+        "Bronxning yalliglanishi",
+        "O'pkaning yallig'lanishi",
+        "Ichaklarning yalliglanishi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 169,
+      "question": "Gipoksiya nima?",
+      "options": [
+        "To'qimalarda kislorod yetishmasligiga",
+        "kon tarkibida gemoglabin kamayishi",
+        "kislorod mikdori kam bulgan gaz aralashmalaridan nafas yullari berkilib kolganda vujudga keladi.",
+        "arterial kon kislorod bilan etarlicha tuyinmagan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 170,
+      "question": "Gepatit qanday kasallik?",
+      "options": [
+        "Jigarning yallig'lanishi",
+        "Buyrakning yalliglanishi",
+        "Bronxlarning yalliglanishi",
+        "Ichaklarning yalliglanishi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 171,
+      "question": "Jaroxatlangan odam necha litr qon yoqotgandan so'ng gemorragik shok xolatiga tushadi?",
+      "options": ["1,5 litr", "200 gramm", "4 litr", "5 litr"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 172,
+      "question": "Tinchlantiruvchi dorilarga kiradi..",
+      "options": ["Dibazol", "Valeriana, validol", "Analgin", "ampitsillin"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 173,
+      "question": "Sinishlar qachon kelib chiqadi?",
+      "options": [
+        "Mexanik kuchlar ta'sirida",
+        "Buralishdan",
+        "Cho'zilishdan",
+        "Ko'p yurish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 174,
+      "question": "Kuyishning kengligini aniqlash uchun qaysi usul ko'proq ishlatiladi?",
+      "options": [
+        "To'qqizlik qoidasi",
+        "Orientir usuli",
+        "Postnikov usuli",
+        "Pavlov usuli"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 175,
+      "question": "Lat eyishda birinchi yordam nima?",
+      "options": [
+        "Muzli xaltacha qo'yish",
+        "Og'riqsizlantiruvchi dori ichirish",
+        "Bintlash",
+        "Grelka kuyish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 176,
+      "question": "Jgut qachon ishlatiladi?",
+      "options": [
+        "Katta qon-tomirlardan qon ketganda",
+        "Kapillyarlardan qon ketganda",
+        "Ichki organlardan qon ketganda",
+        "Qon to'xtaganda"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 177,
+      "question": "Ko'p uchraydigan kuyish",
+      "options": ["Termik", "Kimyoviy", "Elektrik", "Nur"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 178,
+      "question": "Karantin nima?",
+      "options": [
+        "Aloxidalash",
+        "Observatsiya qilish",
+        "O'choqqa kirish va chikishni ta'kiklash",
+        "Evakuatsiya kilish"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 179,
+      "question": "Pandemiya bu",
+      "options": [
+        "Bir davlat xududida tarkalishi",
+        "Yuqumli kasallikning dunyo bo'yicha tarqalishi",
+        "Bir oilada tarkalishi",
+        "Kasallik tarqalmasligi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 180,
+      "question": "Vabo kasalligining asosiy yuqish omillari nima?",
+      "options": ["Sut", "Suv", "Gusht", "Meva"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 181,
+      "question": "Grippning yuqish mexanizmi",
+      "options": [
+        "Xavo-tomchi yo'li",
+        "Transmissiv",
+        "Kontakt yuli",
+        "ogiz, najas"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 182,
+      "question": "Tana harorati ko'tarilganda birinchi yordam nima?",
+      "options": [
+        "Sovuq kompress, badanni spirt yoki aroq bilan ishkalash,ko'p suyuqlik ichirish",
+        "Oshqozonni yuvish, kofe berish, ichakni tozalash, xamir ovqat berish, muzli xaltacha qo'yish",
+        "Issiq kompress qo'yish , ko'p suyuqlik ichirish, vanna qabul qilish",
+        "Oyoqqa issik grelka qo'yish, shkolat berish, sovuq suvda dush qabul qilish, o'ranib yotish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 183,
+      "question": "Sovuq olishning qaysi darajasida jarayon suyakgacha etib boradi?",
+      "options": [
+        "4- darajasida",
+        "3- darajasida",
+        "2- darajasida",
+        "3 va 4- darajasida"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 184,
+      "question": "Kuyishning qaysi darajasida terining qizorishi va shishi xarakterli?",
+      "options": [
+        "1- darajasida",
+        "3- darajasida",
+        "2- darajasida",
+        "4- darajasida"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 185,
+      "question": "Kuyishda nechta davr bor?",
+      "options": ["4 ta", "6 ta", "8 ta", "2 ta"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 186,
+      "question": "Qon ketishi turlaridan qaysi biri eng xavfli?",
+      "options": [
+        "Arterial qon ketishi",
+        "Venoz qon ketishi",
+        "Kapillyar qon ketishi",
+        "Aralash qon ketishi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 187,
+      "question": "Dezinfeksiya nima?",
+      "options": [
+        "Mikroblarni zararsizlantirish",
+        "Viruslarni uldirish",
+        "Kemiruvchilarni yukotish",
+        "Hasharotlar yukotish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 188,
+      "question": "2 -darajali kuyish belgilari..",
+      "options": [
+        "Teri qizoradi, pufakchalar paydo bo'ladi",
+        "Teri qizoradi, shishadi",
+        "Teri qizoradi, shishadi, pufakchalar paydo bo'ladi",
+        "Pufakchalar paydo buladi, teri pustlok xosil qiladi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 189,
+      "question": "Gipertoniya bu..",
+      "options": [
+        "oshib ketgan arterial bosim kasalligi",
+        "asab tizimi va tonusining buzilishi",
+        "pulsning tezlashuvi",
+        "yurak muskuli kiskarishining buzilishi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 190,
+      "question": "Gipotoniya nima?",
+      "options": [
+        "asab tizimi va tonusining buzilishi",
+        "qon bosimining pasayishi",
+        "pulsning tezlashuvi",
+        "yurak muskuli kiskarishining buzilishi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 191,
+      "question": "O'tkir zaxarlanishda birinchi tibbiy yordam..",
+      "options": [
+        "oshqozonni yuvish, klizma qilish",
+        "dimedrol, novokain ichirish",
+        "suyuk ovkat berish",
+        "nashatir spirti xidlatish, suv ichirish."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 192,
+      "question": "Qon ketishni to'xtatish uchun qaysi dorilar ishlatiladi?",
+      "options": [
+        "ditsinon, vikasol",
+        "analgin, ditsinon",
+        "kalsiy xlor, validol",
+        "dibazol, vikasol"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 193,
+      "question": "Ammiak va fosfor bilan zaxarlanganda birinchi tez tibbiy yordam nima?",
+      "options": [
+        "oshkozonni yuvish, 4 % li soda eritmasini ichirish",
+        "kislorod berish va shifoxonaga yotkizish",
+        "oshkozonni yuvish, novokain ichirish",
+        "novokain ichirish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 194,
+      "question": "Isitma 40 grad. va undan yuqori bo'lganda birinchi yordam nima?",
+      "options": [
+        "sovuq kompress qo'yish, badanni spirt bilan artish berish",
+        "kul-oyokka grelka kuyish, kofe ichirish",
+        "issik kompress kuyish, moy chechakli damlama ichirish",
+        "issik choy, kofe ichirish, nosh-pa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 195,
+      "question": "Ximiyaviy modda ko'zga tushganda tez yordam..",
+      "options": [
+        "20-30 daqiqa ichida suv bilan yuvish, quruq boglam kuyish",
+        "toza bint bilan urab kuyish",
+        "darxol kasalxonaga yuborish",
+        "yotkizib kuyish, kuruk boglam kuyish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 196,
+      "question": "Is gazi bilan zaxarlanganda birinchi yordam..",
+      "options": [
+        "Sovuq suv ichish, muzli suv ichish",
+        "toza xavo, sun'iy nafas berish, nashatir spiriti",
+        "toza xavo, oshqozonni yuvish, tomir ichiga glyukoza yuborish",
+        "til ostiga validol, nitroglitserin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 197,
+      "question": "Hushdan ketganda birinchi tibbiy yordam..",
+      "options": [
+        "nashatir spirtini xidlatish",
+        "shikastlangan kishining boshini pastga qilib qo'yish, oyoqlarini balandga qilib qo'yish",
+        "yuziga suv sepish, 20 % li 1 ml kofein eritmasi bilan in'eksiya qilish",
+        "oyoqga issik grelka qo'yish, teri ostiga kofein yuborish"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 198,
+      "question": "Birinchi tibbiy yordamning asosiy maqsadi",
+      "options": [
+        "jabrlanuvchining hayotini saqlab qolish, zarar etkazuvchi omilning doimiy ta'sirini bartaraf etish va uni zararlangan hududdan tezda evakuatsiya qilish",
+        "zararlangan hududda qoldirish",
+        "ko'chirish",
+        "jabrlanuvchining hayotini saqlab qolish"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}
