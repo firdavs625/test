@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState, useCallback } from 'react';
+import { useEffect, useState, useCallback, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { TestSession } from '@/types';
 import { formatTime, getTimeOptions, calculatePercentage, getScoreColor, getScoreBgColor } from '@/lib/utils';
@@ -20,7 +20,7 @@ interface Question {
 
 type TestMode = 'setup' | 'group-waiting' | 'test' | 'result';
 
-export default function RandomTestPage() {
+function RandomTestContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const joinedSessionId = searchParams.get('session');
@@ -949,4 +949,16 @@ export default function RandomTestPage() {
   }
 
   return null;
+}
+
+export default function RandomTestPage() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen bg-gray-50 flex items-center justify-center">
+        <i className="fas fa-spinner fa-spin text-4xl text-primary"></i>
+      </div>
+    }>
+      <RandomTestContent />
+    </Suspense>
+  );
 }

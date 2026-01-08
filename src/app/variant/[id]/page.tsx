@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState, useCallback } from 'react';
+import { useEffect, useState, useCallback, Suspense } from 'react';
 import { useRouter, useParams, useSearchParams } from 'next/navigation';
 import { Variant, TestSession, Question } from '@/types';
 import { formatTime, getTimeOptions, calculatePercentage, getScoreColor, getScoreBgColor } from '@/lib/utils';
@@ -13,7 +13,7 @@ interface User {
 
 type TestMode = 'select' | 'individual' | 'group-setup' | 'group-waiting' | 'group-test' | 'result';
 
-export default function VariantPage() {
+function VariantPageContent() {
   const params = useParams();
   const router = useRouter();
   const searchParams = useSearchParams();
@@ -1024,4 +1024,19 @@ export default function VariantPage() {
   }
 
   return null;
+}
+
+export default function VariantPage() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen flex items-center justify-center">
+        <div className="text-center">
+          <i className="fas fa-spinner fa-spin text-4xl text-blue-600 mb-4"></i>
+          <p className="text-gray-500">Yuklanmoqda...</p>
+        </div>
+      </div>
+    }>
+      <VariantPageContent />
+    </Suspense>
+  );
 }
