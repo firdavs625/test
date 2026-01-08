@@ -29,6 +29,7 @@ export async function GET(request: Request) {
         variantId: s.variantId,
         variantName: s.variantName || `Variant ${s.variantId}`,
         hostName: s.createdByName || 'Noma\'lum',
+        hostId: s.createdBy,
         participantCount: s.participants.length,
         status: s.status,
         isRandom: s.isRandom,
@@ -269,12 +270,63 @@ export async function PUT(request: Request) {
         return NextResponse.json({ success: true, session: sessionStore.getSession(sessionId) });
       }
 
+      case 'cancel': {
+        // Only creator can cancel
+        if (session.createdBy !== userId) {
+          return NextResponse.json(
+            { success: false, message: 'Faqat yaratuvchi bekor qilishi mumkin' },
+            { status: 403 }
+          );
+        }
+        sessionStore.deleteSession(sessionId);
+        return NextResponse.json({ success: true, message: 'Sessiya bekor qilindi' });
+      }
+
       default:
         return NextResponse.json(
           { success: false, message: 'Noma\'lum action' },
           { status: 400 }
         );
     }
+  } catch (error) {
+    return NextResponse.json(
+      { success: false, message: 'Server xatosi' },
+      { status: 500 }
+    );
+  }
+}
+
+// DELETE - Delete a session (only creator can delete)
+export async function DELETE(request: Request) {
+  try {
+    const { searchParams } = new URL(request.url);
+    const sessionId = searchParams.get('sessionId');
+    const userId = searchParams.get('userId');
+
+    if (!sessionId || !userId) {
+      return NextResponse.json(
+        { success: false, message: 'Session ID va User ID kerak' },
+        { status: 400 }
+      );
+    }
+
+    const session = sessionStore.getSession(sessionId);
+    if (!session) {
+      return NextResponse.json(
+        { success: false, message: 'Sessiya topilmadi' },
+        { status: 404 }
+      );
+    }
+
+    if (session.createdBy !== parseInt(userId)) {
+      return NextResponse.json(
+        { success: false, message: 'Faqat yaratuvchi o\'chirishi mumkin' },
+        { status: 403 }
+      );
+    }
+
+    sessionStore.deleteSession(sessionId);
+    return NextResponse.json({ success: true, message: 'Sessiya o\'chirildi' });
   } catch (error) {
     return NextResponse.json(
       { success: false, message: 'Server xatosi' },

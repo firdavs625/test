@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState, useCallback } from 'react';
-import { useRouter } from 'next/navigation';
+import { useRouter, useSearchParams } from 'next/navigation';
 import { TestSession } from '@/types';
 import { formatTime, getTimeOptions, calculatePercentage, getScoreColor, getScoreBgColor } from '@/lib/utils';
 
@@ -22,6 +22,9 @@ type TestMode = 'setup' | 'group-waiting' | 'test' | 'result';
 
 export default function RandomTestPage() {
   const router = useRouter();
+  const searchParams = useSearchParams();
+  const joinedSessionId = searchParams.get('session');
+  const isJoining = searchParams.get('joined') === 'true';
 
   // State
   const [user, setUser] = useState<User | null>(null);
@@ -55,7 +58,32 @@ export default function RandomTestPage() {
       return;
     }
     setUser(JSON.parse(storedUser));
-  }, [router]);
+
+    // If joining existing session
+    if (isJoining && joinedSessionId) {
+      loadJoinedSession(joinedSessionId);
+    }
+  }, [router, isJoining, joinedSessionId]);
+
+  const loadJoinedSession = async (sessionId: string) => {
+    try {
+      const res = await fetch(`/api/sessions?sessionId=${sessionId}`);
+      const data = await res.json();
+      if (data.success) {
+        setSession(data.session);
+        if (data.session.status === 'waiting') {
+          setMode('group-waiting');
+          setCountdown(Math.floor((data.session.createdAt + data.session.waitingTime * 1000 - Date.now()) / 1000));
+        } else if (data.session.status === 'active') {
+          setMode('test');
+          // Load questions
+          await fetchQuestions();
+        }
+      }
+    } catch (error) {
+      console.error('Sessiyani yuklashda xatolik:', error);
+    }
+  };
 
   // Polling for session updates
   const pollSession = useCallback(async () => {
@@ -559,7 +587,7 @@ export default function RandomTestPage() {
 
     return (
       <div className="min-h-screen bg-gray-50 p-4">
-        <div className={`max-w-3xl mx-auto ${testType === 'group' && showLeaderboard ? 'lg:mr-80' : ''}`}>
+        <div className={`max-w-3xl mx-auto ${testType === 'group' && showLeaderboard ? 'lg:mr-50' : ''}`}>
           {/* Header */}
           <div className="card p-4 mb-6">
             <div className="flex items-center justify-between mb-3">

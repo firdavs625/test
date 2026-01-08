@@ -21,6 +21,7 @@ interface ActiveSession {
   variantId: number;
   variantName: string;
   hostName: string;
+  hostId: number;
   participantCount: number;
   status: 'waiting' | 'active' | 'completed';
   isRandom?: boolean;
@@ -142,7 +143,7 @@ export default function Dashboard() {
     }
   };
 
-  const joinSession = async (sessionId: string, variantId: number) => {
+  const joinSession = async (session: ActiveSession) => {
     if (!user) return;
 
     try {
@@ -151,22 +152,46 @@ export default function Dashboard() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           action: 'join',
-          sessionId,
-          participant: {
-            id: user.id,
-            name: user.name,
-            score: 0,
-            answers: [],
-            finishedAt: null,
-          },
+          sessionId: session.id,
+          userId: user.id,
+          username: user.username,
+          name: user.name,
         }),
       });
 
       if (res.ok) {
-        router.push(`/variant/${variantId}?session=${sessionId}&joined=true`);
+        if (session.isRandom) {
+          router.push(`/random?session=${session.id}&joined=true`);
+        } else {
+          router.push(`/variant/${session.variantId}?session=${session.id}&joined=true`);
+        }
       }
     } catch (error) {
       console.error('Sessiyaga qo\'shilishda xatolik:', error);
+    }
+  };
+
+  const cancelSession = async (sessionId: string) => {
+    if (!user) return;
+
+    if (!confirm('Sessiyani bekor qilmoqchimisiz?')) return;
+
+    try {
+      const res = await fetch('/api/sessions', {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          action: 'cancel',
+          sessionId,
+          userId: user.id,
+        }),
+      });
+
+      if (res.ok) {
+        fetchActiveSessions();
+      }
+    } catch (error) {
+      console.error('Sessiyani bekor qilishda xatolik:', error);
     }
   };
 
@@ -229,27 +254,27 @@ export default function Dashboard() {
 
       <main className="max-w-7xl mx-auto px-4 py-8">
         {/* Quick Actions */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
           <button
             onClick={() => router.push('/random')}
-            className="bg-gradient-to-r from-purple-500 to-pink-500 text-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-all transform hover:scale-105"
+            className="bg-gradient-to-r from-purple-500 to-pink-500 text-white p-4 sm:p-6 rounded-xl shadow-lg hover:shadow-xl transition-all transform hover:scale-105"
           >
-            <i className="fas fa-random text-3xl mb-2"></i>
-            <h3 className="text-lg font-bold">Tasodifiy Test</h3>
-            <p className="text-sm opacity-90">Tasodifiy savollar bilan test</p>
+            <i className="fas fa-random text-2xl sm:text-3xl mb-2"></i>
+            <h3 className="text-base sm:text-lg font-bold">Tasodifiy Test</h3>
+            <p className="text-xs sm:text-sm opacity-90">Tasodifiy savollar</p>
           </button>
           <button
             onClick={() => router.push('/leaderboard')}
-            className="bg-gradient-to-r from-yellow-500 to-orange-500 text-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-all transform hover:scale-105"
+            className="bg-gradient-to-r from-yellow-500 to-orange-500 text-white p-4 sm:p-6 rounded-xl shadow-lg hover:shadow-xl transition-all transform hover:scale-105"
           >
-            <i className="fas fa-trophy text-3xl mb-2"></i>
-            <h3 className="text-lg font-bold">Reyting</h3>
-            <p className="text-sm opacity-90">Umumiy natijalar reytingi</p>
+            <i className="fas fa-trophy text-2xl sm:text-3xl mb-2"></i>
+            <h3 className="text-base sm:text-lg font-bold">Reyting</h3>
+            <p className="text-xs sm:text-sm opacity-90">Natijalar reytingi</p>
           </button>
-          <div className="bg-gradient-to-r from-blue-500 to-cyan-500 text-white p-6 rounded-xl shadow-lg">
-            <i className="fas fa-chart-bar text-3xl mb-2"></i>
-            <h3 className="text-lg font-bold">Mening statistikam</h3>
-            <p className="text-sm opacity-90">Testlar soni: -</p>
+          <div className="bg-gradient-to-r from-blue-500 to-cyan-500 text-white p-4 sm:p-6 rounded-xl shadow-lg">
+            <i className="fas fa-chart-bar text-2xl sm:text-3xl mb-2"></i>
+            <h3 className="text-base sm:text-lg font-bold">Statistika</h3>
+            <p className="text-xs sm:text-sm opacity-90">Testlar: -</p>
           </div>
         </div>
 
@@ -260,25 +285,26 @@ export default function Dashboard() {
               <i className="fas fa-users text-primary mr-2"></i>
               Faol guruh testlari
             </h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
               {activeSessions.map((session) => (
                 <div
                   key={session.id}
-                  className="bg-white rounded-xl shadow-md p-4 border-l-4 border-green-500"
+                  className="bg-white rounded-xl shadow-md p-4 border-l-4 border-green-500 hover:shadow-lg transition-shadow"
                 >
                   <div className="flex justify-between items-start mb-2">
-                    <h3 className="font-bold text-gray-800">
+                    <h3 className="font-bold text-gray-800 text-sm sm:text-base">
                       {session.isRandom ? (
                         <span className="text-purple-600">
                           <i className="fas fa-random mr-1"></i>
-                          Tasodifiy Test ({session.questionCount} savol)
+                          <span className="hidden sm:inline">Tasodifiy Test</span>
+                          <span className="sm:hidden">Random</span> ({session.questionCount})
                         </span>
                       ) : (
-                        session.variantName
+                        <span className="line-clamp-1">{session.variantName}</span>
                       )}
                     </h3>
                     <span
-                      className={`px-2 py-1 rounded-full text-xs font-medium ${
+                      className={`px-2 py-1 rounded-full text-xs font-medium whitespace-nowrap ${
                         session.status === 'waiting'
                           ? 'bg-yellow-100 text-yellow-700'
                           : session.status === 'active'
@@ -293,22 +319,36 @@ export default function Dashboard() {
                         : 'Yakunlandi'}
                     </span>
                   </div>
-                  <p className="text-sm text-gray-600 mb-2">
+                  <p className="text-sm text-gray-600 mb-2 truncate">
                     <i className="fas fa-user mr-1"></i>
-                    Tashkilotchi: {session.hostName}
+                    {session.hostName}
                   </p>
                   <p className="text-sm text-gray-600 mb-3">
                     <i className="fas fa-users mr-1"></i>
-                    Ishtirokchilar: {session.participantCount} kishi
+                    {session.participantCount} kishi
                   </p>
                   {session.status === 'waiting' && (
-                    <button
-                      onClick={() => joinSession(session.id, session.variantId)}
-                      className="w-full bg-green-500 text-white py-2 rounded-lg hover:bg-green-600 transition-colors"
-                    >
-                      <i className="fas fa-sign-in-alt mr-2"></i>
-                      Qo'shilish
-                    </button>
+                    <div className="flex gap-2">
+                      <button
+                        onClick={() => joinSession(session)}
+                        className="flex-1 bg-green-500 text-white py-2 rounded-lg hover:bg-green-600 transition-colors text-sm"
+                      >
+                        <i className="fas fa-sign-in-alt mr-1 sm:mr-2"></i>
+                        Qo'shilish
+                      </button>
+                      {session.hostId === user?.id && (
+                        <button
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            cancelSession(session.id);
+                          }}
+                          className="bg-red-500 text-white px-3 py-2 rounded-lg hover:bg-red-600 transition-colors"
+                          title="Bekor qilish"
+                        >
+                          <i className="fas fa-times"></i>
+                        </button>
+                      )}
+                    </div>
                   )}
                 </div>
               ))}
@@ -317,11 +357,11 @@ export default function Dashboard() {
         )}
 
         {/* Variants List */}
-        <h2 className="text-xl font-bold text-gray-800 mb-4">
+        <h2 className="text-lg sm:text-xl font-bold text-gray-800 mb-4">
           <i className="fas fa-list text-primary mr-2"></i>
           Test variantlari
         </h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
           {variants.map((variant) => (
             <div
               key={variant.id}

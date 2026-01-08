@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState, useCallback } from 'react';
-import { useRouter, useParams } from 'next/navigation';
+import { useRouter, useParams, useSearchParams } from 'next/navigation';
 import { Variant, TestSession, Question } from '@/types';
 import { formatTime, getTimeOptions, calculatePercentage, getScoreColor, getScoreBgColor } from '@/lib/utils';
 
@@ -16,7 +16,10 @@ type TestMode = 'select' | 'individual' | 'group-setup' | 'group-waiting' | 'gro
 export default function VariantPage() {
   const params = useParams();
   const router = useRouter();
+  const searchParams = useSearchParams();
   const variantId = parseInt(params.id as string);
+  const joinedSessionId = searchParams.get('session');
+  const isJoining = searchParams.get('joined') === 'true';
 
   // State
   const [user, setUser] = useState<User | null>(null);
@@ -49,7 +52,30 @@ export default function VariantPage() {
     }
     setUser(JSON.parse(storedUser));
     fetchVariant();
-  }, [router, variantId]);
+
+    // If joining existing session
+    if (isJoining && joinedSessionId) {
+      loadJoinedSession(joinedSessionId);
+    }
+  }, [router, variantId, isJoining, joinedSessionId]);
+
+  const loadJoinedSession = async (sessionId: string) => {
+    try {
+      const res = await fetch(`/api/sessions?sessionId=${sessionId}`);
+      const data = await res.json();
+      if (data.success) {
+        setSession(data.session);
+        if (data.session.status === 'waiting') {
+          setMode('group-waiting');
+          setCountdown(Math.floor((data.session.createdAt + data.session.waitingTime * 1000 - Date.now()) / 1000));
+        } else if (data.session.status === 'active') {
+          setMode('group-test');
+        }
+      }
+    } catch (error) {
+      console.error('Sessiyani yuklashda xatolik:', error);
+    }
+  };
 
   const fetchVariant = async () => {
     try {
@@ -625,7 +651,7 @@ export default function VariantPage() {
 
     return (
       <div className="min-h-screen p-4">
-        <div className={`max-w-3xl mx-auto ${mode === 'group-test' && showLeaderboard ? 'lg:mr-80' : ''}`}>
+        <div className={`max-w-3xl mx-auto ${mode === 'group-test' && showLeaderboard ? 'lg:mr-50' : ''}`}>
           {/* Header */}
           <div className="card p-4 mb-6">
             <div className="flex items-center justify-between mb-3">
