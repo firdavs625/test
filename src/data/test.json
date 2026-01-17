@@ -2,2006 +2,1179 @@
   "questions": [
     {
       "id": 1,
-      "question": "Mehnat muhofazasi bu",
-      "options": [
-        "insonning mehnat jarayonidagi xavfsizligi, sihat-salomatligi va uy joyning saqlanishiga qaratilgan tadbirlar",
-        "insonning mehnat jarayonidagi xavfsizligi, sihat-salomatligi va ish qobilyatining saqlanishiga qaratilgan tadbirlar",
-        "insonning mehnat jarayonidagi xavfsizligi, oziq ovqatlar va ish qobilyatining saqlanishiga qaratilgan tadbirlar",
-        "insonning dam olish jarayonidagi xavfsizligi, sihat-salomatligi va ish qobilyatining saqlanishiga qaratilgan tadbirlar"
-      ],
-      "correctAnswer": 1
+      "question": "Yer qobig‘idagi barcha mavjudotlar tizimi ... deb ataladi.",
+      "options": ["biosfera", "mezosfera", "litosfera", "atmosfera"],
+      "correctAnswer": 0
     },
     {
       "id": 2,
-      "question": "Mehnatni muhofaza qilish fani necha bo'limdan iborat:",
-      "options": ["4", "5", "7", "6"],
+      "question": "Ekologiya atamasini fanga birinchi marta kim kiritgan?",
+      "options": ["V.I.Vernadskiy", "Ch.Darvin", "K.Myobius", "E.Gekkel"],
       "correctAnswer": 3
     },
     {
       "id": 3,
-      "question": "Mehnatni muhofaza qilish qonununing yangi tahriri qachon qabul qilingan",
-      "options": [
-        "1996 yil 4 mart",
-        "2000 yil 24 may",
-        "2016 yil 22 sentyabr",
-        "1998 yil 20 iyn"
-      ],
+      "question": "Ekologiyaning predmeti nima?",
+      "options": ["Populyatsiya", "Mikroorganizmlar, hayvonlar va o'simliklarning turlari.", "Ekosistema", "Biosfera"],
       "correctAnswer": 2
     },
     {
       "id": 4,
-      "question": "Mehnat muhofazasi deganda nima tushuniladi?",
-      "options": [
-        "Ish vaqti hisobini yuritish tizimi.Ishchilarga haftalaik ish soatlarini taqsimlash, mehnatga haq to'lash",
-        "Ishlab chiqarish samaradorligini oshirish dasturi",
-        "Ishchilarni xavfsiz va sog'lom mehnat sharoitlari bilan ta'minlashga qaratilgan chora-tadbirlar tizimi",
-        "Ishlab chiqarish jarayonini avtomatlashtirish tizimi"
-      ],
+      "question": "Qaysi ibora autekologiya atamasining mohiyatini aks ettiradi?",
+      "options": ["populyatsiyalar ekologiyasi;", "turlarning ekologiyasi;", "Tur vakillari ekologiyasi;", "jamoalar ekologiyasi."],
       "correctAnswer": 2
     },
     {
       "id": 5,
-      "question": "O'zbekiston Respublikasida mehnat muhofazasi qaysi qonun bilan tartibga solinadi?",
-      "options": [
-        "\"Ishlab chiqarish xavfsizligi to'g'risida\"gi Qonun",
-        "\"Mehnat kodeksi\"",
-        "\"Kasaba uyushmalari to'g'risida\"gi Qonun",
-        "\"Ekologiya to'g'risida\"gi Qonun"
-      ],
-      "correctAnswer": 1
+      "question": "Sinekologiya ..… ni o'rganadi.",
+      "options": ["turlarning ekologiyasi;", "mikroorganizmlar ekologiyasi;", "yerdagi global jarayonlar;", "jamoalar ekologiyasi."],
+      "correctAnswer": 3
     },
     {
       "id": 6,
-      "question": "Mehnat muhofazasining asosiy maqsadi nima?",
-      "options": [
-        "Xodimlarning mehnat unumdorligini oshirish",
-        "Mehnatkashlarning hayoti, sog'lig'i va mehnat qobiliyatini saqlash",
-        "Ishlab chiqarish tannarxini kamaytirish, kasallanishni oldini olish",
-        "Mehnat jarayonini soddalashtirish, dam olishni kamaytirish"
-      ],
+      "question": "Ilk bor fanga “Ekologiya”so’zini kim olib kirgan?",
+      "options": ["Albert Эynshteyn", "Эrnest Gekkel", "Charvlz Darvin", "Karl Linney"],
       "correctAnswer": 1
     },
     {
       "id": 7,
-      "question": "Mehnat muhofazasi sohasidagi davlat siyosati kim tomonidan belgilanadi?",
-      "options": [
-        "Xalq deputatlari kengashi",
-        "Kasaba uyushmalari",
-        "O'zbekiston Respublikasi hukumati",
-        "Korxona rahbariyati"
-      ],
+      "question": "Demografik portlashning asosiy sababi:",
+      "options": ["Tug’ilishning ko’pligi.", "Xotin-qizlarni ko’payishi.", "Ovqatlanish va sanitariya gigiyena sharoitlarini yaxshilanishi.", "Sanoat inqilobi."],
       "correctAnswer": 2
     },
     {
       "id": 8,
-      "question": "Mehnat qonunchiligining asosiy prinsipi qaysi?",
-      "options": [
-        "Ishlab chiqarish rentabelligini ta'minlash, dam olishni tashkil etish",
-        "Mehnatga haq to'lashni oshirish, ishchilar mehnatini qo'llab quvvatlamaslik",
-        "Ishlab chiqarishdagi texnik jarayonlarni takomillashtirish",
-        "Xodimlarning huquqlari va sog'lig'ini himoya qilish"
-      ],
-      "correctAnswer": 3
+      "question": "“Tabiatni muhofaza qilish to’g’rsidagi’’ qonun qachon qabul qilingan?",
+      "options": ["1993 yil9 dekabr", "1993 yil 8dekabr", "1992yil 9 dekabr", "1994 yil 9-dekabr."],
+      "correctAnswer": 2
     },
     {
       "id": 9,
-      "question": "Mehnat muhofazasiga oid ko'rsatmalarni buzgan ish beruvchiga qanday javobgarlik choralari qo'llaniladi",
-      "options": [
-        "Intizomiy, ma'muriy yoki jinoiy javobgarlik",
-        "Jarima, ishdan mahrum qilish",
-        "Javobgarlik qo'llanilmaydi, ish stavkasi oshiriladi",
-        "Ogohlantirish, jarima to'lamaslik, jinoiy javobgarlik"
-      ],
-      "correctAnswer": 0
+      "question": "Ekologik muammolar ko’lamiga ko’ra necha guruhga bo’linadi?",
+      "options": ["4 ta", "3 ta", "2 ta", "5 ta"],
+      "correctAnswer": 1
     },
     {
       "id": 10,
-      "question": "Mehnat muhofazasi bo'yicha nazoratni kim amalga oshiradi?",
-      "options": [
-        "Tibbiyot muassasalari, mehnat muhofazasi bo'limlari",
-        "Xodimlar, oshpaz, kasaba uyushmalari",
-        "Mehnat inspeksiyasi va kasaba uyushmalari",
-        "Ish beruvchi, mehnat inspeksiyasi"
-      ],
+      "question": "Ekologiya fani nimani o’rganadi?",
+      "options": ["tirik organizmlarni o’rganadi", "tabiatga salbiy ta‘sir xususiyatlarini o’rganadi", "tirik organizmlarning yashash sharoiti va ularning o’zi yashab turgan muhit bilan o’zaro murakkab munosabatlari, hamda shu asosda vujudga keladigan qonuniyatlarni o’rganadi", "tirik organizmlarning yashash sharoiti va shu asosda vujudga keladigan qonuniyatlarni o’rganadi"],
       "correctAnswer": 2
     },
     {
       "id": 11,
-      "question": "Mehnat muhofazasining tarkibiy qismlariga nimalar kiradi",
-      "options": [
-        "Ish haqi va mukofot tizimi, sanitariya,yong'in xavfsizligi",
-        "Korxona ichki tartibi, texnika xavfsizligi, mehnat inspeksiyalari, jamoat salomatligi maskanlari",
-        "Mehnat ta'tili va dam olish tizimi",
-        "Texnika xavfsizligi, ishlab chiqarish sanitariyasi, yong'in xavfsizligi, ekologiya"
-      ],
+      "question": "Ekologiyaning tirik organizmlar turlarini o’rganuvchi bo’limi … deyiladi.",
+      "options": ["Sinekologiya", "Demekologiya", "Eydekologiya", "Autekologiya"],
       "correctAnswer": 3
     },
     {
       "id": 12,
-      "question": "Xodimni mehnat muhofazasi bo'yicha o'qitish va yo'riqnomadan o'tkazish kimning majburiyati hisoblanadi",
-      "options": [
-        "Ish beruvchi",
-        "Mehnat inspeksiyasi",
-        "Kasaba uyushmasi",
-        "O'zi xohlaganda o'tadi"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 13,
-      "question": "Mehnat sharoitlarini yaxshilash bo'yicha tadbirlar kim tomonidan ishlab chiqiladi?",
-      "options": [
-        "Ish beruvchi va kasaba uyushmasi hamkorligida",
-        "Davlat nazorat organlari",
-        "Ish beruvchi",
-        "Kasaba uyushmasi"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 14,
-      "question": "Qaysi javobda Mehnatni muhofaza qilish fanining asosan bo'limlari to'g'ri keltirilgan",
-      "options": [
-        "Mehnatni muhofaza qilishning nazariy asoslari. Mehnat muhofazasining huquqiy va tashkiliy asoslari.Ishlab chiqarish sanitariyasi va mehnat gigiyenasi. Xafsizlik texnikasi asoslari. Yong'in xavfsizligi. Jarohatlanganda birinchi tibbiy yordam ko'rsatish.",
-        "Mehnat muhofazasining huquqiy va tashkiliy asoslari. Ishlab chiqarish sanitariyasi va mehnat gigiyenasi. Moddiy javobgarlik. Xafsizlik texnikasi asoslari. Yong'in xavfsizligi.",
-        "Jarohatlanganda birinchi tibbiy yordam ko'rsatish. Mehnatni muhofaza qilishning nazariy asoslari. Mehnat muhofazasining huquqiy va tashkiliy asoslari. Ishlab chiqarish sanitariyasi va mehnat gigiyenasi.",
-        "Xafsizlik texnikasi asoslari. Mehnat yo'riqnomalari Yong'in xavfsizligi. Jarohatlanganda birinchi tibbiy yordam ko'rsatish. Jarohatlanganda birinchi tibbiy yordam ko'rsatish. Intizomiy jazo. Mehnat muhofazasining huquqiy va tashkiliy asoslari."
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 15,
-      "question": "Mehnat kodeksida mehnatni muhofazasi masalalari asosan qaysi bobda bayon qilingan?",
-      "options": ["5-bob", "10-bob", "12-bob", "13-bob"],
+      "question": "“Asrlar tutash kelgan pallada butun insoniyat, mamlakatimiz aholisi juda katta ekologik xavfga duch kelib qoldi. Buni sezmaslik, qo’l qovushtirib o’tirish, o’z-o’zini o’limga mahkum etish bilan barobardir”. Ushbu fikrni kim aytgan?",
+      "options": ["Sh.M.Mirziyoyev", "Abu Ali ibn Sino", "I.A.Karimov", "Abu Rayxon Beruniy"],
       "correctAnswer": 2
     },
     {
+      "id": 13,
+      "question": "“Ekologiya va atrof-muhitni muhofaza qilish sohasida davlat boshqaruvi tizimini takomillashtirish to’g‘risida”gi PF-5024 sonli Farmoni qachon qabul qilindi?",
+      "options": ["2017 yil 25 iyunda", "2017 yil 21-aprelda", "2018 yil 24-aprelda", "2018 yil 21-dekabrda"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 14,
+      "question": "Ekologiya fanining predmeti:",
+      "options": ["Insonning tabiatga ta’siri.", "Tiriklikni tuzilishi, rivojlanishi, miqdori.", "Organizmlar va ularning bioxilma-xilligi.", "Organizmlar va muhit o’rtasidagi o’zaro aloqadorliklar majmui yoki tuzilmasi"],
+      "correctAnswer": 3
+    },
+    {
+      "id": 15,
+      "question": "Ekologiyaning asosiy ob’yekti:",
+      "options": ["Biologik turlar", "Jonsiz tabiat komponentlari.", "Turlar, populyatsiyalar, biotik jamoalar, biosfera.", "Tirik organizmlar va ularni yashash muhiti bilan hosil qilgan tabiiy majmualar- ekotizimlar."],
+      "correctAnswer": 3
+    },
+    {
       "id": 16,
-      "question": "Mehnatni muhofazasi sohasida davlat nazoratini amalga oshiruvchi organ qaysi?",
-      "options": [
-        "Ichki ishlar vazirligi,sog'liqni saqlash vazirligi, adliya vazirligi, FVV, bandlik va mehnat munosabatlari",
-        "Sog'liqni saqlash vazirligi, yong'in xavfsizligi, texnika xavfsizligi",
-        "Bandlik va mehnat munosabatlari vazirligi huzuridagi Mehnat inspeksiyasi",
-        "Ekologiya qo'mitasi, mehnat inspeksiyasi"
-      ],
+      "question": "Quyidagilardan qaysi biri atrof-muhit ifloslanishiga taalluqli emas?",
+      "options": ["Radioaktiv", "Kimyoviy", "Informatsion", "Biologik"],
       "correctAnswer": 2
     },
     {
       "id": 17,
-      "question": "Mehnatni muhofazasi to'g'risidagi qonunlarga muvofiq, xodim ish joyida qanday huquqlarga ega?",
-      "options": [
-        "Ish haqi olish huquqiga, jarima to'lash",
-        "Ish vaqtini o'zi belgilash huquqiga ega emas va dam olish huquqiga ega",
-        "Sog'lom va xavfsiz mehnat sharoitida ishlash huquqiga",
-        "Ishlab chiqarish foydasini taqsimlash huquqiga"
-      ],
-      "correctAnswer": 2
+      "question": "Umumiy ekologiya–... rivojlana boshladi.",
+      "options": ["botanika fanining bir bo‘lagi bo‘lsa-da, ammo botanika, zoologiyaga nisbatan yangi fan bo‘lib, u XIX-asrning boshlarida", "biologiya fanining bir bo‘lagi bo‘lsa-da, ammo botanika, zoologiya nisbatan yangi fan bo‘lib, u XX-asrning ortalarida", "zoologiya fanining bir bo‘lagi bo‘lsa-da, ammo botanika, zoologiyaga nisbatan yangi fan bo‘lib, u XX-asrning ortalarida", "biologiya fanining bir bo‘lagi bo‘lsa-da, ammo botanika, zoologiya nisbatan yangi fan bo‘lib, u XX-asrning boshlarida;"],
+      "correctAnswer": 3
     },
     {
       "id": 18,
-      "question": "Mehnatni muhofaza qilish bo'yicha korxona darajasida javobgarlik kimga yuklatiladi",
-      "options": [
-        "Korxona rahbariga (ish beruvchiga)",
-        "Xodimga, xizmatchiga, shofyorga",
-        "Kasaba uyushmasiga, jamoa nazoratiga",
-        "Mehnat inspeksiyasiga va korxona qorovuliga"
-      ],
-      "correctAnswer": 0
+      "question": "“Orolbo‘yida ekologik vaziyatni yaxshilash yuzasidan aniq choralar ko‘rilib, Moliya vazirligi huzurida Orolbo‘yi mintaqasini rivojlantirish jamg’armasi tuzilganligi va unga 200 milliard so‘mdan ortiq mablag’ yo‘naltirilganligi, ana shu mablag’lar hisobidan Qoraqalpog’iston Respublikasi va Xorazm viloyati aholisining suv ta’minoti, turmush sharoiti yaxshilanayotganini” qayd etish o‘rinlidir. Bu ibora kim tomonidan aytilgan?",
+      "options": ["Nig’matov A. Ekologiya huquqi. Т.:2004.", "I.A.Karimov “Ozbekiston- kelajagi buyuk davlat”", "Mustafoyev S, Ortiqov S, Suvonov R. Umumiy ekologiya. Т.:2006;", "320 b. Sh. Mirziyoyev o‘z “Murojaatnomasi” (2017 yil);"],
+      "correctAnswer": 3
     },
     {
       "id": 19,
-      "question": "Mehnat qonunchiligining asosiy maqsadi nima?",
-      "options": [
-        "Ishlab chiqarish samaradorligini oshirish",
-        "Mehnat munosabatlarini tartibga solish va xodimlarning huquqlarini himoya qilish",
-        "Mehnatga haq to'lash tizimini belgilash",
-        "Ish beruvchining manfaatlarini ta'minlash"
-      ],
-      "correctAnswer": 1
+      "question": "Jamiyat va tabiat o‘rtasidagi munosabatlarning buzilishi qanday oqibatlarga olib keladi?",
+      "options": ["Ekologik tanglik, ekologik halokat, ekologik inqirozga.", "Organizmlami muhitlarga moslashishiga.", "Urushlarga.", "Jonsiz tabiatning tanazzuliga."],
+      "correctAnswer": 0
     },
     {
       "id": 20,
-      "question": "Mehnat munosabatlarini tashkil etishda(ishga kirishda ) quyidagilardan qaysi biri ishtirok etadi?",
-      "options": [
-        "Ish beruvchi va xodim",
-        "Jamoat nazorati va kasaba uyushmasi",
-        "Davlat organlari va texnika xavfsizligi",
-        "Kasaba uyushmasi va bahdlik"
-      ],
+      "question": "“Atrof-muhit» tushunchasini kim fanga kiradi?",
+      "options": ["Ya.Yuksol", "V.Gorner", "D.Prisli", "A.Tensli"],
       "correctAnswer": 0
     },
     {
       "id": 21,
-      "question": "Mehnat shartnomasi qachon kuchga kiradi?",
-      "options": [
-        "Xodim ishga qabul qilingandan 1 oy o'tib",
-        "Mehnat shartnomasi imzolangandan so'ng",
-        "Xodim sinov muddatini o'tagandan keyin",
-        "Mehnat inspeksiyasi tasdiqlaganidan keyin"
-      ],
-      "correctAnswer": 1
+      "question": "Organizmlarning bir-biri va ularning atrof-muhit bilan o'zaro ta'siri haqidagi fan:",
+      "options": ["ekologiya", "biologiya", "gistologiya", "ornitologiya"],
+      "correctAnswer": 0
     },
     {
       "id": 22,
-      "question": "Mehnat qonunchiligiga ko'ra, xodimlarni ishga qabul qilishda qanday hujjat talab etiladi?",
-      "options": [
-        "Pasport, diplom yoki guvohnoma, mehnat daftarchasi, tibbiy ma'lumotnoma",
-        "Pasport, nikoh guvohnomasi, diplom, uy daftati, diplom, yashash jouidan guvohnoma",
-        "Mehnat daftarchasi, tibbiy ma'lumotnoma, passport, tug'ulganlik to'g'risidagi guvohnoma",
-        "Tavsiyanoma , uyda yashovchilarning pasportlari, tibbiy ma'lumotnoma"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 23,
-      "question": "Mehnat qonunchiligida ish vaqtining maksimal davomiyligi qancha etib belgilangan?",
-      "options": ["41 soat", "36 soat", "44 soat", "40 soat"],
-      "correctAnswer": 3
-    },
-    {
-      "id": 24,
-      "question": "Xodimlarni sut, davolash-profilaktika oziq-ovqati, gazlangan tuzli suv, shaxsiy himoya va gigiyena vositalari bilan taʼminlash Mehnatni muhofaza qilish to'g'tisidagi qonunining qaysi moddasida kiltirilgan",
-      "options": ["19-modda", "24-modda", "18-modda", "10-modda"],
-      "correctAnswer": 0
-    },
-    {
-      "id": 25,
-      "question": "Mehnatni muhofaza qilish toʻgʻrisidagi qonunning 24-moddasi mazmun mohiyati qaysi javobda to'g'ri ko'rsatilgan",
-      "options": [
-        "Mehnatni muhofaza qilish sohasidagi maxsus vakolatli davlat organining vakolatlar",
-        "Ishga qabul qilishda va boshqa ishga oʻtkazishda mehnatni muhofaza qilishga boʻlgan huquqning kafolatlari",
-        "Majburiy tibbiy koʻriklardan o'tish",
-        "Ish beruvchining mehnatni muhofaza qilish sohasidagi huquqlari va majburiyatlari"
-      ],
+      "question": "Yashash muhitining alohida elementlari - bu …",
+      "options": ["biotsenoz", "yashash muhiti", "ekologik omillar", "biogeotsenoz"],
       "correctAnswer": 2
     },
     {
+      "id": 23,
+      "question": "Tirik organizmlar faoliyati bilan bog'liq omillar ….. deyiladi",
+      "options": ["antropogen omillar", "abiotik omillar", "biotik omillar", "ekologik omillar"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 24,
+      "question": "Muhitning barcha omillari necha guruhga bo’linadi va ular qaysilar?",
+      "options": ["2 ga: abiotik va antropogen", "3 ga: biotik, abiotik, antropogen", "2 ga: biotik va antropogen", "2 ga bo’linadi: tropik, subtropik"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 25,
+      "question": "Abiotik omillar deb nimaga aytiladi?",
+      "options": ["Inson hayotiy faoliyatining organik dunyoga ta’siri", "Organizmga ta’sir qiladigan abiotik muhitning majmui", "Muhitda uchraydigan hayot faoliyati, bir-birlariga qiladigan ta’siri va ular orasidagi munosabatlar.", "Radiatsiyaning tirik organizmga ta’siri"],
+      "correctAnswer": 1
+    },
+    {
       "id": 26,
-      "question": "Ishlab chiqarishdagi baxtsiz hodisalarni va kasb kasalliklarini tekshirish hamda hisobga olish Mehnatni muhofaza qilish to'g'risidagi qonunning qaysi moddasida keltirilgan",
-      "options": ["28-modda", "30 modda", "26 -modda", "15-modda"],
+      "question": "Organizmlarga ta'sir qiluvchi jonsiz tabiatning tarkibiy qismlari qanday nomlanadi?",
+      "options": ["biotik omillar;", "zoogen omillar;", "abiotik omillar;", "antropogen omillar."],
       "correctAnswer": 2
     },
     {
       "id": 27,
-      "question": "Xavfsiz mehnat sharoitini yaratishning asosiy maqsadi nima?",
-      "options": [
-        "Ishlab chiqarish samaradorligini oshirish, ish hakini oshirish, ko'proq jarohatlanish",
-        "Ishlab chiqarishda baxtsiz hodisalarni oldini olish va xodimlar sog'lig'ini saqlash",
-        "Xodimlarning mehnat unumdorligini oshirish",
-        "Ish vaqtini qisqartirish, dam olishni tashkil etish"
-      ],
-      "correctAnswer": 1
+      "question": "Yashash muhitiga moslashish natijasida tananing tuzilishidagi o'zgarishlar … deyiladi.",
+      "options": ["etologik moslashuvlar.", "fiziologik moslashuvlar;", "biokimyoviy moslashuvlar;", "morfologik moslashuvlar;"],
+      "correctAnswer": 3
     },
     {
       "id": 28,
-      "question": "Xavfsiz mehnat sharoitlarini ta'minlash uchun kim javobgar hisoblanadi?",
-      "options": [
-        "Korxona rahbari (ish beruvchi)",
-        "Xodimning o'zi va oila a'zolari",
-        "Kasaba uyushmasi va jamoa nazorati",
-        "Mehnat inspeksiyasi va adliya vazirligi"
-      ],
+      "question": "Faqat yaxshi yorug'lik sharoitida o'sishi mumkin bo'lgan o'simliklarga ….. deyiladi.",
+      "options": ["geliofitlar;", "fotofillar", "sciofitlar;", "fakultativ geliofitlar;"],
       "correctAnswer": 0
     },
     {
       "id": 29,
-      "question": "Mehnatni muhofaza qilish bo'yicha o'qitish va yo'riqnomadan o'tkazish kim tomonidan amalga oshiriladi?",
-      "options": [
-        "Ish beruvchi yoki tayinlangan mas'ul shaxs",
-        "Kasaba uyushmasi va xodim",
-        "Mehnat inspeksiyasi, jamoa nazorati",
-        "Sog'liqni saqlash organlari, bandlik"
-      ],
+      "question": "Abiotik yashash muhitining o'ziga xos omillari bo'lgan ma'lum bir hudud (iqlim, tuproq, suv)… deyiladi.",
+      "options": ["biotop;", "bioton;", "biogeotsenoz;", "ekotizim."],
       "correctAnswer": 0
     },
     {
       "id": 30,
-      "question": "Ish joylarida xavfsiz mehnat sharoitini ta'minlash uchun birinchi navbatda nima amalga oshiriladi?",
-      "options": [
-        "Texnik nazorat o'rnatish va dam ollishni tashkil qilmaslik",
-        "Ish vaqtini kamaytirish, oylik maoshni oshirish",
-        "Mehnat sharoitini baholash va xavf omillarini aniqlash",
-        "Ish haqi oshirish, xavf omillarini ko'paytirish"
-      ],
-      "correctAnswer": 2
+      "question": "Ekologiyada suv muhitida yashovchi organizmlar nima deyiladi?",
+      "options": ["Gidrobiontlar", "Geobiontlar", "aerobiontlar", "Konsumentlar"],
+      "correctAnswer": 0
     },
     {
       "id": 31,
-      "question": "Xavfsiz mehnat sharoitini ta'minlovchi asosiy omil qaysi?",
-      "options": [
-        "Ishlab chiqarish binosining chiroyli dizayni",
-        "Ishlab chiqarish jarayonini tezlashtirish",
-        "Texnika xavfsizligi qoidalariga rioya qilish",
-        "Ishchilarning shaxsiy motivatsiyasi"
-      ],
-      "correctAnswer": 2
+      "question": "Hayvonlarning yorug’lik chiqarish, nur sochish qobiliyati nima deyiladi?",
+      "options": ["Biolyuminessensiya", "Fototropizm", "Fotoperiodizm", "Fotoperiodizm, fototropizm, biolyuminessensiya"],
+      "correctAnswer": 0
     },
     {
       "id": 32,
-      "question": "Ishlab chiqarishdagi xavfli va zararli omillardan himoya qilish uchun nima qo'llaniladi?",
-      "options": [
-        "Maxsus kiyim va shaxsiy himoya vositalari",
-        "Mehnat daftarchasi, zaharli joyda ishlash",
-        "Ish haqini oshirish, himoya vositalaridan foydalanmaslik",
-        "Dam olish kuni berish"
-      ],
+      "question": "Kserofitlar guruhiga kiruvchi o`simliklar qayerlarda keng tarqalgan?",
+      "options": ["Chala cho’llar va cho’llar", "Tog’lar va dashtlar", "Cho’llar va to’qaylarda", "To’qaylarda"],
       "correctAnswer": 0
     },
     {
       "id": 33,
-      "question": "Mehnatni muhofaza qilish bo'yicha yo'riqnoma necha xil bo'ladi?",
-      "options": ["5 xil", "2 xil", "3 xil", "4 xil"],
+      "question": "Tanasidagi suvning 75% ini yoqotsa ham so’limasdan hayot faoliyatini davom ettiruvchi osimliklar qaysi guruhga kiradi?",
+      "options": ["Mezofitlar", "Sukkulentlar", "Psixrofitlar", "Sklerofitlar"],
       "correctAnswer": 3
     },
     {
       "id": 34,
-      "question": "Xavfsiz mehnat sharoitini yaratish bo'yicha chora-tadbirlar rejasini kim ishlab chiqadi?",
-      "options": [
-        "Korxona rahbariyati va kasaba uyushmasi hamkorligida",
-        "Mehnat inspeksiyasi , qorovul va adliya vazirligi",
-        "Mahalla qo'mitasi va xodimning oila a;zolari",
-        "Xodimlarning o'zi va shirkat"
-      ],
+      "question": "Organizm uchun optimal harorat necha .. 0C ni tashkil etadi?",
+      "options": ["20o-23 oC", "18o-23 oC", "20o-22 o C", "17o-23 oC"],
       "correctAnswer": 0
     },
     {
       "id": 35,
-      "question": "Ishlab chiqarishda yuz bergan baxtsiz hodisa haqida kimga xabar berish kerak",
-      "options": [
-        "Ish beruvchiga, kasalxona, mahalla, xodim",
-        "Mahalliy hokimiyat, mehmat birjalari, dalolatnoma beruvchi, sog'liqni saqlash",
-        "Tibbiyot markazi, qorovul, rahbar, mahalla",
-        "Rahbar, mehnat muhofazasi muhandisi va kasaba uyushmasiga"
-      ],
-      "correctAnswer": 3
+      "question": "Muhit bu…",
+      "options": ["Organizmni o’rab turgan hamma tabiiy ekologik omillar.", "Element va voqelikdan tashkil topgan.", "Yashash muhiti.", "Ekologik ob’yekt"],
+      "correctAnswer": 0
     },
     {
       "id": 36,
-      "question": "Sanitariya nima",
-      "options": [
-        "(lot. sanitas — sogʻliq)- ishchi xodinlarni saralash, sog'ligini nazorat qilmaslik va muhitni ifloslanishi",
-        "(ingliz tilidan olingan) parvarish qilaman, dam olaman, sog'liqni saqlayman degani",
-        "(lot. sanitas — sogʻliq) — atrof muhitni sogʻlomlashtirishga qaratilgan amaliy tadbirlar majmui",
-        "(arab tilidan olingan) men seni himoy qilaman, atrof muhitni sogʻlomlashtirishga qaratilmagan tadbirlar majmui"
-      ],
-      "correctAnswer": 2
+      "question": "Yorug’likka nisbatan o`simliklar nechta guruhga bo’linadi?",
+      "options": ["3 ta", "7 ta", "5 ta", "8 ta"],
+      "correctAnswer": 0
     },
     {
       "id": 37,
-      "question": "Ishlab chiqarish sanitariyasi.",
-      "options": [
-        "Ishchi xodimlarni ish vaqtini nazorat qilish kamaytirishga qaratilgan tashkiliy, sanitariya hamda texnikaviy tadbirlar tizimi tushuniladi.",
-        "ishlab chiqarishning zararli ta'sirlarining oldini olish va dam olishni tashkil qilish",
-        "ishlab chiqarishning zararli ta'sirlarining oldini olishga yoki ularni kamaytirishga qaratilgan tashkiliy, sanitariya hamda texnikaviy tadbirlar tizimi tushuniladi",
-        "Korxona va tashkilot ishchi xodinlarini mehnat ta'tiliga uzatish va korxonani tozalash"
-      ],
-      "correctAnswer": 2
+      "question": "Suv qatlamida faol suzib yuradigan organizmlar yig’indisiga nima deb ataladi?",
+      "options": ["Nektonlar", "Planktonlar", "Neystonlar", "Bentoslar"],
+      "correctAnswer": 0
     },
     {
       "id": 38,
-      "question": "Mahalliy isitish",
-      "options": [
-        "elektrik, gazli yoki boshqa turdagi issiqlik manbaidan (ko'mir, o'tin va b.) foydalanuvchi isitish jihozi yordamida amalga oshiriladi",
-        "suv, bug', suv-bug' bilan va havo bilan ishlovchi qurilmalarga bo'linadi.",
-        "mexanik suv aylanishini yuzaga keltiruvchi yopiq tizimdan tashkil topgan bo'ladi.",
-        "sovuq tashqi muhit havosi ventilyatorlar yordamida kaloriferlarga uzatiladi va kalorifer orqali o'tishda isigan havo xonaga yo'naltiriladi"
-      ],
+      "question": "Omilning qulay ta’sir etuvchi kuchi nima deyiladi?",
+      "options": ["Optimum ta’sir", "Maksimum ta’sir", "Minimum ta’sir", "Pessimumnuqtasi"],
       "correctAnswer": 0
     },
     {
       "id": 39,
-      "question": "Markaziy isitish",
-      "options": [
-        "elektrik, gazli yoki boshqa turdagi issiqlik manbaidan (ko'mir, o'tin va b.) foydalanuvchi isitish jihozi yordamida amalga oshiriladi",
-        "mexanik suv aylanishini yuzaga keltiruvchi yopiq tizimdan tashkil topgan bo'ladi.",
-        "suv, bug', suv-bug' bilan va havo bilan ishlovchi qurilmalarga bo'linadi",
-        "Havo bilan isitish tizimlarida harorat shamollatish orqali rostlanadi"
-      ],
-      "correctAnswer": 2
+      "question": "Qurg’oqchilikka chidamli, ko’p yillik dag’al ko’pincha barglari reduksiyalashgan va tikanlarga aylangan qalin kutikula qavatiga ega bolgan osimliklar… deyiladi.",
+      "options": ["Mezofitlar", "Sukkulentlar", "Gidrofitlar", "Sklerofitlar"],
+      "correctAnswer": 3
     },
     {
       "id": 40,
-      "question": "Yuqori bosimli suv bilan isitish tizimi",
-      "options": [
-        "suv, bug', suv-bug' bilan va havo bilan ishlovchi qurilmalarga bo'linadi",
-        "elektrik, gazli yoki boshqa turdagi issiqlik manbaidan (ko'mir, o'tin va b.) foydalanuvchi isitish jihozi yordamida amalga oshiriladi",
-        "mexanik suv aylanishini yuzaga keltiruvchi yopiq tizimdan tashkil topgan bo'ladi",
-        "sovuq tashqi muhit havosi ventilyatorlar yordamida kaloriferlarga uzatiladi va kalorifer orqali o'tishda isigan havo xonaga yo'naltiriladi"
-      ],
-      "correctAnswer": 2
+      "question": "Abiotik omillar guruhini ajrating?",
+      "options": ["Rel‘ef, o’simlik ta‘siri", "Hayvon, tuproq ta‘siri", "Inson ta‘siri", "Yorug‘lik, namlik, harorat"],
+      "correctAnswer": 3
     },
     {
       "id": 41,
-      "question": "Kasb kasalliklari -",
-      "options": [
-        "yomon mehnat sharoitlari va kasbga aloqador zararlarning organizmga taʼsiri natijasida paydo boʻladigan kasalliklar",
-        "muayyan ish muhiti va/yoki faoliyat va ma'lum bir kasallik ta'siri o'rtasidagi ta'sir-ta'sir munosabatlari",
-        "ishlab chiqarish korxonalarida zararli va xavfli omillarga gigiyenik baho berish",
-        "Yomon mihnat sharoiti va va ishchilarning ko'p dam olishi"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 42,
-      "question": "havoning harakatlanish tezligi qanday aniqlanadi",
-      "options": [
-        "katatermometrlar va anemometrlar",
-        "Aktinometrlar va luksametrlar",
-        "Barometrlava shumametrlar",
-        "Luksametrlar va termometrlar"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 43,
-      "question": "havoning harorati nima bilan o'lchanadi",
-      "options": [
-        "psixrometrlar",
-        "Termometrlar",
-        "anemometrlar",
-        "aktinometrlar"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 44,
-      "question": "havoning bosimi qanday asbob bilan o'lchanadi",
-      "options": [
-        "psixrometrlar",
-        "aktinometrlar",
-        "Barometrlar",
-        "shumametrlar"
-      ],
+      "question": "Turlarning u yoki bu muhit omillarining o’zgarib turish doirasiga moslashish xususiyati nima deyiladi ?",
+      "options": ["Chidamlilik", "Adaptatsiya", "Valentlik", "Amplituda"],
       "correctAnswer": 2
     },
     {
+      "id": 42,
+      "question": "Yashash sharoiti deganda nimani tushunasiz?",
+      "options": ["Tirik organizmlar moslashib yashaydigan joy", "Ekologik ob‘ekt va sub‘ekt o’rtasidagi o’zaro muhit", "Tabiiy kuch va voqelikni yig‘indisi", "Organizmlar uchun kerak omillar yig‘indisi bor joy"],
+      "correctAnswer": 3
+    },
+    {
+      "id": 43,
+      "question": "Ekologik omillar ta’siriga chidamli organizmlar guruhini ajrating.",
+      "options": ["evribiont", "stenobiont", "evrigalin", "stenogalin"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 44,
+      "question": "Hayvonlar harorat omiliga moslanish darajasiga qarab qanday guruhlarga bo’linadi?",
+      "options": ["Poykiloterm, gomoyoterm", "Poykiloterm, stenoterm", "Evriterm, stenoterm", "Gomoyoterm, evriterm"],
+      "correctAnswer": 0
+    },
+    {
       "id": 45,
-      "question": "Ishlab chiqarish muhitidagi xavfli va zararli omillar 4 guruhga bo'linadi:",
-      "options": [
-        "Fizikaviy; Kimyoviy; Biologik; Psixofiziologik.",
-        "Ekologik Fizikaviy; Kimyoviy; Mahalliy",
-        "Fizikaviy; Maxviy ; Psixofiziologik; Tashkiliy",
-        "Kimyoviy; Biologik; Salbiy; Psoxofiziologik"
-      ],
+      "question": "Antropogen omillar:",
+      "options": ["inson faoliyatining tabiatga ta’siri", "organizmlarning insonga ta’siri", "tirik organizm uchun eng qulay omillar", "tirik organizmlarning tabiatga va o’zaro ta’siri"],
       "correctAnswer": 0
     },
     {
       "id": 46,
-      "question": "Ishlab chigarish muhitidagi Biologik omillar qaysi javobda to'g'ri keltirilganzan",
-      "options": [
-        "har xil jarohatlar va kasalliklarni keltirib chiqaruvchi mikro va makroorganizmlar: bakteriyalar, viruslar, rikket, zamburug'lar, har xil zaharli o'simliklar va hayvonlar kiradi",
-        "ishlab chiqarish jarayonlarida ishlatiladigan yoki ajralib chiqadigan turli xil kimyoviy moddalar asabiy zo'riqish esa kuchli aqliy mehnatdan, mehnatni doimiy bir xil ko'rinishda bo'lishidan, kuchli hayajonlanish yoki asabiylashishdan sodir bo'ladi",
-        "aylanayotgan yoki siljiyotgan qismlarini, mexanizm bilan ko'tarilayotgan yukni, qattiq shovqin va titrashlari",
-        "jismoniy va asabiy zo'riqishlar rikket, zamburug'lar, har xil zaharli o'simliklar va hayvonlar kiradi"
-      ],
-      "correctAnswer": 0
+      "question": "Ekotop nima?",
+      "options": ["Ekologik omil", "Biotsenozning bir bo’lagi", "Odamlarning yashash joyi", "Biogeotsenozning abiotik qismi"],
+      "correctAnswer": 3
     },
     {
       "id": 47,
-      "question": "Ishlab chiqarish sanitariyasi deganda nima tushuniladi",
-      "options": [
-        "Ishlab chiqarish jarayonida sog'lom gigiyenik sharoit yaratish choralar tizimi",
-        "Yong'in xavfsizligi, texnika xavfsizligi, jamoa nazorati, mahalla tozaligi, xodimning kasallanishi",
-        "Halokatlar, avariya , jarohatda birinchi yordam, xodimni himoya kiyimi bilan ta'minlamaslik",
-        "Avariya, inson salomatligini saqlash va kasalxonaga yotqizish masalalari"
-      ],
-      "correctAnswer": 0
+      "question": "Faqat yaxshi yoritilgan sharoitda o'sishi mumkin bo'lgan o'simliklar …. deyiladi.",
+      "options": ["Fakultativ geliofitlar", "Stsiofitlar", "Geliofitlar", "Fotofillar"],
+      "correctAnswer": 2
     },
     {
       "id": 48,
-      "question": "Mehnat gigiyenasining asosiy maqsadi nima",
-      "options": [
-        "Ishchilarni dam olish bilan ta'minlash va ish haqini oshirish",
-        "Ishchilar sog'lig'ini saqlash va mehnat sharoitini sog'lomlashtirish",
-        "Ish vaqtini qisqartirish",
-        "Ishlab chiqarishni avtomatlashtirish"
-      ],
-      "correctAnswer": 1
+      "question": "Atrof-muhit omillarining o'zgarishiga javoban organizmning xatti-harakatlaridagi o'zgarishlarga nima deyiladi?",
+      "options": ["Fiziologik moslashish", "Morfologik moslashish", "Etologik moslashish", "Biokimyoviy moslashish"],
+      "correctAnswer": 2
     },
     {
       "id": 49,
-      "question": "Quyidagilardan qaysi biri ishlab chiqarishdagi zararli omil hisoblanadi",
-      "options": [
-        "Chang, shovqin, tebranish, kimyoviy modda",
-        "Toza havo, toza ichimlik suvi, chang, blakirovka qurilmasi",
-        "Normal yoritish, shovqinni kamaytirish",
-        "Mehnat intizomi, zaharli bo'lmagan zamburug'lar"
-      ],
+      "question": "Abiotik yashash muhitining o'ziga xos omillari bo'lgan ma'lum bir hudud (iqlim, tuproq, suv) nima deyiladi?",
+      "options": ["Biotop", "Biom", "Ekoton", "Ekosistema"],
       "correctAnswer": 0
     },
     {
       "id": 50,
-      "question": "Ishlab chiqarish sanitariyasi talablariga ko'ra, ishlab chiqarish binolarining harorati qanday bo'lishi kerak",
-      "options": ["10–12°C", "25–30°C", "16–22°C", "5–10°C"],
-      "correctAnswer": 2
-    },
-    {
-      "id": 51,
-      "question": "Shovqinning inson organizmiga ta'siri nimalarda namoyon bo'ladi?",
-      "options": [
-        "Qon bosimini oshiradi, asab tizimini charchatadi",
-        "Ko'rishni yaxshilaydi, inson dam oladi",
-        "Immunitetni oshiradi, ich ketadi, miyada og'riq bo'ladi",
-        "Ovoz sifatini yaxshilaydi, quloqlarni kar qiladi"
-      ],
+      "question826": "Fotosintez yoki xemosintez yordamida noorganik tarkibiy qismlardan organik moddalar ishlab chiqarishga qodir avtotrof organizmlar …. deyiladi.",
+      "options": ["Produtsentlar", "Konsumentlar", "Redutsentlar", "Xemotroflar"],
       "correctAnswer": 0
     },
     {
+      "id": 51,
+      "question": "Yashash muhiti deb, … aytiladi:",
+      "options": ["tuproqning tirik mavjudotlar bilan qoplangan qismiga;", "tabiatning bir —biriga ta’sir qiluvchi qismiga;", "tabiatning bir qismiga", "tabiatning bir —biriga ta’sir qiluvchi tirik mavjudotlar bilan qoplangan qismiga"],
+      "correctAnswer": 3
+    },
+    {
       "id": 52,
-      "question": "Ish joylarida shamollatish tizimi qanday vazifani bajaradi",
-      "options": [
-        "Havoni tozalaydi va yangilaydi",
-        "Binoni isitadi, shovqinni kamaytiradi",
-        "Yoritishni oshiradi, havoni tozalamaydi",
-        "Suvni sovitadi, xonani isitadi"
-      ],
+      "question": "Biotik omillar – ... ifodalaydi:",
+      "options": ["Jonli (organik) muhitning tirik organizmga ta’sir shakllarini;", "Jonsiz muhitning tirik organizmga ta’sir shakllarini;", "Inson faoliyatini;", "O’simlik va hayvonot olamini."],
       "correctAnswer": 0
     },
     {
       "id": 53,
-      "question": "Zararli moddalar bilan ishlaydigan xodimlar uchun maxsus kiyim berish",
-      "options": ["Tavsiya etiladi", "Majburiy", "Ixtiyoriy", "Rahbarlarga"],
-      "correctAnswer": 1
+      "question": "Abiotik omillar majmuini ko‘rsating?",
+      "options": ["Iqlim, tuproq, relyef.", "Edafik, fitogen, biotik.", "Mikrobiogen, zoogen, relyef.", "Fiogen, zoogen, mikrobiogen."],
+      "correctAnswer": 0
     },
     {
       "id": 54,
-      "question": "Mehnat gigiyenasiga ko'ra, ayollar uchun yuk ko'tarishning me'yoriy massasi (qo'l bilan) qancha",
-      "options": ["20–25 kg", "10–15 kg", "30–35 kg", "5–7 kg"],
+      "question": "Hayvonlar hayotida yorug’likning ahamiyati nimada?",
+      "options": ["Populyatsiya sonini boshqarish.", "Tana haroratini boshqarish.", "Ko‘payish.", "Fazoda mo‘ljal olish, harakatlanish, oziqlanish."],
       "correctAnswer": 3
     },
     {
       "id": 55,
-      "question": "Ish joylarida tozalikni saqlash nima uchun muhim",
-      "options": [
-        "Zararli omillarni kamaytirish va sog'liqni saqlash uchun",
-        "Estetik ko'rinish uchun, ish shtavkasini kamaytirish",
-        "Nazorat uchun, dam olishni to'g'ti tashkil etish uchun",
-        "Ish unumdorligini kamaytirish uchun"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 56,
-      "question": "Biologik omillar ta'siriga bog'liq soha vakillari va kasalliklar",
-      "options": [
-        "Chorvadorlar, veterinar, infektsionistlar, baklaboratoriyalar laborantlari va boshqalarda infektsion va parazitar kasalliklar",
-        "Pedagoglar, gepatit, osgqozon yarasi, miokard infarkti, bog'bonlar, dorbozchilar, yara kasalliklari qandli diabet kasalliklari",
-        "Revmatizm, gipertoniya, oshpazlar, shovqin ta'sirida kelib chiqadigan karlik, saraton kasalliklari",
-        "Quruvchilar, arxiologlar, ichak kasalliklari laborantlari va boshqalarda infektsion kasalliklar"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 57,
-      "question": "Davlat standarti bo'yicha inson sog'ligiga ta'sir etuvchi xavfli moddalar 4 sinfga ajratilgan: 2 sinf qaysi javobda to'g'ri keltirilgan",
-      "options": [
-        "favqulotda xavfli moddalar, REM0,1 mg/m3",
-        "o'rtacha xavflilikdagi moddalar, REM=1,0 ... 10 mg/m3;",
-        "yuqori xavflilikdagi moddalar, REM=0,1 ... 1,0 mg/m3;",
-        "kam xavflilikdagi moddalar, REM>10 mg/m3."
-      ],
+      "question": "O‘simliklarning namlik omiliga ko‘ra ekologik guruhlari?",
+      "options": ["Sukkulentlar, kalsifitlar, gidrofitlar.", "Gidatofitlar, psammofitlar, mezofitlar.", "Gidrofitlar, gigrofitlar, mezofitlar, kserofitlar.", "Gidrofit, galofitlar, mezofitlar."],
       "correctAnswer": 2
     },
     {
-      "id": 58,
-      "question": "Davlat standarti bo'yicha inson sog'ligiga ta'sir etuvchi xavfli moddalar 4 sinfga ajratilgan: 1 sinf qaysi javobda to'g'ri keltirilgan",
-      "options": [
-        "favqulotda xavfli moddalar, REM0,1 mg/m3;",
-        "kam xavflilikdagi moddalar, REM>10 mg/m3",
-        "o'rtacha xavflilikdagi moddalar, REM=1,0 ... 10 mg/m3;",
-        "yuqori xavflilikdagi moddalar, REM=0,1 ... 1,0 mg/m3;"
-      ],
+      "id": 56,
+      "question": "O’simliklarning yorug’likka munosabatiga ko’ra qaysi guruhlarga bo’linadi?",
+      "options": ["Gomoyoterm, poykiloterm", "Mezofit, termofit, kriofit", "Gidrofit, kserofit, gigrofit", "Geliofit, stsiofit, fakultativ geliofit"],
+      "correctAnswer": 3
+    },
+    {
+      "id": 57,
+      "question": "Hayvonlar haroratga munosabatiga ko’ra nech guruhga bo’linadi?",
+      "options": ["Sovuqqonli, issiqqonli, geteroterm", "Termofil, kriofil, mezofil", "Gidrofil, kserofil, mezoterm", "Fotofil, fotofob"],
       "correctAnswer": 0
+    },
+    {
+      "id": 58,
+      "question": "Quyidagilardan qaysi birining tanasining 90% suvdan iborat?",
+      "options": ["Gigrofit", "Gidrofit", "Gidatofit", "Mezofit"],
+      "correctAnswer": 2
     },
     {
       "id": 59,
-      "question": "Kimyoviy va mineralogik tarkibiga ko'ra changlar ……. ta asosiy guruhlarga bo'linadi",
-      "options": ["7", "4", "6", "5"],
-      "correctAnswer": 1
+      "question": "O’simliklarning barglarida noorganik moddalardan organik moddalarni sintez qilish jarayoni qanday nomlanadi?",
+      "options": ["Fotonastiya", "Fototropizm", "Fotosintez", "Fotoperiodizm"],
+      "correctAnswer": 2
     },
     {
       "id": 60,
-      "question": "Organik changlar.",
-      "options": [
-        "Yog'och, paxta, pilla, teri, qog'oz, plastmassa, turli o'simliklar va ulami qayta ishlash paytida paydo bo'ladigan changlar kiradi",
-        "Tuproq, ohak, marmar, granit, sement, ganch, ma'danlar va ulami qayta ishlash paytida paydo boiadigan changlar kiradi",
-        "Kimyo sanoati korxonalarida (masalan, azotli, fosfatli, kaliyli o'g'itlar hamda lakbo'yoq ishlab chiqarish korxonalarida) paydo bo'ladigan changlar kiradi.",
-        "Portlovchi va yonyvchi changlar kiradi"
-      ],
-      "correctAnswer": 0
+      "question": "Uzun kunli o’simliklar yer sharining qaysi qismida o’sadi?",
+      "options": ["G’arbda", "Janubda", "Shimolda", "Sharqda"],
+      "correctAnswer": 2
     },
     {
       "id": 61,
-      "question": "Anorganik changlar.",
-      "options": [
-        "Tuproq, ohak, marmar, granit, sement, ganch, ma'danlar va ulami qayta ishlash paytida paydo boiadigan changlar kiradi",
-        "Yog'och, paxta, pilla, teri, qog'oz, plastmassa, turli o'simliklar va ulami qayta ishlash paytida paydo bo'ladigan changlar kiradi",
-        "Portlovchi, organic va yonuvchi changlar kiradi",
-        "Kimyo sanoati korxonalarida (masalan, azotli, fosfatli, kaliyli o'g'itlar hamda lakbo'yoq ishlab chiqarish korxonalarida) paydo bo'ladigan changlar kiradi."
-      ],
-      "correctAnswer": 0
+      "question": "Qisqa kuni o‘simliklar deb nimaga aytiladi?",
+      "options": ["Barcha javob to’g’ri", "Gullash fazasi o’tish uchun sutkasiga 12 - 16 soat yoruglik talab qiluvchi o’simliklar", "Kun uzunligiga befarq o’simliklar", "Gullash fazasi o’tish uchun sutkasiga 8 - 12 soat yoruglik talab qiluvchi o’simliklar"],
+      "correctAnswer": 3
     },
     {
       "id": 62,
-      "question": "Qanday shovqin turlari mavjud",
-      "options": [
-        "Mexanik, aerodinamik, gidroginamik, elektromagnit",
-        "Mexanik, anorganik, organic, texnik, tashkiliy",
-        "Aerodinamik, mexanik, fizik , biologik",
-        "Eliktromagnit, kimyoviy, mexanik"
-      ],
-      "correctAnswer": 0
+      "question": "Qanday yashash muhitlari bor?",
+      "options": ["Suv, havo, inson", "Hayvonlar va o‘simliklar, tuproq", "Quruqlik - havo, suv, tuproq, tirik organizmlar", "Quruqlik, havo, suv, tuproq"],
+      "correctAnswer": 2
     },
     {
       "id": 63,
-      "question": "Changlar kelib chiqishiga ko'ra nech xil bo'ladi",
-      "options": ["7", "2", "3", "5"],
-      "correctAnswer": 1
+      "question": "Abiotik omillar deb nimaga aytiladi?",
+      "options": ["Organizmga ta’sir qiladigan abiotik muhitning majmui", "Inson hayotiy faoliyatining organik dunyoga ta’siri", "Muhitda uchraydigan hayot faoliyati, bir-birlariga qiladigan ta’siri va ular orasidagi munosabatlar.", "Radiatsiyaning tirik organizmga ta’siri"],
+      "correctAnswer": 0
     },
     {
       "id": 64,
-      "question": "Protivogaz kim tomonidan ixtiro qilingan",
-      "options": [
-        "Nikolay Zelenskiy",
-        "Nyuton, Plutoniy",
-        "Pavlov, Mendilyev",
-        "Ibn Sino, Nyuton"
-      ],
+      "question": "Qaysi ibora autekologiya atamasining mohiyatini aks ettiradi?",
+      "options": ["Tur vakillari ekologiyasi;", "turlarning ekologiyasi;", "populyatsiyalar ekologiyasi;", "jamoalar ekologiyasi."],
       "correctAnswer": 0
     },
     {
       "id": 65,
-      "question": "Nikolay Zelinskiy tomonidan protivogaz nechanchi yilda ixriro qilingan",
-      "options": ["1945", "1915", "1935", "1910"],
-      "correctAnswer": 1
+      "question": "Abiotik yashash muhitining o'ziga xos omillari bo'lgan ma'lum bir hudud (iqlim, tuproq, suv)… deyiladi.",
+      "options": ["biogeotsenoz;", "bioton;", "biotop;", "ekotizim."],
+      "correctAnswer": 2
     },
     {
       "id": 66,
-      "question": "Nafas aʼzolarining himoyalovchi vositalari qaysi javobda to'g'ri kiltirilgan",
-      "options": [
-        "Protivogaz , respirator, doka niqob",
-        "Qo'lqob, ko'zoynak, kombinzon, pespirator",
-        "Himoya kostumi, protivogaz, qo'lqob",
-        "Kombinzon, etiklar , shlem, doka niqob"
-      ],
-      "correctAnswer": 0
+      "question": "Tirik organizimlarga ta‘sir ko’rsatuvchi barcha tashqi ta‘sirlar nima deyiladi ?",
+      "options": ["Biotik omil", "Abiotik omil", "Geologik omil", "Ekologik omil"],
+      "correctAnswer": 3
     },
     {
       "id": 67,
-      "question": "Protivogaz nima vazifani bajaradi",
-      "options": [
-        "Nafas aʼzolarini gazdan,radioaktiv va tuproq changlaridan hamda bakterial aerozollardan himoya qiladi",
-        "Nafaz a'zolarini oziq ovqatdan himoya qiladi, yorug'likdan saqlaydi",
-        "Oyoqni elektr tokidan himoya qiladi",
-        "Boshni shikastlanishdan himoya qiladi, shovqinni o'tkazmaydi, changdan himoya qilmaydi"
-      ],
+      "question": "Populyatsiya so’zining ma’nosi nimani anglatadi?",
+      "options": ["Xalq, aholi", "Uy, joy", "To’da, poda", "Guruh"],
       "correctAnswer": 0
     },
     {
       "id": 68,
-      "question": "Ishlab chiqarish muhitidagi xavfli va zararli omillar necha guruhga bo'linadi:",
-      "options": ["5", "6", "4", "5"],
-      "correctAnswer": 2
+      "question": "Har qanday funktsiyani bajarishni osonlashtiradigan hayvonlarning vaqtincha birlashishi ..…deyiladi.",
+      "options": ["koloniya;", "poda,", "oilaviy turmush tarzi;", "gala."],
+      "correctAnswer": 3
     },
     {
       "id": 69,
-      "question": "Ishlab chiqarish muhitidagi xavfli va zararli omillar 4 guruhga bo'linadi",
-      "options": [
-        "Fizikaviy; Kimyoviy; Biologik; Psixofiziologik",
-        "Kimyoviy; Aralash;Biologik; Psixofiziologik",
-        "Tabiiy; Katta; Kimyoviy; Biologik; Fizikaviy;",
-        "Salbiy; sun'iy; Kimyoviy;Tabiiy; Texnikaviy"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 70,
-      "question": "Kimyoviy moddalar inson organizmiga ta'sir etish va xavflilik darajasiga qarab necha sinfga bo'linadi",
-      "options": ["4", "3", "2", "5"],
-      "correctAnswer": 0
-    },
-    {
-      "id": 71,
-      "question": "Jamoa himoya vositalari insonni nimadan himoya qiladi",
-      "options": [
-        "shovqindan, titrashdan, issiqdan, sovuqdan, elektrostatik zaryadlardan, zararli changlardan, radiatsiya nuridan",
-        "changdan , sovuqdan, issiqdan, shamoldan, oziq ovqat maxsulotlaridan, toza ichimlik suvidan, yong'indan",
-        "issiqdan, shovqundan, portlashdan himoya qilmaydi, ko'zni zararlaudi",
-        "elektrostatik zaryadlardan, zararli changlardan, radiatsiya nuridan, shamoldan"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 72,
-      "question": "Shaxsiy himoya vositalari necha turdan iborat",
-      "options": ["7", "2", "4", "3"],
+      "question": "Turli xil tirik organizmlar (o'simliklar, hayvonlar va mikroorganizmlar) ma'lum bir hududda yashashiga nima deyiladi?",
+      "options": ["fitotsenoz", "biotsenoz;;", "zootsenoz;", "mikrobiotsenoz."],
       "correctAnswer": 1
     },
     {
+      "id": 70,
+      "question": "Ikkala populyatsiya uchun ham foydali bo'lgan, ammo majburiy bo'lmagan turlarning o'zaro ta'siri qanday nomlanadi?",
+      "options": ["mutualizm;", "neytralizm;", "protokooperatsiya;", "amensalizm."],
+      "correctAnswer": 2
+    },
+    {
+      "id": 71,
+      "question": "Ozuqa zanjiri bu…",
+      "options": ["Har bir organizm ozidan oldinda turgan organizm uchun ozuqa bolib xizmat qilishi", "Har bir organizm ozidan keyingi turgan organizm uchun ozuqa bolib xizmat qilishi", "Har bir organizm ozi uchun xizmat qilishi", "Bir turning ikkinchi tur tomonidan yoq qilinishi"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 72,
+      "question": "Bir organizm ajratgan zaharli moddaning ikkinchi organizmga ta’sir etishi qanday hodisa hisoblanadi?",
+      "options": ["Antibioz", "Neytral", "Parazitlik", "Mutualizm"],
+      "correctAnswer": 0
+    },
+    {
       "id": 73,
-      "question": "Shaxsiy himoya vositalari",
-      "options": [
-        "nafas olish yo'llarini va terini himoyalovchi vositalar",
-        "asosan inson tana a'zolari nafas olish yo'llari, oyoqni ,xonadonni, ko'zni kimyoviy modda bilan zararlaydi",
-        "oyoq va qo'lni himoyalovchi",
-        "ko'ktak qafasini va boshni himoyalamaydi"
-      ],
+      "question": "Parazitlar nechta guruhga bo’linadi?",
+      "options": ["2 guruhga", "3 guruhga", "4 guruhga", "5 guruhga"],
       "correctAnswer": 0
     },
     {
       "id": 74,
-      "question": "Tabiiy changlar",
-      "options": [
-        "Inson, o'simliklar va hayvonot olamida paydo bo'ladigan changlar, koinot changlari, vulqonlarning otilishi va zilzila natijasida paydo bo'ladigan changlar",
-        "Sanoat korxonalari, qurilish, transport, energetika, qishloq xo'jaligi va boshqa tarmoqlarda inson faoliyati natijasida paydo bo'ladigan changlar.",
-        "Toshko'mir, oltingugurt, un va bug'doy changlari.",
-        "Taxta ,paxta, qog'oz va portlovchi changlar"
-      ],
+      "question": "Doimiy tana temperaturasiga ega hayvonlar nima deyiladi",
+      "options": ["Gomoyoterm", "Geteroterm", "Poykiloterm", "Mezoterm"],
       "correctAnswer": 0
     },
     {
       "id": 75,
-      "question": "Sun'iy changlar",
-      "options": [
-        "Sanoat korxonalari, qurilish, transport, energetika, qishloq xo'jaligi va boshqa tarmoqlarda inson faoliyati natijasida paydo bo'ladigan changlar",
-        "Toshko'mir, oltingugurt, un va bug'doy changlari.",
-        "O'simlik, mato, sement, marmar changlari",
-        "Inson, o'simliklar va hayvonot olamida paydo bo'ladigan changlar, koinot changlari, vulqonlarning otilishi va zilzila natijasida paydo bo'ladigan changlar"
-      ],
+      "question": "Bir turning ikkinchi tur tomonidan yo`q qilinishi yoki yeb qo’yilishi qanday biotik munosabat turi hisoblanadi?",
+      "options": ["Yirtqichlik", "Mutualizm", "Parazitizm", "Raqobat"],
       "correctAnswer": 0
     },
     {
       "id": 76,
-      "question": "Shovqindan himoyalovchi vosita",
-      "options": [
-        "Quloqchinlar, naushniklar",
-        "Protivogaz,doka niqob",
-        "Respirator,qo'lqob",
-        "doka niqoblar, rezinala etik"
-      ],
-      "correctAnswer": 0
+      "question": "Hayvonlarni konsumentlar deyilishi nimani anglatadi?",
+      "options": ["Organik moddani parchalashi", "Organik moddani hosil qilishi", "Ozuqa zanjiridagi o’rnini", "Tayyor organik moddani o’zlashtirishi"],
+      "correctAnswer": 3
     },
     {
       "id": 77,
-      "question": "Kasb kasalliklarining oldini olish uchun eng samarali chora",
-      "options": [
-        "Ish joyini bezatish",
-        "Himoya vositalaridan foydalanish",
-        "Ish vaqtini uzaytirish",
-        "Ish haqi oshirish"
-      ],
-      "correctAnswer": 1
+      "question": "Populyasiyalar ekologiyasiga kim tomondan va qachon asos solingan?",
+      "options": ["1926 yil, Vernadskiy", "1877 yil, K.Myobius", "1903 yil, Iyogansen", "1930 yil, Ch.Elton"],
+      "correctAnswer": 3
     },
     {
       "id": 78,
-      "question": "Tibbiyot xodimlarida eng ko'p uchraydigan kasb kasalligi",
-      "options": [
-        "Yuqumli kasalliklar",
-        "Bazedov kasalligi",
-        "Qandli diabed kasalligi",
-        "Yukumli bo'lmagan kasalliklar"
-      ],
-      "correctAnswer": 0
+      "question": "Qaysi qatorda populyatsiyaning asosiy ko’rsatkichlari keltirilgan?",
+      "options": ["Populyatsiyaning biologik va guruhlilik xususiyatlari", "Populyatsiya dinamikasi va gomeostazi", "Zichligi, soni, tug’ilish, o’lish, o’sish sur’ati", "Yosh, jins, fazoviy, etologik tuzilmalari"],
+      "correctAnswer": 2
     },
     {
       "id": 79,
-      "question": "Kasb kasalliklarini erta aniqlash uchun qanday tadbir o'tkaziladi",
-      "options": [
-        "Davriy tibbiy ko'rik",
-        "Ish haqi oshirish",
-        "Bayram o'tkazish",
-        "Qo'shimcha ish soati"
-      ],
+      "question": "Biotsenozda ikklala organizm uchun foydali bo’lgan munosabat turi nima deyiladi?",
+      "options": ["Mutualizm", "Neytralizm", "Yurtqichlik", "Raqobat"],
       "correctAnswer": 0
     },
     {
       "id": 80,
-      "question": "Nafas olish organlarini himoya qilish vositalar",
-      "options": [
-        "Gaz niqoblari (protivogaz) .respiratorlar , changdan himoya niqoblari(maskalar)",
-        "Quloqchinlar, rezinala etiklar, ko'zoynak, prativogaz, qo'lqob, kombenzon, shlem",
-        "Qo'lqoplar, ko'zoynak, dielektirik vositalar, gaz niqoblari",
-        "Korjoma, kambinzonlar"
-      ],
+      "question": "Yirtqichlar uchun xarakterli holat bu maxsus ........xulq atvoridir.",
+      "options": ["Ovlash", "Tekinxo’rlik", "Yirtqichlilik", "Parazitizm"],
       "correctAnswer": 0
     },
     {
       "id": 81,
-      "question": "Texnika xavfsizligining asosiy maqsadi nima.",
-      "options": [
-        "Ish unumdorligini oshirish, kasb kasalliklarini ko'paytirish",
-        "Ishlab chiqarish jarayonida inson salomatligini himoya qilish",
-        "mehnat unumdorligini pasaytirish, ish haqini oshirish, dam olishni tashkil etish",
-        "Texnikani tezroq ishlatish, elektrdan himoyalanmaslik, jarohatni oldini olish"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 82,
-      "question": "Texnika xavfsizligi qoidalari nimalarni o'z ichiga oladi.",
-      "options": [
-        "Dam olish tartibini belgilaydi",
-        "Ish joyida xavfsizlikni ta'minlashni",
-        "Ish haqi miqdorini oshiradi",
-        "Ish vaqtini uzaytiradi"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 83,
-      "question": "Texnika xavfsizligining vazifalaridan biri.",
-      "options": [
-        "Ishlab chiqarishdagi baxtsiz hodisalarni oldini olish",
-        "Ish joyini bezatish va yo'riqnoma o'tkazish",
-        "Yangi mahsulot ishlab chiqish va sotish",
-        "Ishchilarga dam olish imkoniyatini yaratish"
-      ],
+      "question": "Bir xil hududda yashovchi bir xil turdagi individlar guruhi …deyiladi.",
+      "options": ["Populyatsiya", "Ekotizim", "Biosfera", "Biotsenoz"],
       "correctAnswer": 0
     },
     {
+      "id": 82,
+      "question": "Uzoq vaqt davomida bir arealda mavjud bo’lgan, o'z-o'zini ko'paytirishga qodir bo'lgan bir xil turdagi individlarning to'plami nima deyiladi?",
+      "options": ["biogeotsenoz", "Biotsenoz", "Populyatsiya", "Ekosistema"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 83,
+      "question": "Har qanday funktsiyani bajarishni osonlashtiradigan hayvonlarning vaqtinchalik birlashmasiga nima deyiladi?",
+      "options": ["Xulqiy moslashuv", "Yashash tarzi", "Gala, to’da, poda", "Migratsiya"],
+      "correctAnswer": 2
+    },
+    {
       "id": 84,
-      "question": "Texnika xavfsizligi qoidalarini buzish oqibatida nima sodir bo'lishi mumkin.",
-      "options": [
-        "Jarohatlar va avariyalar yuz beradi",
-        "Ish unumdorligi oshadi o'lim kuzatiladi",
-        "Ishlab chiqarish kechikadi ishchilar soni oshadi",
-        "Hech qanday ta'sir bo'lmaydi ishchilar mazza qilib ishlaydi"
-      ],
+      "question": "Quyidagilardan qaysi biri populyatiyaning o’ziga xos xususiyatlarini namoyon etadi?",
+      "options": ["Guruhlilik, biologik", "Morfologik, fiziologik", "Yosh, jins, fazoviy", "Soni, zichligi, o’sish sur’ati"],
       "correctAnswer": 0
     },
     {
       "id": 85,
-      "question": "Texnika xavfsizligi qoidalari kimlar uchun majburiy.",
-      "options": [
-        "Ishlab chiqarishda ishtirok etayotgan barcha xodimlar uchun",
-        "muhandislar , stol- stul, kassir uchun",
-        "Sayyohlar, o'simliklar, hayvonlar rahbarlar uchun",
-        "yangi ishchilar , ishlab chiqatishda ishtirok etmayotgan xodimlar uchun"
-      ],
+      "question": "Berilgan ozuqa zanjirida qaysi bo’g’in qoldirib ketilgan? Bug’doy > sichqon > ….. > burgut",
+      "options": ["Ilon", "Laylak", "Tulki", "Boyqush"],
       "correctAnswer": 0
     },
     {
       "id": 86,
-      "question": "Texnika xavfsizligi qoidalari qachon o'rganiladi.",
-      "options": [
-        "Ish boshlangandan keyin",
-        "Dam olish jarayonida",
-        "Ish boshlanishidan oldin",
-        "Baxtsiz hodisadan keyin"
-      ],
-      "correctAnswer": 2
+      "question": "Hayvonlaming birgalikda hayot kechirish shakllari?",
+      "options": ["Oila, koloniya, poda, gala.", "Guruhli, parazit, xo‘jayin.", "Immigratsiya, qirilish.", "Mikoriza, simbioz."],
+      "correctAnswer": 0
     },
     {
       "id": 87,
-      "question": "Xavfsizlikni ta'minlovchi texnik vositalar.",
-      "options": [
-        "To'siqlar, saqlash qurilmalari, blokirovkalash moslamalari, signalizatsiya, masofadan boshqarish jihozlari va tormoz qurilmalari",
-        "Qoloqchin, AI-2 aptechka ,blokirovkalash moslamalari, eshik,deraza, stol, stellar, kurtka, choyshab, sochiq, signalizasiya",
-        "Poyabzallar, mashina, oyna, boshqarish jihozlari va tormoz qurilmalari",
-        "To'siqlar, saqlash qurilmalari, rizetka, prativogaz"
-      ],
+      "question": "Ozuqa zanjiri deganda nimani tushunasiz?",
+      "options": ["Har bir organizmni o‘zidan keyin turgan organizm uchun ozuqa bo‘lib xizmat qilishi tushuniladi.", "Ozuqa zanjiridagi organizmlaming bir-biriga munosabati.", "Organizmlaming ayrim bo‘g‘inlami hosil qilishi.", "Anorganik moddalaming organik moddalarga aylanishi."],
       "correctAnswer": 0
     },
     {
       "id": 88,
-      "question": "Тo'siqlar konstruktiv tuzilishiga va ishlatilish funksiyasiga ko'rа qanday bo'ladi",
-      "options": [
-        "Doimiy, qisqa",
-        "Doimiy, vaqtinchalik",
-        "Vaqtinchalik, qisman",
-        "Konstruktiv , chala"
-      ],
-      "correctAnswer": 1
+      "question": "Ekologik piramida kim tomonidan tuzilgan?",
+      "options": ["D. N. Kashkarov.", "Y. P. Korovin.", "Ch. Elton.", "A. Seversov."],
+      "correctAnswer": 2
     },
     {
       "id": 89,
-      "question": "Тo'siqlar konstruktiv tuzilishiga va ishlatilish funksiyasiga ko'rа necha xil bo'ladi.",
-      "options": ["2", "3", "4", "7"],
+      "question": "Agroekotizimlar qatorini belgilang.",
+      "options": ["Bedazor, paxtazor, poliz ekinlari.", "Akvarium, xovuz, bug ‘ doyzor.", "Issiqxona, o‘rmon, tog’. ", "Cho‘l, mevazor, to‘qayzor."],
       "correctAnswer": 0
     },
     {
       "id": 90,
-      "question": "Doimiy to'siqlar.",
-      "options": [
-        "mashina yoki mexanizmlarning ajralmas qismi",
-        "blakirovka qurilmasi bo'lmagan vosita",
-        "ochiq va yarim ochiq mashina",
-        "mashina yoki mexanizmlarning ajralgan qismi"
-      ],
-      "correctAnswer": 0
+      "question": "Kannibalizm deb nimaga aytiladi?",
+      "options": ["2 tur birgalikda yashab, bir-biriga salbiy ta’sir ko’rsatishiga", "Bir joyda yashaydigan ikki tur o‘rtasidagi munosabat turiga", "Ikki turning birgalikda yashashi va foyda ko‘rishiga", "Tabiatda bir tur shu tur vakillarini yeyishiga"],
+      "correctAnswer": 3
     },
     {
       "id": 91,
-      "question": "Doimiy to'siqlar qanday ko'rinishlarda bo'ladi.",
-      "options": [
-        "qo'zg'aluvchan va qo'zg'almas",
-        "yarin to'siq va ochiq",
-        "qo'zg'almas va ajralmas",
-        "shamol yo'nalishiga qarshi va qo'zg'aluvchan"
-      ],
+      "question": "Individlarning jinsiy moyilligi va ota – onalar bilan yangi avlod o‘rtasidagi bog‘lanishlar, hududiy umumiylik, nasl uchun qayg‘urish natijasida kelib chiqadigan hayvonlarning birgalikda yashash shakliga ..... deb aytiladi.",
+      "options": ["Oila", "Koloniya", "Gala", "Poda"],
       "correctAnswer": 0
     },
     {
       "id": 92,
-      "question": "Texnika xavfsizligining ahamiyati nimada.",
-      "options": [
-        "Ish joyida xavf-xatarni kamaytiradi",
-        "Mehnat unumdorligini kamaytiradi",
-        "Ish jarayonini murakkablashtiradi",
-        "Ishchilarning ish vaqtini qisqartiradi"
-      ],
+      "question": "Sinekologiya nimani o’rganadi?",
+      "options": ["Jamoalar bilan tashqi muhit munosabatini", "Turlar bilan tashqi muhit munosabatini", "Tur vakillari bilan tashqi muhit munosabatini", "Populyatsiyalar bilan tashqi muhit munosabatini"],
       "correctAnswer": 0
     },
     {
       "id": 93,
-      "question": "Texnika xavfsizligi sohasida yo'riqnoma nima uchun kerak.",
-      "options": [
-        "Xavfsiz ishlash tartibini o'rgatish uchun",
-        "Ish vaqtini o'zgartirish uchun",
-        "Ishchilarni jazolash uchun",
-        "Ishchilarni nazorat qilish uchun"
-      ],
-      "correctAnswer": 0
+      "question": "Har qanday funktsiyani bajarishni osonlashtiradigan hayvonlarning vaqtincha birlashishi ..…deyiladi.",
+      "options": ["koloniya;", "poda;", "oilaviy turmush tarzi;", "gala."],
+      "correctAnswer": 3
     },
     {
       "id": 94,
-      "question": "Texnika xavfsizligi qoidalari kim tomonidan ishlab chiqiladi.",
-      "options": [
-        "O'qituvchilar va korxona ishchilati tomonidan",
-        "Davlat mehnat inspeksiyasi va korxona rahbariyati tomonidan",
-        "Har bir ishchi mustaqil ravishda texnika xavfsizligi qoidalarini o'rganadi",
-        "Ishchilar, xizmatchilar, rahbarlar va xonadon egalari tomonidan"
-      ],
-      "correctAnswer": 1
+      "question": "Ikkala populyatsiya uchun ham foydali bo'lgan, ammo majburiy bo'lmagan turlarning o'zaro ta'siri qanday nomlanadi?",
+      "options": ["protokooperatsiya;", "neytralizm;", "mutualizm;", "amensalizm."],
+      "correctAnswer": 0
     },
     {
       "id": 95,
-      "question": "Texnika xavfsizligiga rioya qilish natijasida nima ta'minlanadi?",
-      "options": [
-        "Ish unumdorligi va xavfsizlikni ta'minlash darajasi oshadi",
-        "Ishchilar soni kamayadi va ishchilar kasallanadi",
-        "Ishlab chiqarish to'xtaydi va xavfsizlikni ta'minlash darajasi oshadi",
-        "Ish vaqtining cho'zilishi va xodimlar rag'batlantiriladi"
-      ],
-      "correctAnswer": 0
+      "question": "Fotosintez yoki xemosintez yordamida noorganik komponentlardan organik moddalar ishlab chiqarishga qodir avtotrof organizmlar nima deyiladi?",
+      "options": ["geterotroflar.", "konsumentlar;", "redutsentlar;", "produtsentlar;"],
+      "correctAnswer": 3
     },
     {
       "id": 96,
-      "question": "Blokirovka – bu",
-      "options": [
-        "qurilma nosozligi, korxona ishchi xodimlarini o'qitish ,mehnat shartnomasini to'xtatish, texnika xavfsizligi sohasida yo'riqnoma",
-        "mashinalar qismini muayyan holatda ushlab turuvchi vositalar va uslublar majmui",
-        "yo'riqnoma o'rkazish, xavfsizlikni oldi olmaslik uchun qilingan samarali ishlar yig'indisi",
-        "mashinalar qismini muayyan holatda ushlab turmaydigan vositalar va uslublar majmui"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 97,
-      "question": "Ishlab chiqarishdagi xavfli faktorlarning hosil bo'lish tabiatiga ko'rа saqlash qurilmalari necha guruhga bo'linadi.",
-      "options": ["2", "3", "5", "4"],
+      "question": "\"Ekotizim\" atamasi 1935 yilda qaysi olim tomonidan taklif qilingan?",
+      "options": ["A. Tensli;", "V. I. Vernadskiy;", "V. N. Sukachev tomonidan;", "G. F. Gauze."],
       "correctAnswer": 0
     },
     {
+      "id": 97,
+      "question": "O`simliklar tomonidan to’plangan organik moddalarni iste’mol qiluvchilar…",
+      "options": ["Geterotroflar", "Produtsentlar", "Redutsentlar", "Konsumentlar"],
+      "correctAnswer": 3
+    },
+    {
       "id": 98,
-      "question": "Xavfsizlik belgilari standart bo'yicha to'rt guruhga ajratilgan javobni toping .",
-      "options": [
-        "Taqiqlovchi, ogohlantiruvchi, ko'rsatuvchi, buyuruvchi",
-        "Ogohlantiruvchi ,sezuvchi, blakrovka qiluvchi, sariq chiroq",
-        "Ta'qiqlovchi, qizil chiroq, so'zlovchi, baqiruvchi",
-        "Buyuruvchi, jim turuvchi, yashil chiroq, ogohlantiruvchi"
-      ],
+      "question": "Biotsenoz atamasini fanga birinchi bo’lib kim kiritgan?",
+      "options": ["K.Myobius", "K.Linney", "E.Zyuss", "A.Tensli"],
       "correctAnswer": 0
     },
     {
       "id": 99,
-      "question": "Elektr toki inson tanasiga qanday yo'l bilan ta'sir qiladi.",
-      "options": [
-        "tanaga kirib, ichki organlardan o'tish orqali",
-        "tanaga kirmasdan ko'z , burun ,quloq orqali",
-        "tanaga kirib, boshni zaharlaydi, nafas orqali",
-        "tanaga kirmasdan teri orqali"
-      ],
+      "question": "Suktsessiya nima?",
+      "options": ["Jamoalarning kelib chiqishi va almashinishi", "Jamoalarda energiyaning o’zgarishi", "Jamoalarning tashqi muhit bilan almashinishi", "Biologik moddalaning aylanishi"],
       "correctAnswer": 0
     },
     {
       "id": 100,
-      "question": "Elektr toki urgan odamga birinchi yordam ko'rsatishda birinchi navbatda nima qilinadi.",
-      "options": [
-        "Tok manbai bilan aloqani uzish",
-        "Tez yordam chaqirishdan oldin suv ichiriladi",
-        "Yurak massaji darhol bajariladi",
-        "Jarohat joyiga muz bosiladi"
-      ],
-      "correctAnswer": 0
+      "question": "Biotsenoz bu .......",
+      "options": ["Jamoa yashash tarzi", "Umumiy bo’lib yashash tarzi", "Yakka holda yashash tarzi", "Guruh bo’lib yashash tarzi"],
+      "correctAnswer": 1
     },
     {
       "id": 101,
-      "question": "Elektr toki bilan ishlashdan oldin nima qilish kerak.",
-      "options": [
-        "Asbobni ochiq qo'l bilan ushlash",
-        "Qurilmani suv bilan yuvish",
-        "Himoya vositalarini kiyish va elektr tarmog'ini tekshirish",
-        "Qurilmalarni tekshirmasdan yoqish"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 102,
-      "question": "Elektr toki urgan odamni qutqarishda qanday buyumdan foydalanish mumkin.",
-      "options": [
-        "Metall tayoqcha va nam qul bilan",
-        "Quruq yog'och yoki plastmassa buyum",
-        "Nam arqon va rezinali etik",
-        "Qo'l bilan ushlab olish va suv sepish"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 103,
-      "question": "Elektr xavfsizligi belgilari qanday rangda bo'ladi.",
-      "options": [
-        "Qizil , sariq rangda",
-        "Yashil, sariq rangda",
-        "Ko'k , qizilrangda",
-        "Oq, ko'k,sariq rangda"
-      ],
+      "question": "Inson faoliyati natijasida paydo bo’ladigan ekosistemalar nima deb yuritiladi?",
+      "options": ["Geosistema", "Agrotsenoz", "Biotsenoz", "Agroekosistema"],
       "correctAnswer": 3
     },
     {
+      "id": 102,
+      "question": "Modda va energiyani iste'mol qilish jarayoni ….. deyiladi.",
+      "options": ["Ovqatlanish", "Katabolizm", "Anabolizm", "Metabolizm"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 103,
+      "question": "Fotosintez jarayonida quyidagilar hosil bo’ladi:",
+      "options": ["Uglevodlar va kislorod", "Aminokislotalar va kislorod", "Uglevodlar va suv", "Aminokislotalar va suv"],
+      "correctAnswer": 0
+    },
+    {
       "id": 104,
-      "question": "Elektr asboblarining metall qismi yerga ulanmasa, nima sodir bo'lishi mumkin.",
-      "options": [
-        "Insonni tok urish xavfi oshadi",
-        "Hech narsa bo'lmaydi",
-        "Qurilma tezroq ishlaydi",
-        "Asbob haroratini pasaytiradi"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 105,
-      "question": "Ishlab chiqarishdagi baxtsiz hodisalar bilishining asosiy sababi nima.",
-      "options": [
-        "Mehnat xavfsizligi qoidalariga rioya qilinmasligi",
-        "Ishchilar tajribasining ortishi va yo'riqnomalar o'tkazilganligi",
-        "Ish joyining tozaligi, dam olishni to'g'ti tashkil etilganligi",
-        "Ish vaqtining qisqaligi, mehnat xavfsizligi qoidalariga rioya qilingnligi"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 106,
-      "question": "Kasb kasalliklari asosan qaysi omil natijasida kelib chiqadi.",
-      "options": [
-        "Ishchilar sonining ko'pligi",
-        "Ish joyidagi zararli omillar",
-        "Qisqa ish vaqti",
-        "Yomon kayfiyat"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 107,
-      "question": "Ish joyida xavfsizlik texnikasi qoidalarini buzish nimaga olib keladi.",
-      "options": [
-        "Ishchilarning mukofotlanishiga",
-        "Ish unumdorligining ortishiga",
-        "Jarohatlanish va baxtsiz hodisalarga",
-        "Ish sharoitining yaxshilanishiga"
-      ],
+      "question": "Muayyan hududda yashovchi turli xil tirik organizmlar (o'simliklar, hayvonlar va mikroorganizmlar) populyatsiyalari yig'indisi nima deb ataladi?",
+      "options": ["Biom", "Ekosistema", "Biotsenoz", "Populyatsiya"],
       "correctAnswer": 2
     },
     {
-      "id": 108,
-      "question": "Kasb kasalliklarini oldini olishning eng muhim yo'li nima.",
-      "options": [
-        "Sanitariya-gigiyena va texnika xavfsizligi qoidalariga amal qilish",
-        "Ish vaqtini qisqartirish, ishchilarning kasallanishi, texnika qoidalani bilmaslik, baland shovqinda ishlash",
-        "Ishchilarni almashtirib turish, haroratni ko'tarish, ishxonadagi ventilyasiya tizimini o'chirib qo'yish",
-        "Ish joyini tez-tez o'zgartirish, chang ko'p bo'lgan joylarda himoya vositasiz ishlash"
-      ],
+      "id": 105,
+      "question": "Ekologiyaning jamoalar tuzilishi energetikasi, dinamikasi, shakllanishi tashqi muhit bilan o’zaro aloqasini o’rganadigan bo’lim…. deyiladi.",
+      "options": ["Autekologiya", "Sinekologiya", "Demekologiya", "Eydekologiya"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 106,
+      "question": "Kim biogeotsenozlar haqidagi tasavvurni asoslab berdi?",
+      "options": ["V. N. Sukachev.", "K. Myobius.", "G. F. Morozov.", "A. F. Middendorf."],
       "correctAnswer": 0
+    },
+    {
+      "id": 107,
+      "question": "Biotsenozdagi ikkala organizm uchun keskin bo‘lgan munosabat?",
+      "options": ["Neytralizm.", "Raqobat.", "Parazitlik.", "Mutualizm."],
+      "correctAnswer": 1
+    },
+    {
+      "id": 108,
+      "question": "Biotsenoz egallagan joy qanday ataladi?",
+      "options": ["Ekotop", "Biotop", "Klimatatop", "Edafotop"],
+      "correctAnswer": 1
     },
     {
       "id": 109,
-      "question": "Ishlab chiqarishdagi texnik sabablarga nimalar kiradi.",
-      "options": [
-        "Qurilmalarning nosozligi, himoya vositalarining yo'qligi",
-        "Ish joyining bezatilmaganligi, xodimlarning yo'riqnoma bilan tanishganligi",
-        "Rahbarning kech kelishi, himoya vositalari bilan ishlash",
-        "Ishchilarning dam olmasligi, qurilmalarning sozligi, blakirovka qurilmasinig borligi"
-      ],
-      "correctAnswer": 0
+      "question": "Ozuqa zanjirining necha turi mavjud?",
+      "options": ["1", "3", "2", "4"],
+      "correctAnswer": 2
     },
     {
       "id": 110,
-      "question": "Psixologik sabablar deganda nimani tushunasiz.",
-      "options": [
-        "Ishchining diqqat-e'tiborining sustligi, charchoq, stress",
-        "Ishchilarning normal dam olishi, qurilma nosozligi",
-        "Ishda bosim bo'masligi, ish joyining yoritilishi",
-        "Oilaviy muhitning yaxshiligi, xavfsizlik belgilarining yo'qligi"
-      ],
-      "correctAnswer": 0
+      "question": "Organik moddalarni iste’mol qilib, mineral moddagacha parchalaydigan organizmlar guruhi qanday nomlanadi?",
+      "options": ["Konsumentlar", "Produtsentlar", "Redutsentlar", "Geterotroflar"],
+      "correctAnswer": 2
     },
     {
       "id": 111,
-      "question": "Topografik usulda",
-      "options": [
-        "baxtsiz hodisa sodir bo'lgan joy aniqlanadi. Buning hun xo'jalikniig (bo'lim, fermer xo'jaligi, brigada va boshq.) bosh rejasida baxtsiz hodisa sodir bo'lgan joy shartli belgi bilan belgilanadi",
-        "aniq ish joyi, uchastka, uskuna, mashina, mexanizm yoki texnologik jarayonda yuzaga kelgan xavfli yoki zararli ishlab chiqarish omillari tahlil qilinadi.",
-        "mehnat turlarining o'ziga xos tomonlari ergonomic omillarning (mashina, mexanizmning boshqarish organlarida zo'riqish, ishchining ish bajarayotgandagi holati va boshq.) mehnat xavfsizligiga ta'sir darajasi baholanadi.",
-        "ishlab chiqarishdagi jarohatlanishdan keltirilgan iqtisodiy zarar, shuningdek mehnat xavfsizligi chora-tadbirlariga sarflangan mablag'larning to'g'ri taqsimlanganligi baxtsiz hodisalarning oldini olishga ketgan xarajatlarning samaradorligi aniqlanadi."
-      ],
-      "correctAnswer": 0
+      "question": "Organizmlarga ta'sir qiluvchi jonsiz tabiatning tarkibiy qismlari qanday nomlanadi?",
+      "options": ["zoogen omillar;", "abiotik omillar;", "biotik omillar;", "antropogen omillar."],
+      "correctAnswer": 1
     },
     {
       "id": 112,
-      "question": "Monograftk usulda",
-      "options": [
-        "aniq ish joyi, uchastka, uskuna, mashina, mexanizm yoki texnologik jarayonda yuzaga kelgan xavfli yoki zararli ishlab chiqarish omillari tahlil qilinadi",
-        "mehnat turlarining o'ziga xos tomonlari ergonomic omillarning (mashina, mexanizmning boshqarish organlarida zo'riqish, ishchining ish bajarayotgandagi holati va boshq.) mehnat xavfsizligiga ta'sir darajasi baholanadi.",
-        "baxtsiz hodisa sodir bo'lgan joy aniqlanadi. Buning hun xo'jalikniig (bo'lim, fermer xo'jaligi, brigada va boshq.) bosh rejasida baxtsiz hodisa sodir bo'lgan joy shartli belgi bilan belgilanadi",
-        "ishlab chiqarishdagi jarohatlanishdan keltirilgan iqtisodiy zarar, shuningdek mehnat xavfsizligi chora-tadbirlariga sarflangan mablag'larning to'g'ri taqsimlanganligi baxtsiz hodisalarning oldini olishga ketgan xarajatlarning samaradorligi aniqlanadi."
-      ],
-      "correctAnswer": 0
+      "question": "Yashash muhitiga moslashish natijasida tananing tuzilishidagi o'zgarishlar … deyiladi.",
+      "options": ["biokimyoviy moslashuvlar;", "fiziologik moslashuvlar;", "morfologik moslashuvlar;", "etologik moslashuvlar."],
+      "correctAnswer": 2
     },
     {
       "id": 113,
-      "question": "Ergonomik usulda",
-      "options": [
-        "mehnat turlarining o'ziga xos tomonlari ergonomic omillarning (mashina, mexanizmning boshqarish organlarida zo'riqish, ishchining ish bajarayotgandagi holati va boshq.) mehnat xavfsizligiga ta'sir darajasi baholanadi",
-        "ishlab chiqarishdagi jarohatlanishdan keltirilgan iqtisodiy zarar, shuningdek mehnat xavfsizligi chora-tadbirlariga sarflangan mablag'larning to'g'ri taqsimlanganligi baxtsiz hodisalarning oldini olishga ketgan xarajatlarning samaradorligi aniqlanadi.",
-        "baxtsiz hodisa sodir bo'lgan joy aniqlanadi. Buning hun xo'jalikniig (bo'lim, fermer xo'jaligi, brigada va boshq.) bosh rejasida baxtsiz hodisa sodir bo'lgan joy shartli belgi bilan belgilanadi",
-        "aniq ish joyi, uchastka, uskuna, mashina, mexanizm yoki texnologik jarayonda yuzaga kelgan xavfli yoki zararli ishlab chiqarish omillari tahlil qilinadi"
-      ],
-      "correctAnswer": 0
+      "question": "Faqat yaxshi yorug'lik sharoitida o'sishi mumkin bo'lgan o'simliklarga ….. deyiladi.",
+      "options": ["fotofillar", "geliofitlar;", "sciofitlar;", "fakultativ geliofitlar;"],
+      "correctAnswer": 1
     },
     {
       "id": 114,
-      "question": "Iqtisodiy usulda",
-      "options": [
-        "ishlab chiqarishdagi jarohatlanishdan keltirilgan iqtisodiy zarar, shuningdek mehnat xavfsizligi chora-tadbirlariga sarflangan mablag'larning to'g'ri taqsimlanganligi baxtsiz hodisalarning oldini olishga ketgan xarajatlarning samaradorligi aniqlanadi",
-        "baxtsiz hodisa sodir bo'lgan joy aniqlanadi. Buning hun xo'jalikniig (bo'lim, fermer xo'jaligi, brigada va boshq.) bosh rejasida baxtsiz hodisa sodir bo'lgan joy shartli belgi bilan belgilanadi.",
-        "mehnat turlarining o'ziga xos tomonlari ergonomic omillarning (mashina, mexanizmning boshqarish organlarida zo'riqish, ishchining ish bajarayotgandagi holati va boshq.) mehnat xavfsizligiga ta'sir darajasi baholanadi",
-        "aniq ish joyi, uchastka, uskuna, mashina, mexanizm yoki texnologik jarayonda yuzaga kelgan xavfli yoki zararli ishlab chiqarish omillari tahlil qilinadi"
-      ],
-      "correctAnswer": 0
+      "question": "Turli xil tirik organizmlar (o'simliklar, hayvonlar va mikroorganizmlar) ma'lum bir hududda yashashiga nima deyiladi?",
+      "options": ["zootsenoz;", "fitotsenoz;", "biotsenoz;", "mikrobiotsenoz."],
+      "correctAnswer": 2
     },
     {
       "id": 115,
-      "question": "Baxtsiz hodisa",
-      "options": [
-        "Sog'lom turmush tarzi, zararli odatlardan foydalanmaslik, avariya, ishning to'g'ri tashkil etilganligi",
-        "Sog'lom ovqatlanish, N-1 shakldagi dalolatnoma, tabiiy ofatlar, vaqtida dam olish, ob –havo ta'siri",
-        "Turli tabiiy ofat, avariya va boshqa koʻngilsiz hodisalar oqibatida badanga shikast yetish, mayib boʻlish yoki oʻlish hollari",
-        "Tug'ri dam olish, ko'ngilsiz hodisalarning kuzatilishi"
-      ],
+      "question": "Maqsadli ravishda inson tomonidan yaratilgan jamoaning nomi … deyiladi.",
+      "options": ["biotsenoz;", "geobiosenoz;", "agrotsenoz.", "biosfera;"],
       "correctAnswer": 2
     },
     {
       "id": 116,
-      "question": "N-1 shaklidagi dalolatnomalar qachon to'ldiriladi",
-      "options": [
-        "Ishchi xodin tatilga chiqqanda",
-        "Ishchilar safarga yuborilganda",
-        "Ish jarayonida baxtsiz hodisa sodir bo'ganda",
-        "Ishchi xodim moosh olganda"
-      ],
-      "correctAnswer": 2
+      "question": "Atmosferadagi toza va quruq havoda necha foiz azot va necha foiz kislorod bo’ladi?",
+      "options": ["N2 - 80%, O2 - 19 %", "N2 - 78,1%, O2 - 21%", "N2 - 75%, O2 - 22 %", "N2 - 76 %, O2 - 20%"],
+      "correctAnswer": 1
     },
     {
       "id": 117,
-      "question": "Ishchilarga har xil zararli ta'sir qiladigan moddalardan muhofaza qiluvchi moddalar hamda moslamalar tayyorlash va qo'llash, havo almashtirish tizimlarini o'rnatish, eski turlarini qayta jihozlash, zamonaviy ishlab chiqarish jihoz-dastgohlardan foydalanish, havo haroratini, tarkibini kuzatadigan asboblarni o'matish",
-      "options": [
-        "Kasb kasalliklarini kamaytiradigan chora-tadbirlar",
-        "Baxtsiz hodisalarning oldini olishga qaratilgan chora-tadbirlar",
-        "Ish sharoitini yaxshilashga qaratilgan chora-tadbirlar",
-        "Dam olishni tashkillashtirish"
-      ],
-      "correctAnswer": 0
+      "question": "Аtmosferadagi tutun, tuman va changli zaharli aralashmalar nima deb yuritiladi?",
+      "options": ["Kislotali yomg’ir", "Fotokimyoviy smog", "Issiqxona effekti", "Ozon tuynuklari"],
+      "correctAnswer": 1
     },
     {
       "id": 118,
-      "question": "Ish sharoitini yaxshilashning asosiy maqsadi nima.",
-      "options": [
-        "Ishchilar salomatligini saqlash",
-        "Ish vaqtini qisqartirish, himoya vositasisiz ishlash",
-        "Ishchilarni nazorat qilish, tibbiy ko'rikdan o'tishni to'xtatish",
-        "Ish haqlarini kamaytirish, texnika xavfsizligi o'odalarini o'rgatish"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 119,
-      "question": "Favqulodda vaziyat deganda nima tushuniladi.",
-      "options": [
-        "Texnika xavfsizligi qoidasinihg ishchilarga tushuntirish va o'rgatish",
-        "Oddiy ishlab chiqarish jarayoni atrof-muhitga zarar yetkazmaydigan holat",
-        "Odamlar hayoti, sog'lig'i yoki atrof-muhitga zarar yetkazuvchi holat",
-        "Odamlar uchun qulay sharoit yaratish ish unumdorligini oshishi"
-      ],
+      "question": "Atmosfera havosining kimyoviy tarkibiga nimalar kiradi?",
+      "options": ["Karbonat angidrid, kislorod,", "Ozon ekrani, kislorod, vodorod", "Azot, kislorod, karbonat angidrid, inert gazlar oltingugurt", "Azot, vodorod, kislorod, oltingugurt oksidi"],
       "correctAnswer": 2
     },
     {
-      "id": 120,
-      "question": "Tabiiy xususiyatli favqulodda vaziyatlarga quyidagilardan qaysi biri kiradi.",
-      "options": ["Zilzila", "Yong'in", "Kimyoviy avariya", "Transport halokati"],
+      "id": 119,
+      "question": "1992-yil 9-dekabrda O’zbekiston Respublikasi Oliy Majlisi tomonidan qanday qonun qabul qilingan?",
+      "options": ["Tabiatni muhofaza qilish to’g‘risidagi qonun", "Yer resurslarini muhofaza qilish to’g‘risidagi qonun", "Suv resurslarini muhofaza qilish to’g‘risidagi qonun", "Atmosferani muhofaza qilish to’g‘risidagi qonun"],
       "correctAnswer": 0
+    },
+    {
+      "id": 120,
+      "question": "Biosfera ta‘limotining asoschisi kim?",
+      "options": ["S.I.Vavilov", "V.I.Vernadskiy", "K.A.Timiryazev", "V.L.Sukachev"],
+      "correctAnswer": 1
     },
     {
       "id": 121,
-      "question": "Quyidagilardan qaysi biri texnogen favqulodda vaziyatga misol bo'ladi.",
-      "options": [
-        "Neft quvurining portlashi",
-        "Vulkan otilishi",
-        "Sel oqimi",
-        "Qurg'oqchilik"
-      ],
-      "correctAnswer": 0
+      "question": "Biosferadagi tirik moddalarning umumiy massasi … deyiladi.",
+      "options": ["nabotot", "biomassa", "ekotizim", "tabiat"],
+      "correctAnswer": 1
     },
     {
       "id": 122,
-      "question": "Zilzila kuchi qaysi birlikda o'lchanadi.",
-      "options": [
-        "Rixhter shkalasi bo'yicha ball va magnituda",
-        "Ball va santimetrda",
-        "Termometr va luksametrda",
-        "Ampermetr va barametrda"
-      ],
-      "correctAnswer": 0
+      "question": "Biota bu - ….",
+      "options": ["Organizmlarning hayot faoliyati", "Barcha tirik organizmlar yig’indisi", "Tashqi muhit", "Atrof - muhit"],
+      "correctAnswer": 1
     },
     {
       "id": 123,
-      "question": "Radiatsion avariya deganda nima tushuniladi.",
-      "options": [
-        "Elektromagnit to'lqinlar bilan bog'liq avariya, suv toshqini hodisasi",
-        "Radioaktiv moddalarning atrof-muhitga tarqalish hodisasi",
-        "Yong'in, avtohalokat, shamol va dovul bo'lishi",
-        "Suv toshqini, qor ko'chish va metropolitendagi halokatlar"
-      ],
+      "question": "Biosferaning tarkibiy qismlari qaysi variantda to’g‘ri ko’rsatilgan?",
+      "options": ["tirik modda(biota)lar, oraliq modda, o’lik modda", "tirik modda(biota), biogen moddalar, o’lik moddalar, oraliq moddalar", "o’lik moddalar, oraliq moddalar", "oraliq moddalar, tirik moddalar"],
       "correctAnswer": 1
     },
     {
       "id": 124,
-      "question": "Yong'in xavfi paytida birinchi navbatda nima qilinadi.",
-      "options": [
-        "Elektr tarmog'ini uzish va odamlarni evakuatsiya qilish",
-        "Derazalarni yopish, suv serish kerak",
-        "Telefon orqali101ga qo'ng'iroq qilish, sigatet chekish",
-        "Hujjatlarni yiqish va eshik derazani ochish kerak"
-      ],
-      "correctAnswer": 0
+      "question": "Biosfera mahsuldorligining kamayishiga qanday jarayonlar sabab bo’ladi?",
+      "options": ["Gidromelioratsiya ishlarini amalga oshirish", "Sanoat chiqindilari bilan muhitning ifloslanishi", "Oqova va sizot suvlari, shuningdek tuproqning turli mineral o’g‘itlar, kimyoviy moddalar, har xil zaharli moddalar bilan ifloslanishi", "Barchasi to’g‘ri"],
+      "correctAnswer": 3
     },
     {
       "id": 125,
-      "question": "Favqulodda vaziyatlar oqibatlarini bartaraf etuvchi davlat tizimi bu",
-      "options": [
-        "Ichki ishlar bo'limi",
-        "Davlat soliq qo'mitasi",
-        "Favqulodda vaziyatlar vazirligi",
-        "Ekologiya vazirligi"
-      ],
-      "correctAnswer": 2
+      "question": "Tabiiy resurslar – … dirlar.",
+      "options": ["insonlarning yashash vositalari bo’lib, ular inson mehnati bilan yaratilmagan, aksincha unga bog‘liq bo’lmagan holda ob‘yektiv ravishda mavjud", "insonlarning yashash vositalari bo’lib, ular inson mehnati bilan yaratilgan", "inson mehnati bilan yaratilmagan juda kam miqdorda mavjud;", "insonlarning yashash vositalari bo’lib, ob‘yektiv ravishda mavjud"],
+      "correctAnswer": 0
     },
     {
       "id": 126,
-      "question": "FVlar natijasida 10 dan ortiq bo'lmagan odam jabrlangan, moddiy zarar eng kam oylik ish haqi miqdorining 1 ming baravaridan ortiq bo'lmaganni tashkil etadigan hamda FV zonasi ishlab chiqarish ob'еkti yoki ijtimoiy maqsadli ob'еkt hududi tashqarisiga chiqmaydigan FV.",
-      "options": ["Lokal", "Mahalliy", "Respublika", "Transchegaraviy"],
-      "correctAnswer": 0
+      "question": "Atmosfera hajmini eng ko’p tashkil etuvchi gaz qaysi variantda to’g‘ri ko’rsatilgan?",
+      "options": ["Geliy", "Kislorod", "Argon", "Azot"],
+      "correctAnswer": 3
     },
     {
       "id": 127,
-      "question": "FVlar natijasida 10 dan ortiq, biroq 500 dan ko'p bo'lmagan odam jabrlangan, moddiy zarar eng kam oylik ish haqi miqdorining 1 ming baravaridan ortiqni, biroq 0,5 million baravaridan ko'p emas, tashkil etadigan hamda FV zonasi aholi punkti, shahar, tuman, viloyat tashqarisiga chiqmaydigan FV.",
-      "options": ["Mahalliy", "Respublika", "Transchegaraviy", "Lokal"],
-      "correctAnswer": 0
+      "question": "Atmosfera qatlamlari qaysi variantda to’g‘ri ko’rsatilgan?",
+      "options": ["Troposfera, Stratosfera, Litosfera, Termosfera, Ekzosfera", "Ekzosfera, Gidrosfera, Troposfera, Stratosfera, Biosfera", "Termosfera, Ekzosfera, Gidrosfera, Troposfera, Stratosfera", "Troposfera, Stratosfera, Mezosfera, Termosfera, Ekzosfera"],
+      "correctAnswer": 3
     },
     {
       "id": 128,
-      "question": "FVlar natijasida 500 dan ortiq odam jabrlangan, moddiy zarar eng kam oylik ish haqi miqdorining 0,5 million baravaridan ortiqni tashkil etadigan hamda FV zonasi viloyat tashqarisiga chiqadigan FV",
-      "options": ["Respublika", "Mahalliy", "Transchegaraviy", "Lokal"],
-      "correctAnswer": 0
+      "question": "Ba‘zi hollarda termosfera va ekzosferalarni yuqori haroratli holda bo’lganliklari uchun … – deb ham ataladi.",
+      "options": ["Stratopauza", "Mezopauza", "Ionosfera", "Tropopauza"],
+      "correctAnswer": 2
     },
     {
       "id": 129,
-      "question": "FVlar oqibatlari mamlakat tashqarisiga chiqadigan, chеt elda yuz bеrgan va O'zbеkiston xududiga daxl qiladigan FV.",
-      "options": ["Transchegaraviy", "Respublika", "Mahalliy", "Lokal"],
+      "question": "… – antropogen ifloslanish deyiladi.",
+      "options": ["Atmosfera inson xo’jalik faoliyati ta‘sirida (sun‘iy) ifloslansa", "Atmosfera inson xo’jalik faoliyati ta‘sirida (sun‘iy) ifloslanmasa", "Atmosfera insonning aralashuvisiz (tabiiy) ifloslansa", "Atmosfera antitsiklonlarning harakati ta‘sirida (tabiiy) ifloslansa"],
       "correctAnswer": 0
     },
     {
       "id": 130,
-      "question": "Favqulodda vaziyatlar tavsifiga ko'ra (sababi va kelib chiqish manbaiga ko'ra)",
-      "options": [
-        "Tabiiy tusdagi FV. Texnogen tusdagi FV. Ekologik tusdagi FV",
-        "Tabiiy, zilzila , ko'chki, o'pirilish, ekologik tusdagi FV",
-        "Texnogen, transport avariyalari, yong'in, ekologik tusdagi FV",
-        "Ekologik, qurg'oqchilik, cho'llanish ,tabiiy tusdagi FV, texnogen tusdagi FV"
-      ],
+      "question": "Ozon qatlamining yemiruvchi moddalar qaysi variantda to’g‘ri ko’rsatilgan?",
+      "options": ["Tarkibida xlor, ftor, brom, uglerod va vodorod bo’lgan kimyoviy moddalar", "Tarkibida xlor, ftor, brom, uglerod va vodorod kabi kimyoviy unsurlar bo’lmagan moddalar", "Qishloq xo’jalidan chiqayotgan chiqindilar", "Sanoat korxonalaridan chiqayotgan chiqindilar"],
       "correctAnswer": 0
     },
     {
       "id": 131,
-      "question": "Geologik xavfli hodisalar, gidrometeorologik xavfli hodisalar, favqulodda epidemiologik, epizootik va epifitotik vaziyatlar qanaqa FV turiga kiradi",
-      "options": ["Tabiiy", "Texnogen", "Ekologik", "Gidrometerologik"],
-      "correctAnswer": 2
-    },
-    {
-      "id": 132,
-      "question": "Yer osti zarbasi va yer ustki qatlamining tebranishi bo'lib, tabiiy ofatlar, texnologik jarayonlar tufayli yuzaga keladi",
-      "options": ["Yong'in", "Yer silkinishi", "Avariya", "Aviohalokat"],
-      "correctAnswer": 1
-    },
-    {
-      "id": 133,
-      "question": "Yer silkinishi yuzaga kelish sabablariga ko'ra qanday guruhlarga bo'linadi",
-      "options": [
-        "Tektonik ,Vulqon, Ag'darilish, o'pirilish zilzilalari",
-        "Tektonik, epidemiologik, epizotik",
-        "Vulqon, avariya, halokat",
-        "Ag'darilish, zoonoz, qurg'oqchilik"
-      ],
+      "question": "Ultrabinafsha to’lqinlarinig … masofada joylashgan qismi UB-A deb nomlanadi.",
+      "options": ["400 dan 320 mm gacha", "450 dan 360 mm gacha", "500 dan 420 mm gacha", "600 dan 800 mm gacha"],
       "correctAnswer": 0
     },
     {
+      "id": 132,
+      "question": "UB-A odamga, ayniqsa o’sish paytida, zarur, chunki u immunitetni oshiradi, … hosil bo’lishida yordam beradi va shu bilan birga raxit kasalligining oldini oladi.",
+      "options": ["A vitamini", "B vitamini", "E vitamini", "D vitamini"],
+      "correctAnswer": 3
+    },
+    {
+      "id": 133,
+      "question": "Tirik organizmlarni yoq qiluvchi nurlanish qaysi variantda to’g‘ri ko’rsatilgan?",
+      "options": ["UB-A", "UB-A va UB-C", "UB-B", "Bunday nurlanish mavjud emas."],
+      "correctAnswer": 1
+    },
+    {
       "id": 134,
-      "question": "Zilzila kuchi qanaqa oichov birligida oichanadi",
-      "options": [
-        "Ballarda.Magnitudada",
-        "Gers, Barometr",
-        "Aktinometr, termometr",
-        "Shumometr, ballarda"
-      ],
+      "question": "Eng yuksak energetik xususiyatga ega bo’lgan nurlanish qaysi variantda to’g‘ri ko’rsatilgan?",
+      "options": ["UB-C", "UB-A va UB-C", "UB-A va UB-B", "Bunday nurlanish mavjud emas."],
       "correctAnswer": 0
     },
     {
       "id": 135,
-      "question": "Zilzila kuchi necha xil oichov birligida oichanadi",
-      "options": ["3", "2", "1", "4"],
-      "correctAnswer": 1
+      "question": "Qattiq, suyuq va gazsimon chiqindi moddalar havoning tabiiy tarkibini o’zgartirib yuborishi - … deyiladi.",
+      "options": ["Atmosferaning ifloslanishi", "Litosferaning ifloslanishi", "Biosferaning ifloslanishi", "Gidrosferaning ifloslanishi"],
+      "correctAnswer": 0
     },
     {
       "id": 136,
-      "question": "alohida xavfli infeksiyalarga tegishli bo'lmagan, yuqish manbai bitta yoki yuqish omili bir xil bo'lgan odamlarning guruh bo'lib yuqumli kasallanishi, bir aholi punktida — 50 kishi va undan ortiq",
-      "options": [
-        "Epidemiya",
-        "o'rta kasallanish, evakuasiya",
-        "og'ir kasallanish",
-        "engil kasallanish"
-      ],
+      "question": "Ozon qatlamining yemirilish sabablari:",
+      "options": ["Xlorftormetan (freonlar) birikmalar", "Ultrabinafsha nurlar", "Zavod va fabrikalardan chiqadigan uglerod oksidlar", "Avtotransportlardan chiqadigan gazlar"],
       "correctAnswer": 0
     },
     {
       "id": 137,
-      "question": "hayvonlarning ommaviy kasallanishi yoki nobud bo'lishi;",
-      "options": ["epidemiya", "Epizootiya", "epifitotiya", "pandemiya"],
-      "correctAnswer": 1
+      "question": "Quyidagilardan qaysilari “Kislotali yomg’irlar”ga sabab bo’ladi?",
+      "options": ["SO3, CH4, H2O", "H2O, CH4, CO2", "P2O5, NH3", "N2O, SO2, SO3"],
+      "correctAnswer": 3
     },
     {
       "id": 138,
-      "question": "o'simliklarning ommaviy nobud bo'lishi.",
-      "options": ["epifitotiya", "pandemiya", "epidemiya", "epizootiya"],
-      "correctAnswer": 0
+      "question": "Biosfera moddalari to’g’ri keltirilgan qatorni ko’rsating.",
+      "options": ["Produtsent, konsument, redutsent", "Radioaktiv, kimyoviy, biologik", "Tirík, o’lik, oraliq, biogen", "Biogen, oraliq, kimyoviy"],
+      "correctAnswer": 2
     },
     {
       "id": 139,
-      "question": "Yonuvchi moddaning havo kislorodi yoki boshqa oksidlovchi modda bilan oksidlanishining tez kechadigan kimyoviy reaksiyasi bo'lib, bunda yorug'lik va issiqlik ajraladi.",
-      "options": ["Kasallik", "Favqulotda vaziyat", "Yonish", "Texnogen hodisa"],
+      "question": "Biosferada tirik moddalarning yuzaga kelishi bilan atmosfera, suv va mineral moddalarning aylanishiga nima deyiladi?",
+      "options": ["Gazlar aylanishi", "Kichik biologik aylanish", "Biogeokimyoviy aylanish", "Geologik aylanish"],
       "correctAnswer": 2
     },
     {
       "id": 140,
-      "question": "Yong'in sodir bo'lishi uchun 3 omil kerak ular qaysilar",
-      "options": [
-        "Yonuvchi modda, uchqun, kislorod",
-        "Go'gurt, benzin, suv",
-        "Mato, chelak, belkurak",
-        "Lom ,ilgak, shlang"
-      ],
-      "correctAnswer": 0
+      "question": "Biosfera atamasini birinchi marta kim kiritgan?",
+      "options": ["V.I.Vernadskiy", "E.Zyuss", "V.Dokuchayev", "J.Lamark"],
+      "correctAnswer": 1
     },
     {
       "id": 141,
-      "question": "Yonishning turlari.",
-      "options": [
-        "Chaqnash, alangalanish, o'z-o'zidan alangalanish, o'z-o'zidan yonish",
-        "Yonish , charchash, bug'ilish, bostirish",
-        "Karbon II oksidi, o'z-o'zidan alangalanish",
-        "Azot,chaqnash , argon alangalanish, suyultirish"
-      ],
+      "question": "Yer yuzida tirik organizmlarning yig’indisi nima deb ataladi?",
+      "options": ["Biota", "Biotsenoz", "Biotop", "Biogeotsenoz"],
       "correctAnswer": 0
     },
     {
       "id": 142,
-      "question": "Sanoat korxonalari va omborlari yonish va portlash xavfi bo'yicha nechta toifalarga bo'linadi",
-      "options": ["4", "5", "6", "3"],
-      "correctAnswer": 1
+      "question": "Tugallanadigan tiklanmaydigan resurslarni ko’rsating.",
+      "options": ["Oltin, ko’mir, okean suvlari", "O’simlik, tuproq, neft", "Hayvonlar, suv, havo", "Yer osti qazilma boyliklari"],
+      "correctAnswer": 3
     },
     {
       "id": 143,
-      "question": "Yong'in haqida xabar berish uchun qaysi raqamga qo'ng'iroq qilinadi.",
-      "options": ["103", "112", "101", "102"],
-      "correctAnswer": 2
+      "question": "\"Issiqxona effekti\" va ozon qatlamining yo'q qilinishi ta'sir qiladi …",
+      "options": ["Rivojlangan davlarlar iqtisodiyotiga", "Rossiya va MDHga", "AQSh va Yevropaga", "Hamma davlatlarga"],
+      "correctAnswer": 3
     },
     {
       "id": 144,
-      "question": "Kukunli o't o'chirgichlar qaysi turdagi yong'inlarga qarshi ishlatiladi.",
-      "options": [
-        "Turli xil moddalarning yong'inlarida",
-        "Yog'och va qog'oz",
-        "Suyuq yonuvchilar",
-        "Gaz yong'inlarida"
-      ],
+      "question": "Ozon qatlamining asosiy qismi necha km balandlikda joylashgan?",
+      "options": ["20 – 25km balandlikda", "25 – 30km balandlikda", "35 – 40km balandlikda", "40 - 45 km balandlikda"],
       "correctAnswer": 0
     },
     {
       "id": 145,
-      "question": "Evakuatsiya vaqtida liftlardan foydalanish mumkinmi.",
-      "options": [
-        "Yo'q, qat'iyan taqiqlanadi",
-        "Ha, agar tez bo'lsa",
-        "Faqat yuqori qavatlarda",
-        "Yong'inchilar ruxsati bilan"
-      ],
-      "correctAnswer": 0
+      "question": "Yerdagi iqlimning isishi ……. bilan bog'liq.",
+      "options": ["Ozon ekrani bilan", "“Issiqxona effekti” bilan", "Smogning paydo bo’lishi bilan", "Chang - to’zonlar bilan"],
+      "correctAnswer": 1
     },
     {
       "id": 146,
-      "question": "Yong'in xavfsizligi to'g'risida O'RQ",
-      "options": [
-        "2000 yil 10may",
-        "2024 yil 10 avgust",
-        "2009 yil 24 iyn",
-        "2012 yil 3 noyabr"
-      ],
-      "correctAnswer": 2
+      "question": "Katta geologik aylanma quyidagilarni o'z ichiga oladi:",
+      "options": ["Azotning aylanishi", "Fosforning aylanishi", "Kislorodning aylanishi", "Suvning aylanishi"],
+      "correctAnswer": 3
     },
     {
       "id": 147,
-      "question": "Yong'inni o'chirish usullari",
-      "options": [
-        "Sovutish, suyultirish, izolyatsiya, bostirish",
-        "Suv, benzin, gugurt, sovutish, bostirish",
-        "Izolyasiya, taxta, paxta, suyultirish, dimlash",
-        "Bostirish, olov, uchqun, izolyasiya qilish"
-      ],
-      "correctAnswer": 0
+      "question": "Oqim bilan asosan passiv harakatlanadigan suv organizmlari nima deyiladi?",
+      "options": ["Bentos", "Plankton", "Nekton", "Neyston"],
+      "correctAnswer": 1
     },
     {
       "id": 148,
-      "question": "Yong'in o'chirish moslamalari",
-      "options": [
-        "Texnik vositalar, mobil vositalar, birlamchi vositalar",
-        "Suv, bug' olov vositalar, birlamchi vositalar, gugurt",
-        "Gugurt, havo mashina , texnik vositalar, benzin",
-        "Qum, suv, kerasin, birlamchi vositalar, mato, chelak"
-      ],
+      "question": "Dunyoda o‘simIik va hayvon turlari xilma-xilligini ko‘rsating?",
+      "options": ["O‘simliklar 500 ming, hayvonlar 2 mln", "O‘simliklar 550 ming, hayvonlar 1, 6 mln", "O‘simliklar 700 ming, hayvonlar 1, 7 mln", "O‘simliklar 1 mln., hayvonlar 2 mln"],
       "correctAnswer": 0
     },
     {
       "id": 149,
-      "question": "Yong'in xavfsizligini ta'minlashning asosiy tizimlari.",
-      "options": [
-        "yong'inning oldini olish tizimi, yong'inga qarshi muhofaza tizimi",
-        "olov , yog', yong'inga qarshi muhofaza tizimi",
-        "gugurt, suv, yong'inning oldini olish tizimi",
-        "chang, tashkiliy – texnik tadbirlar tizimi mato mashina, gugurt, yong'inni oldini olish tizimi"
-      ],
+      "question": "\"Biosfera\" atamasi birinchi marta 1875 yilda qo'llagan olim kim?",
+      "options": ["E.Zyuss", "J.Lamark", "T.Maltus", "L.Paster"],
       "correctAnswer": 0
     },
     {
       "id": 150,
-      "question": "Yong`inni o'chirishning asosiy vositalari",
-      "options": [
-        "yong`inga o`t o`chirgich moddalarni (suv, ko`pik, kukun, karbonat angidrid gazi va boshq.) sepish uchun belgilangan. Bularga avtomobil, avtosisterna, motopompa, o`t o`chirgichlar",
-        "yong`inni o`chirishda maxsus ishlarni bajarish uchun ishlatiladigan moslamalar . Ularga avtonarvonlar va tirsakli ko`targichlar, yoritish va aloqa avtomobillari, shuningdek operativ avtomobillar",
-        "mashina ,suv gugurt, uchqun, yoritish va aloqa avtomobillari, shuningdek operativ avtomobillar",
-        "yong`inni o`chirishdagi ishlarni bajarish uchun yetarli sharoit yaratadi. Bularga avtosuv quygichlar, yuk avtomobillari, avtobuslar, traktor va boshqa mashinalar"
-      ],
-      "correctAnswer": 0
+      "question": "Chang inson umrini qisqartiradi degan fikr muallifi ?",
+      "options": ["Arastu", "Gippokrat", "Ibn sino", "Teofrast"],
+      "correctAnswer": 2
     },
     {
       "id": 151,
-      "question": "Yong'inni o'chirishning maxsus vositalari",
-      "options": [
-        "yong`inni o`chirishda maxsus ishlarni bajarish uchun ishlatiladi. Ularga avtonarvonlar va tirsakli ko`targichlar, yoritish va aloqa avtomobillari, shuningdek operativ avtomobillar",
-        "benzin, moy, suv yong`inni o`chirishdagi ishlarni bajarish uchun yetarli sharoit yaratadi,ularga avtosuv quygichlar kiradi",
-        "mashina ,suv gugurt, uchqun yuk avtomobillari, avtobuslar, traktor va boshqa mashinalar",
-        "yong`inni o`chirishdagi ishlarni bajarish uchun yetarli sharoit yaratadi. Bularga avtosuv quygichlar, yuk avtomobillari, avtobuslar, traktor va boshqa mashinalar"
-      ],
+      "question": "Fotosintez jarayonida hosil bo'ladi …",
+      "options": ["kislorod va uglevodlar;", "karbonat angidrid va xlorofill;", "suv va uglevodlar;", "kislorod va aminokislotalar"],
       "correctAnswer": 0
     },
     {
       "id": 152,
-      "question": "Yonuvch gazlar bilan bug'larning xavo bilan aralashmay yong'n sodir bo'lishi",
-      "options": [
-        "Kenitik yonish",
-        "Duffuz yonish",
-        "Yong'in sodit bo'lmasligi",
-        "Suv bilan yonish"
-      ],
-      "correctAnswer": 1
+      "question": "Sinekologiya ..… ni o'rganadi.",
+      "options": ["jamoalar ekologiyasi.", "mikroorganizmlar ekologiyasi;", "yerdagi global jarayonlar;", "turlarning ekologiyasi;"],
+      "correctAnswer": 0
     },
     {
       "id": 153,
-      "question": "Yonuvch gazlar bilan bug'larning xavo bilan aralashgandan keyin yong'n sodir bo'lishi",
-      "options": [
-        "Kenetik yonish",
-        "Duffuz yonish",
-        "Suv bilan yonish",
-        "Yong'in sodit bo'lmasligi"
-      ],
-      "correctAnswer": 0
+      "question": "Quruqlikning umumiy maydoni … tashkil qiladi?",
+      "options": ["178000 mln.ga ni", "159000 mln.ga ni", "168000 mln.ga ni", "148000 mln.ga ni"],
+      "correctAnswer": 3
     },
     {
       "id": 154,
-      "question": "Havo ta'sirida o'z-o'zidan yonuvchi moddalar",
-      "options": [
-        "O'simlik va hayvon yog'lari , tosh va kulrang ko'mir",
-        "Karbit, aston, suv, kiyim kechaklar, metallar",
-        "Ohak , yog'och, metal, o'simlik yog'lari",
-        "Xlor, brom ,ftor, ohak , yog'och, metal"
-      ],
-      "correctAnswer": 0
+      "question": "Tuproq –deb nimaga aytiladi?",
+      "options": ["Yer yuzasining qattiq qatlamiga", "Yer yuzasining unumdor qatlamiga", "Yer yuzasining ustki qatlamiga", "Yer yuzasining ustki g‘ovak, unumdor qatlamiga"],
+      "correctAnswer": 3
     },
     {
       "id": 155,
-      "question": "O't o'chirishning asosiy maqsadi nima.",
-      "options": [
-        "Yong'inni to'xtatish va o'chirish",
-        "Yong'in sabablarini aniqlash",
-        "Yong'inni tezda yoyish",
-        "Yonuvchi moddalarni ko'paytirish"
-      ],
+      "question": "Tuproq … muhim rol o’ynaydi.",
+      "options": ["organizmlar uchun hayot muhiti, ozuqa manbai hisoblanadi, moddalarning kichik biologik va katta geologik aylanma harakatida", "organizmlar uchun hayot muhiti, katta geologik aylanma harakatida", "organizmlar uchun hayot muhiti, ozuqa manbai hisoblanadi, moddalarning kichik biologik aylanma harakatida", "organizmlar uchun katta geologik aylanma harakatida"],
       "correctAnswer": 0
     },
     {
       "id": 156,
-      "question": "Suv yordamida o't o'chirish asosan qaysi moddalar uchun samarali.",
-      "options": [
-        "Yog'och, qog'oz, mato",
-        "Neft mahsulotlari",
-        "Metall kukunlari",
-        "Elektr jihozlari"
-      ],
-      "correctAnswer": 0
+      "question": "Tuproqni biosferadagi bajaradigan faoliyatiga qarab organik hayot zanjirining eng muhim … – deb yuritsa bo’ladi.",
+      "options": ["ekotizim", "tsenoz", "landshaft", "xalqa"],
+      "correctAnswer": 3
     },
     {
       "id": 157,
-      "question": "Qaysi holatda suv bilan o't o'chirish man etiladi.",
-      "options": [
-        "Qog'oz yong'inida",
-        "Elektr tarmog'i ostida yong'in chiqqanda",
-        "Daraxt yong'inida",
-        "Plastmassa yonganida"
-      ],
-      "correctAnswer": 1
+      "question": "... eroziya deyiladi.",
+      "options": ["Yer yuzasi ustki unumdor qismining suv yuvib yoki shamol ta‘sirida uchirib olib ketilishi", "Yer yuzasi ustki unumdor qismining suv yuvib, shamol ta‘sirida uchirib olib ketilishi va atmosferani ifloslanishi", "Yer yuzasi ustki unumdor qismining shamol ta‘sirida uchirib olib ketilishi", "Yer yuzasi ustki unumdor qismining suv yuvib ketilishi"],
+      "correctAnswer": 0
     },
     {
       "id": 158,
-      "question": "Quruq kukunli o't o'chirgichlar asosan qaysi turdagi yong'inlarda ishlatiladi.",
-      "options": [
-        "Gaz va suyuqlik yong'inlarida",
-        "Tosh va yog'och yong'inida",
-        "Taxta elektr yong'inlarida",
-        "Suv bilan o'chirish mumkin bo'lganlarda"
-      ],
-      "correctAnswer": 0
+      "question": "Tuproqning shamol ta‘sirida eroziyaga uchrashishi ... deb ham ataladi.",
+      "options": ["melioratsiya", "deflyatsiya", "defolyatsiya", "rekultivatsiya"],
+      "correctAnswer": 1
     },
     {
       "id": 159,
-      "question": "Yon''inni o'chirishning fizik usuli nimalarga asoslanadi.",
-      "options": [
-        "Yonuvchi modda haroratini pasaytirish",
-        "Kimyoviy reaksiyani tezlashtirish",
-        "Havoni ko'paytirish",
-        "Yonishni kuchaytirish"
-      ],
-      "correctAnswer": 0
+      "question": "Tuproqni ifloslantiruvchi manbalar:",
+      "options": ["Sanoat korxonalari, maishiy chiqindilar, yerlami xaydash", "Qishloq xo‘jaligi, sanoat korxonalari, maishiy chiqindilar", "Maishiy chiqindilar, o‘simlik, xayvon qoldiqlari", "Neft mahsulotlari, biogen moddalar"],
+      "correctAnswer": 1
     },
     {
       "id": 160,
-      "question": "O't o'chirishning kimyoviy usuli nimani anglatadi.",
-      "options": [
-        "Yonuvchi moddaning havodan ajratilishi",
-        "Yonish reaksiyasini kimyoviy yo'l bilan to'xtatish",
-        "Yonuvchi modda haroratini oshirish",
-        "Kislorod miqdorini ko'paytirish"
-      ],
+      "question": "Tuproq eroziyasining turlari:",
+      "options": ["Deflyatsiya, normal, tezlashgan", "Suv, shamol, antropogen", "Antropogen, tezlashgan, shamol", "Suv, normal, deflyatsiya"],
       "correctAnswer": 1
     },
     {
       "id": 161,
-      "question": "Qaysi vosita elektr jihozlari yonganida eng xavfsiz hisoblanadi.",
-      "options": [
-        "CO₂ o't o'chirgich",
-        "Nam mato",
-        "Qum",
-        "Suv"
-      ],
-      "correctAnswer": 0
+      "question": "Tuproqni ifloslantiruvchi manbalar …",
+      "options": ["Maishiy chiqindilar, o‘simlik, xayvon qoldiqlari.", "Sanoat korxonalari, maishiy chiqindilar, yerlami xaydash.", "Qishloq xo‘jaligi, sanoat korxonalari, maishiy chiqindilar.", "Neft mahsulotlari, biogen moddalar."],
+      "correctAnswer": 2
     },
     {
       "id": 162,
-      "question": "Qum bilan o't o'chirishning asosiy printsipi nima.",
-      "options": [
-        "Yonish uchun havo kirishini to'sish",
-        "Yonuvchi moddani sovutish",
-        "Yonishni kuchaytirish",
-        "Kislorodni ko'paytirish"
-      ],
+      "question": "Yerning qaysi qismlari litosfera tarkibiga kiradi?",
+      "options": ["Yer po’stlog’i va mantiyaning ustki qismi", "Yer po’stlog’i, mantiya, yadro", "Mantiya va yadro", "Tuproq, yer po’stlog’i, mantiya"],
       "correctAnswer": 0
     },
     {
       "id": 163,
-      "question": "Yong'in chiqishiga eng ko'p sabab bo'ladigan omil qaysi.",
-      "options": [
-        "Elektr simlarining ishdan chiqishi",
-        "Issiqlik almashinuvi",
-        "Nam joyda saqlash",
-        "To'g'ri ishlatilgan elektr asboblari"
-      ],
-      "correctAnswer": 0
+      "question": "Yerdagi tirik organizmlar uchun birlamchi energiya manbai:",
+      "options": ["Elektr energiyasi", "Yer osti qazilmalari", "Quyosh radiatsiyasi", "Shamol energiyasi"],
+      "correctAnswer": 2
     },
     {
       "id": 164,
-      "question": "Taxikardiya nima?",
-      "options": [
-        "kon bosimining pasayishi",
-        "pulsning tezlashishi",
-        "pulsning pasayishi",
-        "kon bosimining oshishi"
-      ],
+      "question": "Yer yuzidagi eng katta ekotizimni ajrating?",
+      "options": ["Noosfera.", "Biosfera.", "Ekosfera.", "Litosfera."],
       "correctAnswer": 1
     },
     {
       "id": 165,
-      "question": "Bemorning shaxsiy gigienasiga kiradi..",
-      "options": [
-        "og'iz bo'shligi tozalash, qulog'ini tozalash, chumiltirish",
-        "tirnoklarini olish, chumiltirish",
-        "uy xavosini tozalash, toza xavoda bulish",
-        "uy xavosini tozalash, ovkatlantirish, chumiltirish"
-      ],
+      "question": "Biosferaning yangi sifat holati nima?",
+      "options": ["Noosfera.", "Litosfera.", "Troposfera.", "Ionosfera."],
       "correctAnswer": 0
     },
     {
       "id": 166,
-      "question": "Zaxarli moddalar organizmga qaysi yo'llar orqali kiradi?",
-      "options": [
-        "Barchasi to'g'ri",
-        "Nafas yullari orqali",
-        "Teri va shilik kavatlar orkali",
-        "ogiz orqali"
-      ],
+      "question": "Yer sharida o‘simliklarga boy tabiiy zona qaysi?",
+      "options": ["Nam ekvatorial o‘rmonlar zonasi", "Saxrolar zonasi", "Tayga zonasi", "Tundra zonasi"],
       "correctAnswer": 0
     },
     {
       "id": 167,
-      "question": "Spirometr nima uchun ishlatiladi?",
-      "options": [
-        "O'pkaning tiriklik sig'imini o'lchash uchun",
-        "Yurak urishini aniklash uchun",
-        "Pulsni ulchash uchun",
-        "qon bosimini aniklash uchun"
-      ],
-      "correctAnswer": 0
+      "question": "Suv o’simliklar tanasining necha foizini tashkil qiladi?",
+      "options": ["50% ini", "10-95% ini", "25-30 % ini", "40 -98% ini"],
+      "correctAnswer": 1
     },
     {
       "id": 168,
-      "question": "Zotiljam nima?",
-      "options": [
-        "Yuqori nafas yullarining yalliglanishi",
-        "Bronxning yalliglanishi",
-        "O'pkaning yallig'lanishi",
-        "Ichaklarning yalliglanishi"
-      ],
-      "correctAnswer": 2
+      "question": "Gidrosfera yer yuzining necha … % ini egallagan?",
+      "options": ["71%", "75-80%", "85%", "50%"],
+      "correctAnswer": 0
     },
     {
       "id": 169,
-      "question": "Gipoksiya nima?",
-      "options": [
-        "To'qimalarda kislorod yetishmasligiga",
-        "kon tarkibida gemoglabin kamayishi",
-        "kislorod mikdori kam bulgan gaz aralashmalaridan nafas yullari berkilib kolganda vujudga keladi.",
-        "arterial kon kislorod bilan etarlicha tuyinmagan"
-      ],
+      "question": "Eroziya nima?",
+      "options": ["Tuproqni suv va shamol ta’sirida yemirilishi", "Chorva mollari ta’sirida yemirilishi", "Tuproq strukturasining buzilishi", "Tuproqda ko’p miqdorda nam to’planishi"],
       "correctAnswer": 0
     },
     {
       "id": 170,
-      "question": "Gepatit qanday kasallik?",
-      "options": [
-        "Jigarning yallig'lanishi",
-        "Buyrakning yalliglanishi",
-        "Bronxlarning yalliglanishi",
-        "Ichaklarning yalliglanishi"
-      ],
-      "correctAnswer": 0
+      "question": "Yer qobig’ining suv qatlami nima deb ataladi?",
+      "options": ["Liosfera", "Gidrosfera", "Atmosfera", "Biosfera"],
+      "correctAnswer": 1
     },
     {
       "id": 171,
-      "question": "Jaroxatlangan odam necha litr qon yoqotgandan so'ng gemorragik shok xolatiga tushadi?",
-      "options": ["1,5 litr", "200 gramm", "4 litr", "5 litr"],
-      "correctAnswer": 0
+      "question": "Оqova suvlar qanday yo’llar bilan tozalanadi?",
+      "options": ["Fizik, mexanik", "Mexanik, kimyoviy, biologik", "Mexanik, biologik", "Filtrlash, tindirish, xlorlash"],
+      "correctAnswer": 1
     },
     {
       "id": 172,
-      "question": "Tinchlantiruvchi dorilarga kiradi..",
-      "options": ["Dibazol", "Valeriana, validol", "Analgin", "ampitsillin"],
+      "question": "O’simliklar tabiiy resurslaning qaysi kategoriyasiga kiradi?",
+      "options": ["Tugallanmaydigan", "Tugallanadigan tiklanadigan", "Tugallanadigan tiklanmaydigan", "Qayta tiklanmaydigan"],
       "correctAnswer": 1
     },
     {
       "id": 173,
-      "question": "Sinishlar qachon kelib chiqadi?",
-      "options": [
-        "Mexanik kuchlar ta'sirida",
-        "Buralishdan",
-        "Cho'zilishdan",
-        "Ko'p yurish"
-      ],
-      "correctAnswer": 0
+      "question": "Yer yuzidagi tuproq qatlamining asosini ... tashkil etadi.",
+      "options": ["Gidrosfera", "Litosfera", "Biosfera", "Noosfera"],
+      "correctAnswer": 1
     },
     {
       "id": 174,
-      "question": "Kuyishning kengligini aniqlash uchun qaysi usul ko'proq ishlatiladi?",
-      "options": [
-        "To'qqizlik qoidasi",
-        "Orientir usuli",
-        "Postnikov usuli",
-        "Pavlov usuli"
-      ],
-      "correctAnswer": 0
+      "question": "Yer po’stining qalinligi qancha?",
+      "options": ["3 - 70 km gacha", "5 - 80 km gacha", "4 - 80 km gacha", "2-50 km gacha"],
+      "correctAnswer": 1
     },
     {
       "id": 175,
-      "question": "Lat eyishda birinchi yordam nima?",
-      "options": [
-        "Muzli xaltacha qo'yish",
-        "Og'riqsizlantiruvchi dori ichirish",
-        "Bintlash",
-        "Grelka kuyish"
-      ],
-      "correctAnswer": 0
+      "question": "Ekologik vaziyat deganda…. tushuniladi.",
+      "options": ["Tabiatga, uning tarkibiy komponentlariga sanoat va qishloq xo’jaligini ta’siri desa ham bo’ladi.", "Insonning tabiatga salbiy va ijobiy ta’sirlari yig’indisi tushuniladi.", "Tirik organizmlar va inson uchun mahaliy va mintaqaviy darajada qulay yoki noqulay ekologik sharoitlar yig’indisi yoki ekologik komponentlarning ma’lum hudud va vaqtdagi holati.", "Hayvonotga bo’lgan barcha to’g’ri va noto’g’ri munosabatini aytish mumkin."],
+      "correctAnswer": 2
     },
     {
       "id": 176,
-      "question": "Jgut qachon ishlatiladi?",
-      "options": [
-        "Katta qon-tomirlardan qon ketganda",
-        "Kapillyarlardan qon ketganda",
-        "Ichki organlardan qon ketganda",
-        "Qon to'xtaganda"
-      ],
-      "correctAnswer": 0
+      "question": "Ekologik muammo nima?",
+      "options": ["Koinotni Yer sayyorasiga ta’siri.", "Tabiat bilan jamiyat o‘rtasidagi muvozanatning o‘zgarishi.", "Tabiatdagi o‘zgarishlar.", "Tabiatning insonga aks ta’siri."],
+      "correctAnswer": 1
     },
     {
       "id": 177,
-      "question": "Ko'p uchraydigan kuyish",
-      "options": ["Termik", "Kimyoviy", "Elektrik", "Nur"],
-      "correctAnswer": 0
+      "question": "Ekologik muammolarning xillarini ajrating?",
+      "options": ["Mahalliy, hayotiy, milliy.", "Mahalliy, mintaqaviy, umumbashariy.", "Siyosiy, global, mahalliy.", "Ijtimoiy, mintaqaviy, umumbashariy."],
+      "correctAnswer": 1
     },
     {
       "id": 178,
-      "question": "Karantin nima?",
-      "options": [
-        "Aloxidalash",
-        "Observatsiya qilish",
-        "O'choqqa kirish va chikishni ta'kiklash",
-        "Evakuatsiya kilish"
-      ],
+      "question": "Qishloq xo‘jaligida begona o‘tlarga qarshi ishlatiladigan modda nomini ayting?",
+      "options": ["Akaritsid.", "Fungitsid.", "Gerbitsid.", "Insektitsid."],
       "correctAnswer": 2
     },
     {
       "id": 179,
-      "question": "Pandemiya bu",
-      "options": [
-        "Bir davlat xududida tarkalishi",
-        "Yuqumli kasallikning dunyo bo'yicha tarqalishi",
-        "Bir oilada tarkalishi",
-        "Kasallik tarqalmasligi"
-      ],
-      "correctAnswer": 1
+      "question": "Ekologik tanglik deganda...",
+      "options": ["Jamiyatning ishlab chiqaruvchi kuchlari bilan ishlab chiqarish munosabatlarining nomuvofiqligi tushuniladi.", "Ma’lum mintaqada aholi sonining ortishi.", "Aholining yalpi nobud bo‘lishi tushuniladi.", "Noqulay iqtisodiy oqibatlarning kelib chiqishi tushuniladi."],
+      "correctAnswer": 0
     },
     {
       "id": 180,
-      "question": "Vabo kasalligining asosiy yuqish omillari nima?",
-      "options": ["Sut", "Suv", "Gusht", "Meva"],
+      "question": "Tugaydigan, tiklanadigan resurslarni ajrating?",
+      "options": ["Tuproq, suv, havo.", "O‘simlik va hayvonlar, tuproq", "Yerosti qazilmalari.", "Suv, havo, energiya."],
       "correctAnswer": 1
     },
     {
       "id": 181,
-      "question": "Grippning yuqish mexanizmi",
-      "options": [
-        "Xavo-tomchi yo'li",
-        "Transmissiv",
-        "Kontakt yuli",
-        "ogiz, najas"
-      ],
-      "correctAnswer": 0
+      "question": "Asosiy issiqxona effektini paydo bo‘lishiga sababchi gazlar qaysilar?",
+      "options": ["Karbonat angidrid, oltingugurt (II) oksidi, azot (IV) oksidi.", "Karbonat angidrid, metan, azot (Il)oksidi.", "Oltingugurt (IV) oksidi, kislorod, azot (IV) oksidi.", "Oltingugurt (II) oksidi, is gazi, karbonat angidrid."],
+      "correctAnswer": 1
     },
     {
       "id": 182,
-      "question": "Tana harorati ko'tarilganda birinchi yordam nima?",
-      "options": [
-        "Sovuq kompress, badanni spirt yoki aroq bilan ishkalash,ko'p suyuqlik ichirish",
-        "Oshqozonni yuvish, kofe berish, ichakni tozalash, xamir ovqat berish, muzli xaltacha qo'yish",
-        "Issiq kompress qo'yish , ko'p suyuqlik ichirish, vanna qabul qilish",
-        "Oyoqqa issik grelka qo'yish, shkolat berish, sovuq suvda dush qabul qilish, o'ranib yotish"
-      ],
-      "correctAnswer": 0
+      "question": "Ozon qatlamining yemirilish sabablari …",
+      "options": ["Avtotransportlardan chiqadigan gazlar.", "Zavod va fabrikalardan chiqadigan uglerod oksidlar.", "Xlorftormetan (freonlar) birikmalar.", "Ultrabinafsha nurlar."],
+      "correctAnswer": 2
     },
     {
       "id": 183,
-      "question": "Sovuq olishning qaysi darajasida jarayon suyakgacha etib boradi?",
-      "options": [
-        "4- darajasida",
-        "3- darajasida",
-        "2- darajasida",
-        "3 va 4- darajasida"
-      ],
-      "correctAnswer": 3
+      "question": "O‘zbekiston Respublikasida “Tabiatni muhofaza qilish” haqidagi qonun qachon qabul qilindi?",
+      "options": ["1993-yil 9-dekabr.", "1992-yil 9-dekabr.", "1996-yil 9-dekabr.", "1996-yil 26-dekabr."],
+      "correctAnswer": 1
     },
     {
       "id": 184,
-      "question": "Kuyishning qaysi darajasida terining qizorishi va shishi xarakterli?",
-      "options": [
-        "1- darajasida",
-        "3- darajasida",
-        "2- darajasida",
-        "4- darajasida"
-      ],
-      "correctAnswer": 0
+      "question": "O‘zbekistonda suvlarni ifloslovchi asosiy tarmoqni ko‘rsating?",
+      "options": ["Kommunal-maishiy.", "Qishloq xo‘jaligi.", "Energetika.", "Sanoat."],
+      "correctAnswer": 1
     },
     {
       "id": 185,
-      "question": "Kuyishda nechta davr bor?",
-      "options": ["4 ta", "6 ta", "8 ta", "2 ta"],
-      "correctAnswer": 0
+      "question": "Muhitning sun’iy ifloslanishini to‘liq qatorini ko‘rsating.",
+      "options": ["Ultrabinafsha nurlar, radiatsiya.", "Fizik, kimyoviy, biologik, radiatsiya, shovqin.", "Kimyoviy, biologik, shovqin.", "Mexanik, biologik, tabiiy."],
+      "correctAnswer": 1
     },
     {
       "id": 186,
-      "question": "Qon ketishi turlaridan qaysi biri eng xavfli?",
-      "options": [
-        "Arterial qon ketishi",
-        "Venoz qon ketishi",
-        "Kapillyar qon ketishi",
-        "Aralash qon ketishi"
-      ],
+      "question": "O‘zbekistondagi ekologik markaz nomini ko‘rsating.",
+      "options": ["“Jayron”.", "Baday-to‘qay.", "Mingbuloq.", "Zarafshon."],
       "correctAnswer": 0
     },
     {
       "id": 187,
-      "question": "Dezinfeksiya nima?",
-      "options": [
-        "Mikroblarni zararsizlantirish",
-        "Viruslarni uldirish",
-        "Kemiruvchilarni yukotish",
-        "Hasharotlar yukotish"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 188,
-      "question": "2 -darajali kuyish belgilari..",
-      "options": [
-        "Teri qizoradi, pufakchalar paydo bo'ladi",
-        "Teri qizoradi, shishadi",
-        "Teri qizoradi, shishadi, pufakchalar paydo bo'ladi",
-        "Pufakchalar paydo buladi, teri pustlok xosil qiladi"
-      ],
+      "question": "«Parnik effekti» deganda nimani tushunasiz?",
+      "options": ["Havoda namligi ko‘payganini tushunamiz.", "Havoda bug‘ ko‘payib ketganini.", "Bunda CO gazi quyoshning qisqa to‘qinli nurlarini bemalol er yuzasiga o‘tqazib yuboradi va aksincha, er yuzasiga koinotga tarqaladigan uzun to‘lqinli nurlarni ushlab qoladi, natijada sayyoramiz yuzasidagi havoni o‘rtacha harorati ortib boradi.", "Har-xil gazlar bir joyda yig‘ilib qolganini tushunamiz."],
       "correctAnswer": 2
     },
     {
+      "id": 188,
+      "question": "«Smog» deganda nimani tushunasiz?",
+      "options": ["Namlik joylarda tuman paydo bo‘ladi,uni atrofida chang yig‘ilganining «smog» deyiladi.", "Iqlimning namligi tufayli atmosferadagi antropogen chang va gazlar ximiyaviy reaksiyaga kirishib, o‘ta zaxarlashadi va sarg‘ish achchiq tuman vujudga keladi buni «smog» deb ataladi.", "Qora bulutlarni.", "Tezdan tez yog‘in bo‘lganlikni."],
+      "correctAnswer": 1
+    },
+    {
       "id": 189,
-      "question": "Gipertoniya bu..",
-      "options": [
-        "oshib ketgan arterial bosim kasalligi",
-        "asab tizimi va tonusining buzilishi",
-        "pulsning tezlashuvi",
-        "yurak muskuli kiskarishining buzilishi"
-      ],
+      "question": "Ekologik muammo nima?",
+      "options": ["Insonning tabiatga sezilarli ta’sir ko’rsatishi va tabiatning insonga uning hayot sharoitlarga aks ta’siri bilan bog’liq hamma hodisalar", "Ikkita: ummumjahon va milliy ekologiya muammolar", "To’rtta: maxalliy, milliy mintaqaviy, global ekologik muammolar", "Uchta: milliy, mintaqaviy, global"],
       "correctAnswer": 0
     },
     {
       "id": 190,
-      "question": "Gipotoniya nima?",
-      "options": [
-        "asab tizimi va tonusining buzilishi",
-        "qon bosimining pasayishi",
-        "pulsning tezlashuvi",
-        "yurak muskuli kiskarishining buzilishi"
-      ],
-      "correctAnswer": 1
+      "question": "Global ekologik muammolarni ko’rsating:",
+      "options": ["Yer iqlimining o’zgarib borishi, kislotali yomg’irlar, cho’llashish", "O’simlik va hayvonot dunyosining kamayib borishi", "Orolning qurishi", "Madaniy yodgorliklarning emirilishi"],
+      "correctAnswer": 0
     },
     {
       "id": 191,
-      "question": "O'tkir zaxarlanishda birinchi tibbiy yordam..",
-      "options": [
-        "oshqozonni yuvish, klizma qilish",
-        "dimedrol, novokain ichirish",
-        "suyuk ovkat berish",
-        "nashatir spirti xidlatish, suv ichirish."
-      ],
+      "question": "Ekologik halokat nima?",
+      "options": ["Ekologik vaziyatni asl holiga qaytarib bo’lmaydigan darajada buzish.", "Ekologik vaziyatni qisman buzilganligi.", "Ekologik vaziyatni optimal holatga yaqinlashganligi.", "Insonning tabiatga salbiy va ijobiy ta’sirlari yig’indisi tushuniladi."],
       "correctAnswer": 0
     },
     {
       "id": 192,
-      "question": "Qon ketishni to'xtatish uchun qaysi dorilar ishlatiladi?",
-      "options": [
-        "ditsinon, vikasol",
-        "analgin, ditsinon",
-        "kalsiy xlor, validol",
-        "dibazol, vikasol"
-      ],
+      "question": "Ekologik vaziyat deganda:",
+      "options": ["Tirik organizmlar va inson uchun mahaliy va mintaqaviy darajada qulay yoki noqulay ekologik sharoitlar yig’indisi yoki ekologik komponentlarning ma’lum hudud va vaqtdagi holati.", "Insonning tabiatga salbiy va ijobiy ta’sirlari yig’indisi tushuniladi.", "Tabiatga, uning tarkibiy komponentlariga sanoat va qishloq xo’jaligini ta’siri desa ham bo’ladi.", "Hayvonotga bo’lgan barcha to’g’ri va noto’g’ri munosabatini aytish mumkin."],
       "correctAnswer": 0
     },
     {
       "id": 193,
-      "question": "Ammiak va fosfor bilan zaxarlanganda birinchi tez tibbiy yordam nima?",
-      "options": [
-        "oshkozonni yuvish, 4 % li soda eritmasini ichirish",
-        "kislorod berish va shifoxonaga yotkizish",
-        "oshkozonni yuvish, novokain ichirish",
-        "novokain ichirish"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 194,
-      "question": "Isitma 40 grad. va undan yuqori bo'lganda birinchi yordam nima?",
-      "options": [
-        "sovuq kompress qo'yish, badanni spirt bilan artish berish",
-        "kul-oyokka grelka kuyish, kofe ichirish",
-        "issik kompress kuyish, moy chechakli damlama ichirish",
-        "issik choy, kofe ichirish, nosh-pa"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 195,
-      "question": "Ximiyaviy modda ko'zga tushganda tez yordam..",
-      "options": [
-        "20-30 daqiqa ichida suv bilan yuvish, quruq boglam kuyish",
-        "toza bint bilan urab kuyish",
-        "darxol kasalxonaga yuborish",
-        "yotkizib kuyish, kuruk boglam kuyish"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 196,
-      "question": "Is gazi bilan zaxarlanganda birinchi yordam..",
-      "options": [
-        "Sovuq suv ichish, muzli suv ichish",
-        "toza xavo, sun'iy nafas berish, nashatir spiriti",
-        "toza xavo, oshqozonni yuvish, tomir ichiga glyukoza yuborish",
-        "til ostiga validol, nitroglitserin"
-      ],
+      "question": "Ekologik xavfsizlik- bu:",
+      "options": ["Ekologik vaziyatni............duchor bo’lganligi.", "Ekologik vaziyatning tabiiy muhit va inson salomatligiga xavf-xatarsiz bo’lgan holati", "Ekologik vaziyatning bir ko’rinishi.", "Ekologik vaziyatni beqarorlashgan holati."],
       "correctAnswer": 1
     },
     {
-      "id": 197,
-      "question": "Hushdan ketganda birinchi tibbiy yordam..",
-      "options": [
-        "nashatir spirtini xidlatish",
-        "shikastlangan kishining boshini pastga qilib qo'yish, oyoqlarini balandga qilib qo'yish",
-        "yuziga suv sepish, 20 % li 1 ml kofein eritmasi bilan in'eksiya qilish",
-        "oyoqga issik grelka qo'yish, teri ostiga kofein yuborish"
-      ],
-      "correctAnswer": 0
+      "id": 194,
+      "question": "Ekologik barqaror rivojlanish:",
+      "options": ["Ichki omillar ta’sirida ma’lum ekotizimning o’zini muhofaza qila olishi.", "Tashqi omillar ta’sirida ma’lum ekotizim(hudud)ning o’z tuzilmasi va faoliyatini saqlab qolish xususiyati.", "Ekotizimning salbiy ta’sir, o’zgarishlarga javob bera olishi.", "Ekotizim rivojini inson tomonida boshqarilishi."],
+      "correctAnswer": 1
     },
     {
-      "id": 198,
-      "question": "Birinchi tibbiy yordamning asosiy maqsadi",
-      "options": [
-        "jabrlanuvchining hayotini saqlab qolish, zarar etkazuvchi omilning doimiy ta'sirini bartaraf etish va uni zararlangan hududdan tezda evakuatsiya qilish",
-        "zararlangan hududda qoldirish",
-        "ko'chirish",
-        "jabrlanuvchining hayotini saqlab qolish"
-      ],
-      "correctAnswer": 0
+      "id": 195,
+      "question": "Mintaqaviy (regional) ekologik muammolarga ... misol bo‘la oladi.",
+      "options": ["Ishlab chiqarish korxonalarida vujudga keladigan ba’zi bir favqulodda vaziyatlar va hodisalar", "Orol dengizining qurib borishi, Arnasoy ko‘llari atrofidagi ekologik muammolar, Sarez ko‘li muammosi va boshqalar", "Giyohvand moddalar savdosi", "Ozon qatlamining siyraklanishi, “Atmosferaning dimiqishi”, chuchuk suv muammolari"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 196,
+      "question": "Demografik portlashning asosiy sababi:",
+      "options": ["Tug’ilishning ko’pligi.", "Xotin-qizlarni ko’payishi.", "Ovqatlanish va sanitariya gigiyena sharoitlarini yaxshilanishi.", "Sanoat inqilobi."],
+      "correctAnswer": 2
     }
   ]
 }
